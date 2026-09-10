@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 620" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#101a33"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4f7cff"/>
+      <stop offset="1" stop-color="#7b5cff"/>
+    </linearGradient>
+    <linearGradient id="data" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0e9f8a"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <linearGradient id="proof" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d97706"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <marker id="arr" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#8fa3d0"/>
+    </marker>
+  </defs>
+
+  <rect width="980" height="620" rx="18" fill="url(#bg)"/>
+  <text x="40" y="52" fill="#e8edff" font-size="26" font-weight="700">RATIS-Net — Architecture v2</text>
+  <text x="40" y="78" fill="#8fa3d0" font-size="14">Apprentissage par la loi LCT : ΔW = η·φ·P_sig·C — sans gradient descendant</text>
+
+  <!-- Entrée -->
+  <rect x="40" y="120" width="180" height="56" rx="12" fill="#1b2547" stroke="#3b4a7a"/>
+  <text x="130" y="144" fill="#e8edff" font-size="14" font-weight="600" text-anchor="middle">Requête</text>
+  <text x="130" y="163" fill="#8fa3d0" font-size="11" text-anchor="middle">FR / EN, question ou phrase</text>
+
+  <!-- query_analyzer -->
+  <rect x="280" y="110" width="200" height="76" rx="12" fill="url(#core)" opacity="0.92"/>
+  <text x="380" y="136" fill="#ffffff" font-size="14" font-weight="700" text-anchor="middle">query_analyzer</text>
+  <text x="380" y="155" fill="#dbe4ff" font-size="11" text-anchor="middle">langue · type de question</text>
+  <text x="380" y="171" fill="#dbe4ff" font-size="11" text-anchor="middle">mots-clés + composés</text>
+
+  <!-- intent_router -->
+  <rect x="540" y="110" width="200" height="76" rx="12" fill="url(#core)" opacity="0.92"/>
+  <text x="640" y="136" fill="#ffffff" font-size="14" font-weight="700" text-anchor="middle">intent_router</text>
+  <text x="640" y="155" fill="#dbe4ff" font-size="11" text-anchor="middle">social → conversation</text>
+  <text x="640" y="171" fill="#dbe4ff" font-size="11" text-anchor="middle">factuel → domaine + intention</text>
+
+  <!-- Branche sociale -->
+  <rect x="540" y="230" width="200" height="64" rx="12" fill="#1b2547" stroke="#22c55e"/>
+  <text x="640" y="254" fill="#a7f3d0" font-size="13" font-weight="600" text-anchor="middle">conversation_matrix</text>
+  <text x="640" y="273" fill="#7ddeb0" font-size="11" text-anchor="middle">24 000 formulations FR/EN</text>
+
+  <!-- Branche factuelle -->
+  <rect x="280" y="230" width="200" height="64" rx="12" fill="#1b2547" stroke="#4f7cff"/>
+  <text x="380" y="254" fill="#b9c9ff" font-size="13" font-weight="600" text-anchor="middle">dense_syntax_skeletons</text>
+  <text x="380" y="273" fill="#93a8e8" font-size="11" text-anchor="middle">13 000 gabarits · 18 domaines</text>
+
+  <!-- concept_ranker -->
+  <rect x="280" y="330" width="200" height="76" rx="12" fill="url(#core)" opacity="0.92"/>
+  <text x="380" y="356" fill="#ffffff" font-size="14" font-weight="700" text-anchor="middle">concept_ranker</text>
+  <text x="380" y="375" fill="#dbe4ff" font-size="11" text-anchor="middle">IDF de degré + voisinage partagé</text>
+  <text x="380" y="391" fill="#dbe4ff" font-size="11" text-anchor="middle">complément GloVe kNN</text>
+
+  <!-- skeleton_speaker_v2 -->
+  <rect x="540" y="330" width="200" height="76" rx="12" fill="url(#core)" opacity="0.92"/>
+  <text x="640" y="356" fill="#ffffff" font-size="14" font-weight="700" text-anchor="middle">skeleton_speaker_v2</text>
+  <text x="640" y="375" fill="#dbe4ff" font-size="11" text-anchor="middle">remplissage des slots {X}{Y}{Z}</text>
+  <text x="640" y="391" fill="#dbe4ff" font-size="11" text-anchor="middle">tonalité adaptée à l'intention</text>
+
+  <!-- Réponse -->
+  <rect x="780" y="300" width="160" height="64" rx="12" fill="#1b2547" stroke="#3b4a7a"/>
+  <text x="860" y="324" fill="#e8edff" font-size="14" font-weight="600" text-anchor="middle">Réponse</text>
+  <text x="860" y="343" fill="#8fa3d0" font-size="11" text-anchor="middle">phrase + paragraphe</text>
+
+  <!-- Flèches pipeline -->
+  <line x1="220" y1="148" x2="272" y2="148" stroke="#8fa3d0" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="480" y1="148" x2="532" y2="148" stroke="#8fa3d0" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="600" y1="186" x2="600" y2="222" stroke="#22c55e" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="600" y1="186" x2="420" y2="222" stroke="#4f7cff" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="380" y1="294" x2="380" y2="322" stroke="#8fa3d0" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="480" y1="368" x2="532" y2="368" stroke="#8fa3d0" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="640" y1="294" x2="640" y2="322" stroke="#22c55e" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="740" y1="368" x2="772" y2="345" stroke="#8fa3d0" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- Socle données -->
+  <rect x="40" y="440" width="900" height="140" rx="14" fill="#131c3a" stroke="#2a3a66"/>
+  <text x="60" y="468" fill="#8fa3d0" font-size="12" font-weight="600" letter-spacing="2">SOCLE APPRIS ET VALIDÉ</text>
+
+  <rect x="60" y="486" width="200" height="72" rx="10" fill="url(#data)" opacity="0.9"/>
+  <text x="160" y="512" fill="#041b15" font-size="13" font-weight="700" text-anchor="middle">Scalpel</text>
+  <text x="160" y="531" fill="#083b30" font-size="11" text-anchor="middle">3 782 801 neurones-corrélations</text>
+  <text x="160" y="547" fill="#083b30" font-size="11" text-anchor="middle">43,3 M renforcements LCT</text>
+
+  <rect x="285" y="486" width="200" height="72" rx="10" fill="url(#data)" opacity="0.75"/>
+  <text x="385" y="512" fill="#041b15" font-size="13" font-weight="700" text-anchor="middle">Knowledge packs</text>
+  <text x="385" y="531" fill="#083b30" font-size="11" text-anchor="middle">7 domaines · 45 entrées FR/EN</text>
+  <text x="385" y="547" fill="#083b30" font-size="11" text-anchor="middle">faits sourcés (NASA, NIST, OMS…)</text>
+
+  <rect x="510" y="486" width="200" height="72" rx="10" fill="url(#data)" opacity="0.6"/>
+  <text x="610" y="512" fill="#041b15" font-size="13" font-weight="700" text-anchor="middle">science_core</text>
+  <text x="610" y="531" fill="#083b30" font-size="11" text-anchor="middle">Vietoris-Rips GF(2) · P_sig</text>
+  <text x="610" y="547" fill="#083b30" font-size="11" text-anchor="middle">monotonie + invariance LCT</text>
+
+  <rect x="735" y="486" width="185" height="72" rx="10" fill="url(#proof)" opacity="0.9"/>
+  <text x="827" y="512" fill="#2b1603" font-size="13" font-weight="700" text-anchor="middle">integrity_proof</text>
+  <text x="827" y="531" fill="#42200a" font-size="11" text-anchor="middle">empreinte SHA-256 du sous-graphe</text>
+  <text x="827" y="547" fill="#42200a" font-size="11" text-anchor="middle">vérifiable · déterministe</text>
+
+  <line x1="380" y1="406" x2="160" y2="478" stroke="#22c55e" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#arr)"/>
+  <line x1="640" y1="406" x2="385" y2="478" stroke="#22c55e" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#arr)"/>
+  <line x1="640" y1="406" x2="610" y2="478" stroke="#22c55e" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#arr)"/>
+</svg>

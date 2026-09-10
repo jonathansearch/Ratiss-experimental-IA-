@@ -1,0 +1,8 @@
+{
+  "dim": 8,
+  "n_points": 40,
+  "max_edge": 2.5,
+  "backend": "cpu",
+  "created": 1787289098.216516,
+  "entries": 15122
+}

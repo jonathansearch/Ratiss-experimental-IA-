@@ -1,0 +1,138 @@
+{
+  "generations": {
+    "glouton": {
+      "happy": "haha you are funny and excitefull",
+      "angry": "you are dumb as fuck you",
+      "sad": "i'm not good but i'm not",
+      "others": "what is your name was amazing"
+    },
+    "auto-régressif": {
+      "happy": "haha you are funny and excitefull",
+      "angry": "you are dumb as fuck you",
+      "sad": "i'm not good but i'm not",
+      "others": "what is your name was amazing"
+    },
+    "beam": {
+      "happy": "wake all yay even person express",
+      "angry": "pussy only not done because you",
+      "sad": "he doesnt reply me so lonely",
+      "others": "masti ride with me somebody is"
+    }
+  },
+  "coherence": {
+    "glouton": {
+      "happy": {
+        "generated": "haha you are funny and excitefull",
+        "pred_vote": 0,
+        "pred_seq": 0,
+        "target": 1,
+        "coherent_vote": false,
+        "coherent_seq": false
+      },
+      "angry": {
+        "generated": "you are dumb as fuck you",
+        "pred_vote": 0,
+        "pred_seq": 0,
+        "target": 0,
+        "coherent_vote": true,
+        "coherent_seq": true
+      },
+      "sad": {
+        "generated": "i'm not good but i'm not",
+        "pred_vote": 0,
+        "pred_seq": 0,
+        "target": 0,
+        "coherent_vote": true,
+        "coherent_seq": true
+      },
+      "others": {
+        "generated": "what is your name was amazing",
+        "pred_vote": 2,
+        "pred_seq": 2,
+        "target": 2,
+        "coherent_vote": true,
+        "coherent_seq": true
+      }
+    },
+    "auto-régressif": {
+      "happy": {
+        "generated": "haha you are funny and excitefull",
+        "pred_vote": 0,
+        "pred_seq": 0,
+        "target": 1,
+        "coherent_vote": false,
+        "coherent_seq": false
+      },
+      "angry": {
+        "generated": "you are dumb as fuck you",
+        "pred_vote": 0,
+        "pred_seq": 0,
+        "target": 0,
+        "coherent_vote": true,
+        "coherent_seq": true
+      },
+      "sad": {
+        "generated": "i'm not good but i'm not",
+        "pred_vote": 0,
+        "pred_seq": 0,
+        "target": 0,
+        "coherent_vote": true,
+        "coherent_seq": true
+      },
+      "others": {
+        "generated": "what is your name was amazing",
+        "pred_vote": 2,
+        "pred_seq": 2,
+        "target": 2,
+        "coherent_vote": true,
+        "coherent_seq": true
+      }
+    },
+    "beam": {
+      "happy": {
+        "generated": "wake all yay even person express",
+        "pred_vote": 2,
+        "pred_seq": 0,
+        "target": 1,
+        "coherent_vote": false,
+        "coherent_seq": false
+      },
+      "angry": {
+        "generated": "pussy only not done because you",
+        "pred_vote": 0,
+        "pred_seq": 0,
+        "target": 0,
+        "coherent_vote": true,
+        "coherent_seq": true
+      },
+      "sad": {
+        "generated": "he doesnt reply me so lonely",
+        "pred_vote": 0,
+        "pred_seq": 0,
+        "target": 0,
+        "coherent_vote": true,
+        "coherent_seq": true
+      },
+      "others": {
+        "generated": "masti ride with me somebody is",
+        "pred_vote": 2,
+        "pred_seq": 2,
+        "target": 2,
+        "coherent_vote": true,
+        "coherent_seq": true
+      }
+    }
+  },
+  "n_coherent_vote": {
+    "glouton": 3,
+    "auto-régressif": 3,
+    "beam": 3
+  },
+  "n_coherent_seq": {
+    "glouton": 3,
+    "auto-régressif": 3,
+    "beam": 3
+  },
+  "acc_train": 0.8828677839851025,
+  "vocab_size": 1332
+}

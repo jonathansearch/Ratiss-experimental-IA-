@@ -1,0 +1,89 @@
+{
+  "demos": [
+    {
+      "message": "bonjour comment vas tu",
+      "context": "ThermoEnvironment",
+      "mcb_count": 120,
+      "thought_hash": "11fe3cbbbfacf779",
+      "c_seuil": 0.5468300310687262,
+      "emotion_perceived": "neutre",
+      "emotion_understood": "joie",
+      "confidence": 0.6474220974084145,
+      "response": "my my my my my my",
+      "response_hash": "5a58ec9cff0462be",
+      "certified": true
+    },
+    {
+      "message": "tu es vraiment stupide",
+      "context": "ThermoEnvironment",
+      "mcb_count": 113,
+      "thought_hash": "aa3ef559cb24f640",
+      "c_seuil": 0.42462339912370434,
+      "emotion_perceived": "neutre",
+      "emotion_understood": "colère",
+      "confidence": 0.8765946332249388,
+      "response": "you are not talk to me",
+      "response_hash": "566ea2ab555ff804",
+      "certified": true
+    },
+    {
+      "message": "je me sens seul et perdu",
+      "context": "ThermoEnvironment",
+      "mcb_count": 135,
+      "thought_hash": "304ee64bdfeeb1c1",
+      "c_seuil": 0.33026273491432145,
+      "emotion_perceived": "tristesse",
+      "emotion_understood": "colère",
+      "confidence": 0.9582299799089855,
+      "response": "you are not talk to me",
+      "response_hash": "6b4667610595f8d6",
+      "certified": true
+    },
+    {
+      "message": "quel temps fait il aujourd hui",
+      "context": "ThermoEnvironment",
+      "mcb_count": 115,
+      "thought_hash": "2423356f7e2b4e37",
+      "c_seuil": 0.5251629061863452,
+      "emotion_perceived": "neutre",
+      "emotion_understood": "neutre",
+      "confidence": 0.951381165919981,
+      "response": "why do you am not me",
+      "response_hash": "4f661c36908464a8",
+      "certified": true
+    },
+    {
+      "message": "merci beaucoup pour ton aide",
+      "context": "ThermoEnvironment",
+      "mcb_count": 122,
+      "thought_hash": "82bd237fad7dcaa4",
+      "c_seuil": 0.5461710636416166,
+      "emotion_perceived": "neutre",
+      "emotion_understood": "joie",
+      "confidence": 0.6905090932592135,
+      "response": "my my my my my my",
+      "response_hash": "5a58ec9cff0462be",
+      "certified": true
+    },
+    {
+      "message": "je deteste tout ca",
+      "context": "ThermoEnvironment",
+      "mcb_count": 128,
+      "thought_hash": "ae876ae1d108b8e3",
+      "c_seuil": 0.38877821677463753,
+      "emotion_perceived": "neutre",
+      "emotion_understood": "colère",
+      "confidence": 0.9093772142274525,
+      "response": "you are not talk to me",
+      "response_hash": "566ea2ab555ff804",
+      "certified": true
+    }
+  ],
+  "invariance": {
+    "same_thought": true,
+    "joy_hash": "ea8740fdecb8eb2d",
+    "anger_hash": "ea8740fdecb8eb2d",
+    "differential": 0.14178939288995596
+  },
+  "n_certified": 6
+}

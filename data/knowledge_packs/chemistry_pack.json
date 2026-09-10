@@ -1,0 +1,192 @@
+{
+ "schema": "ratis_knowledge_pack/v1",
+ "domain": "chemistry",
+ "generated_at": "2026-08-25",
+ "language": [
+  "fr",
+  "en"
+ ],
+ "purpose": "Notions de chimie fondamentales : atome, molécule, réaction, tableau périodique.",
+ "use_limits": "Faits de consensus; ne pas utiliser pour de la synthèse ou des dosages.",
+ "sources": [
+  {
+   "id": "iupac_goldbook",
+   "title": "IUPAC - Compendium of Chemical Terminology (Gold Book)",
+   "url": "https://goldbook.iupac.org/",
+   "accessed": "2026-08-25"
+  }
+ ],
+ "entries": [
+  {
+   "id": "c_001",
+   "r": "atom",
+   "rel": [
+    {
+     "t": "nucleus and electrons",
+     "k": "composed_of",
+     "c": "matter_unit",
+     "fr": "Un atome est la plus petite unité de matière conservant les propriétés d'un element chimique; il comprend un noyau entouré d'electrons.",
+     "en": "An atom is the smallest unit of matter retaining the properties of a chemical element; it comprises a nucleus surrounded by electrons.",
+     "src": [
+      "iupac_goldbook"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "atome"
+   ]
+  },
+  {
+   "id": "c_002",
+   "r": "molecule",
+   "rel": [
+    {
+     "t": "chemical bonds",
+     "k": "atoms_joined_by",
+     "c": "compound",
+     "fr": "Une molécule est un groupe d'atomes liés par des liaisons chimiques; l'eau en est un exemple avec deux atomes d'hydrogene et un atome d'oxygene.",
+     "en": "A molecule is a group of atoms joined by chemical bonds; water is an example with two hydrogen atoms and one oxygen atom.",
+     "src": [
+      "iupac_goldbook"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "molécule",
+    "molecule"
+   ]
+  },
+  {
+   "id": "c_003",
+   "r": "chemical reaction",
+   "rel": [
+    {
+     "t": "bonds rearranged",
+     "k": "transforms",
+     "c": "reactants_to_products",
+     "fr": "Une réaction chimique réarrange les liaisons entre atomes, transformant des réactifs en produits; la masse totale est conservée.",
+     "en": "A chemical reaction rearranges bonds between atoms, turning reactants into products; total mass is conserved.",
+     "src": [
+      "iupac_goldbook"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "réaction chimique",
+    "reaction chimique"
+   ]
+  },
+  {
+   "id": "c_004",
+   "r": "periodic table",
+   "rel": [
+    {
+     "t": "elements",
+     "k": "organizes",
+     "c": "by_atomic_number",
+     "fr": "Le tableau périodique organise les éléments par numéro atomique croissant; les colonnes regroupent des éléments aux propriétés chimiques semblables.",
+     "en": "The periodic table organizes elements by increasing atomic number; columns group elements with similar chemical properties.",
+     "src": [
+      "iupac_goldbook"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "tableau périodique",
+    "tableau periodique"
+   ]
+  },
+  {
+   "id": "c_005",
+   "r": "acid",
+   "rel": [
+    {
+     "t": "proton donor",
+     "k": "is_a",
+     "c": "bronsted_definition",
+     "fr": "Un acide est une espèce qui donne un proton a une base; une solution acide a un pH inférieur a 7.",
+     "en": "An acid is a species that donates a proton to a base; an acidic solution has a pH below 7.",
+     "src": [
+      "iupac_goldbook"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "acide"
+   ]
+  },
+  {
+   "id": "c_006",
+   "r": "catalyst",
+   "rel": [
+    {
+     "t": "reaction rate",
+     "k": "accelerates",
+     "c": "not_consumed",
+     "fr": "Un catalyseur accélère une réaction chimique sans etre consommé; les enzymes sont des catalyseurs biologiques.",
+     "en": "A catalyst speeds up a chemical reaction without being consumed; enzymes are biological catalysts.",
+     "src": [
+      "iupac_goldbook"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "catalyseur"
+   ]
+  },
+  {
+   "id": "c_007",
+   "r": "chemical bond",
+   "rel": [
+    {
+     "t": "electron sharing or transfer",
+     "k": "results_from",
+     "c": "covalent_ionic",
+     "fr": "Une liaison chimique résulte du partage ou du transfert d'electrons entre atomes; les deux types principaux sont covalente et ionique.",
+     "en": "A chemical bond results from the sharing or transfer of electrons between atoms; the two main types are covalent and ionic.",
+     "src": [
+      "iupac_goldbook"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "liaison chimique"
+   ]
+  },
+  {
+   "id": "c_008",
+   "r": "oxidation",
+   "rel": [
+    {
+     "t": "electron loss",
+     "k": "is",
+     "c": "redox_half",
+     "fr": "L'oxydation est la perte d'electrons par une espèce; la réduction est le gain d'electrons, et les deux forment une réaction redox.",
+     "en": "Oxidation is the loss of electrons by a species; reduction is the gain of electrons, and together they form a redox reaction.",
+     "src": [
+      "iupac_goldbook"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "oxydation"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "schema": "ratis_knowledge_pack/v1",
+ "domain": "medicine",
+ "generated_at": "2026-08-25",
+ "language": [
+  "fr",
+  "en"
+ ],
+ "purpose": "Notions biomedicales fondamentales : virus, immunité, vaccins, neurones.",
+ "use_limits": "Pas un avis médical. Faits de consensus biomedical a visée éducative.",
+ "sources": [
+  {
+   "id": "who_health_topics",
+   "title": "WHO - Health topics",
+   "url": "https://www.who.int/health-topics",
+   "accessed": "2026-08-25"
+  },
+  {
+   "id": "nih_medline",
+   "title": "MedlinePlus - NIH",
+   "url": "https://medlineplus.gov/",
+   "accessed": "2026-08-25"
+  }
+ ],
+ "entries": [
+  {
+   "id": "m_001",
+   "r": "virus",
+   "rel": [
+    {
+     "t": "host cell",
+     "k": "requires",
+     "c": "obligate_parasite",
+     "fr": "Un virus est un agent infectieux qui ne se réplique qu'a l'interieur d'une cellule hôte; il porte un génome d'ADN ou d'ARN entouré d'une capside protéique.",
+     "en": "A virus is an infectious agent that replicates only inside a host cell; it carries a DNA or RNA genome wrapped in a protein capsid.",
+     "src": [
+      "nih_medline"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "virus"
+   ]
+  },
+  {
+   "id": "m_002",
+   "r": "immune system",
+   "rel": [
+    {
+     "t": "pathogens",
+     "k": "defends_against",
+     "c": "biological_defense",
+     "fr": "Le système immunitaire défend l'organisme contre les agents pathogènes grâce a des cellules et des protéines spécialisées, dont les anticorps.",
+     "en": "The immune system defends the body against pathogens using specialised cells and proteins, including antibodies.",
+     "src": [
+      "nih_medline"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "système immunitaire",
+    "systeme immunitaire"
+   ]
+  },
+  {
+   "id": "m_003",
+   "r": "vaccine",
+   "rel": [
+    {
+     "t": "immune memory",
+     "k": "trains",
+     "c": "prevention",
+     "fr": "Un vaccin entraîne le système immunitaire a reconnaître un agent pathogene sans provoquer la maladie, créant une mémoire immunitaire.",
+     "en": "A vaccine trains the immune system to recognise a pathogen without causing the disease, creating immune memory.",
+     "src": [
+      "who_health_topics"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "vaccin"
+   ]
+  },
+  {
+   "id": "m_004",
+   "r": "antibiotic",
+   "rel": [
+    {
+     "t": "bacteria",
+     "k": "kills_or_inhibits",
+     "c": "bacteria_only",
+     "fr": "Un antibiotique tue les bactéries ou freine leur croissance; il est inefficace contre les virus.",
+     "en": "An antibiotic kills bacteria or inhibits their growth; it is ineffective against viruses.",
+     "src": [
+      "who_health_topics"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "antibiotique"
+   ]
+  },
+  {
+   "id": "m_005",
+   "r": "neuron",
+   "rel": [
+    {
+     "t": "electrical signals",
+     "k": "transmits",
+     "c": "nervous_cell",
+     "fr": "Un neurone est une cellule du système nerveux qui transmet des signaux électriques et chimiques; le cerveau humain en contient environ 86 milliards.",
+     "en": "A neuron is a nervous system cell that transmits electrical and chemical signals; the human brain contains about 86 billion of them.",
+     "src": [
+      "nih_medline"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "neurone"
+   ]
+  },
+  {
+   "id": "m_006",
+   "r": "antibody",
+   "rel": [
+    {
+     "t": "antigen",
+     "k": "binds_to",
+     "c": "immune_protein",
+     "fr": "Un anticorps est une protéine du système immunitaire qui se lie spécifiquement a un antigène pour le neutraliser ou le marquer pour destruction.",
+     "en": "An antibody is an immune system protein that specifically binds an antigen to neutralise it or mark it for destruction.",
+     "src": [
+      "nih_medline"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "anticorps"
+   ]
+  },
+  {
+   "id": "m_007",
+   "r": "bacteria",
+   "rel": [
+    {
+     "t": "single-celled organisms",
+     "k": "are",
+     "c": "prokaryote",
+     "fr": "Les bactéries sont des organismes unicellulaires sans noyau; de nombreuses espèces sont inoffensives voire utiles, certaines sont pathogènes.",
+     "en": "Bacteria are single-celled organisms without a nucleus; many species are harmless or even useful, some are pathogenic.",
+     "src": [
+      "nih_medline"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "bactérie",
+    "bacterie",
+    "bactéries"
+   ]
+  },
+  {
+   "id": "m_008",
+   "r": "dna",
+   "rel": [
+    {
+     "t": "genetic instructions",
+     "k": "carries",
+     "c": "double_helix",
+     "fr": "L'ADN porte les instructions génétiques du vivant sous forme d'une double hélice de quatre bases : adénine, thymine, guanine et cytosine.",
+     "en": "DNA carries the genetic instructions of life as a double helix of four bases: adenine, thymine, guanine and cytosine.",
+     "src": [
+      "nih_medline"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "adn"
+   ]
+  }
+ ]
+}

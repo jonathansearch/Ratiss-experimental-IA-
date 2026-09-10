@@ -1,0 +1,161 @@
+{
+ "schema": "ratis_knowledge_pack/v1",
+ "domain": "math_logic",
+ "generated_at": "2026-08-25",
+ "language": [
+  "fr",
+  "en"
+ ],
+ "purpose": "Relations de référence sur ensembles, axiomatisation, démonstration et algèbre.",
+ "use_limits": "Ce pack fournit des formulations de référence très compactes. Il ne remplace ni une démonstration formelle complète ni un assistant de preuve.",
+ "sources": [
+  {
+   "id": "sep_set_theory",
+   "title": "Stanford Encyclopedia of Philosophy — Set Theory",
+   "url": "https://plato.stanford.edu/entries/set-theory/index.html",
+   "accessed": "2026-08-25"
+  },
+  {
+   "id": "sep_proof_theory",
+   "title": "Stanford Encyclopedia of Philosophy — Proof Theory",
+   "url": "https://plato.stanford.edu/entries/proof-theory/",
+   "accessed": "2026-08-25"
+  },
+  {
+   "id": "proofwiki_fta",
+   "title": "ProofWiki — Fundamental Theorem of Algebra",
+   "url": "https://proofwiki.org/wiki/Category:Fundamental_Theorem_of_Algebra",
+   "accessed": "2026-08-25"
+  }
+ ],
+ "entries": [
+  {
+   "id": "m_001",
+   "r": "set_theory",
+   "rel": [
+    {
+     "t": "set",
+     "k": "studies",
+     "c": "foundations",
+     "fr": "La théorie des ensembles étudie des collections bien déterminées, appelées ensembles, dont les objets sont des éléments.",
+     "en": "Set theory studies well-determined collections, called sets, whose objects are elements.",
+     "src": [
+      "sep_set_theory"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    },
+    {
+     "t": "mathematical_foundation",
+     "k": "can_formalize",
+     "c": "formal_language",
+     "fr": "La source SEP décrit la théorie des ensembles comme une fondation standard dans laquelle les objets et arguments mathématiques peuvent être formalisés.",
+     "en": "The SEP source describes set theory as a standard foundation in which mathematical objects and arguments can be formalized.",
+     "src": [
+      "sep_set_theory"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "théorie des ensembles",
+    "theorie des ensembles"
+   ]
+  },
+  {
+   "id": "m_002",
+   "r": "zfc",
+   "rel": [
+    {
+     "t": "membership_relation",
+     "k": "uses_as_primitive_relation",
+     "c": "first_order_logic",
+     "fr": "Dans la présentation SEP, ZFC est formulé en logique du premier ordre avec égalité et la relation binaire d’appartenance comme relation primitive.",
+     "en": "In the SEP presentation, ZFC is formulated in first-order logic with equality and the binary membership relation as its primitive relation.",
+     "src": [
+      "sep_set_theory"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    },
+    {
+     "t": "extensionality",
+     "k": "includes_axiom",
+     "c": "axiom_system",
+     "fr": "L’axiome d’extensionnalité affirme que deux ensembles ayant les mêmes éléments sont égaux.",
+     "en": "The axiom of extensionality states that two sets with the same elements are equal.",
+     "src": [
+      "sep_set_theory"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ]
+  },
+  {
+   "id": "m_003",
+   "r": "proof_theory",
+   "rel": [
+    {
+     "t": "formal_proof",
+     "k": "treats_as_object_of_investigation",
+     "c": "foundations",
+     "fr": "La théorie de la démonstration analyse les preuves et les systèmes formels comme objets d’étude en fondements des mathématiques.",
+     "en": "Proof theory analyzes proofs and formal systems as objects of study in the foundations of mathematics.",
+     "src": [
+      "sep_proof_theory"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    },
+    {
+     "t": "consistency",
+     "k": "studies",
+     "c": "formal_systems",
+     "fr": "La théorie de la démonstration comprend l’étude de questions de cohérence et de transformation de dérivations formelles.",
+     "en": "Proof theory includes the study of consistency questions and transformations of formal derivations.",
+     "src": [
+      "sep_proof_theory"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "théorie de la preuve",
+    "theorie de la preuve"
+   ]
+  },
+  {
+   "id": "m_004",
+   "r": "fundamental_theorem_of_algebra",
+   "rel": [
+    {
+     "t": "complex_root",
+     "k": "guarantees_for_nonconstant_complex_polynomial",
+     "c": "algebra",
+     "fr": "Le théorème fondamental de l’algèbre affirme que tout polynôme non constant à coefficients complexes possède une racine complexe.",
+     "en": "The fundamental theorem of algebra states that every nonconstant polynomial with complex coefficients has a complex root.",
+     "src": [
+      "proofwiki_fta"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    },
+    {
+     "t": "algebraic_closure",
+     "k": "implies",
+     "c": "complex_numbers",
+     "fr": "Cette formulation exprime que le corps des nombres complexes est algébriquement clos.",
+     "en": "This formulation expresses that the field of complex numbers is algebraically closed.",
+     "src": [
+      "proofwiki_fta"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ]
+  }
+ ]
+}

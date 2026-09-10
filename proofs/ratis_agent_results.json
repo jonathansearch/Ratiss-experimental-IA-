@@ -1,0 +1,60 @@
+{
+  "thoughts": [
+    {
+      "message": "you are amazing and funny",
+      "env": "ThermoEnvironment",
+      "mcb_count": 113,
+      "thought_hash": "67c604c72eefb7f8",
+      "c_seuil": 0.5003112981480589,
+      "emotion_perceived": "neutre",
+      "emotion_understood": "joie",
+      "confidence": 0.5187316643654241,
+      "response": "then too am ok then too",
+      "response_hash": "5a58ec9cff0462be",
+      "certified": true
+    },
+    {
+      "message": "you are dumb and stupid",
+      "env": "ThermoEnvironment",
+      "mcb_count": 128,
+      "thought_hash": "e17b5f1d7a92ddc9",
+      "c_seuil": 0.4288161305879348,
+      "emotion_perceived": "neutre",
+      "emotion_understood": "colère",
+      "confidence": 0.9642589676147776,
+      "response": "it's be just my it's be",
+      "response_hash": "566ea2ab555ff804",
+      "certified": true
+    },
+    {
+      "message": "i feel so lonely and lost",
+      "env": "ThermoEnvironment",
+      "mcb_count": 113,
+      "thought_hash": "0a7f693eafaafe6e",
+      "c_seuil": 0.4342212795683606,
+      "emotion_perceived": "neutre",
+      "emotion_understood": "colère",
+      "confidence": 0.926114506356605,
+      "response": "it's to all me it's be",
+      "response_hash": "6b4667610595f8d6",
+      "certified": true
+    },
+    {
+      "message": "what is your name today",
+      "env": "ThermoEnvironment",
+      "mcb_count": 122,
+      "thought_hash": "d12b6cb614f3bd25",
+      "c_seuil": 0.47532476032213505,
+      "emotion_perceived": "neutre",
+      "emotion_understood": "neutre",
+      "confidence": 0.8436689023839569,
+      "response": "have the are was have the",
+      "response_hash": "4f661c36908464a8",
+      "certified": true
+    }
+  ],
+  "n_certified": 4,
+  "contextual": true,
+  "differential_joy_anger": 0.07149516756012408,
+  "ttf_available": true
+}

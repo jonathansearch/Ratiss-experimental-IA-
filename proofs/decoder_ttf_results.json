@@ -1,0 +1,80 @@
+{
+  "hash": {
+    "label": "HASH",
+    "generations": {
+      "happy": "don't have yes it with my",
+      "angry": "the on you are just hate",
+      "sad": "the yes you are my am",
+      "others": "how are you know what is"
+    },
+    "coherence": {
+      "happy": {
+        "generated": "don't have yes it with my",
+        "pred_seq": 2,
+        "target": 1,
+        "coherent": false
+      },
+      "angry": {
+        "generated": "the on you are just hate",
+        "pred_seq": 0,
+        "target": 0,
+        "coherent": true
+      },
+      "sad": {
+        "generated": "the yes you are my am",
+        "pred_seq": 0,
+        "target": 0,
+        "coherent": true
+      },
+      "others": {
+        "generated": "how are you know what is",
+        "pred_seq": 1,
+        "target": 2,
+        "coherent": false
+      }
+    },
+    "n_coherent": 2,
+    "t_word": 16.292426109313965,
+    "t_seq": 0.33659982681274414,
+    "n_vocab": 40
+  },
+  "ttf": {
+    "label": "TTF/MCB",
+    "generations": {
+      "happy": "know you are know you are",
+      "angry": "no no no no you are",
+      "sad": "no no no no no am",
+      "others": "of of of in of you"
+    },
+    "coherence": {
+      "happy": {
+        "generated": "know you are know you are",
+        "pred_seq": 2,
+        "target": 1,
+        "coherent": false
+      },
+      "angry": {
+        "generated": "no no no no you are",
+        "pred_seq": 0,
+        "target": 0,
+        "coherent": true
+      },
+      "sad": {
+        "generated": "no no no no no am",
+        "pred_seq": 0,
+        "target": 0,
+        "coherent": true
+      },
+      "others": {
+        "generated": "of of of in of you",
+        "pred_seq": 2,
+        "target": 2,
+        "coherent": true
+      }
+    },
+    "n_coherent": 3,
+    "t_word": 13.74403190612793,
+    "t_seq": 0.2843906879425049,
+    "n_vocab": 30
+  }
+}

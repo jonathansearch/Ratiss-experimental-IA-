@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 420" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1428"/>
+      <stop offset="1" stop-color="#141d3d"/>
+    </linearGradient>
+    <linearGradient id="step" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#0e9f8a"/>
+    </linearGradient>
+    <linearGradient id="law" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7b5cff"/>
+      <stop offset="1" stop-color="#4f7cff"/>
+    </linearGradient>
+    <marker id="arr2" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#8fa3d0"/>
+    </marker>
+  </defs>
+
+  <rect width="980" height="420" rx="18" fill="url(#bg2)"/>
+  <text x="40" y="52" fill="#e8edff" font-size="26" font-weight="700">La boucle d'apprentissage LCT</text>
+  <text x="40" y="78" fill="#8fa3d0" font-size="14">Le Scalpel grandit par neurogenesis — le réseau s'enrichit au lieu de converger par gradient</text>
+
+  <!-- étape 1 -->
+  <rect x="40" y="120" width="200" height="90" rx="12" fill="#1b2547" stroke="#3b4a7a"/>
+  <text x="140" y="146" fill="#e8edff" font-size="14" font-weight="600" text-anchor="middle">1 · Phrase du corpus</text>
+  <text x="140" y="166" fill="#8fa3d0" font-size="11" text-anchor="middle">Wikipedia EN, 5 M phrases</text>
+  <text x="140" y="183" fill="#8fa3d0" font-size="11" text-anchor="middle">stream Hugging Face</text>
+
+  <!-- étape 2 -->
+  <rect x="280" y="120" width="200" height="90" rx="12" fill="#1b2547" stroke="#3b4a7a"/>
+  <text x="380" y="146" fill="#e8edff" font-size="14" font-weight="600" text-anchor="middle">2 · Découpe Scalpel</text>
+  <text x="380" y="166" fill="#8fa3d0" font-size="11" text-anchor="middle">paires de mots adjacents</text>
+  <text x="380" y="183" fill="#8fa3d0" font-size="11" text-anchor="middle">embeddings GloVe + topo</text>
+
+  <!-- étape 3 -->
+  <rect x="520" y="120" width="200" height="90" rx="12" fill="#1b2547" stroke="#3b4a7a"/>
+  <text x="620" y="146" fill="#e8edff" font-size="14" font-weight="600" text-anchor="middle">3 · Signal topologique</text>
+  <text x="620" y="166" fill="#8fa3d0" font-size="11" text-anchor="middle">P_sig (persistance) + C (cohérence)</text>
+  <text x="620" y="183" fill="#8fa3d0" font-size="11" text-anchor="middle">seuil C ≥ 0.3 filtre le bruit</text>
+
+  <!-- loi -->
+  <rect x="300" y="250" width="400" height="64" rx="14" fill="url(#law)"/>
+  <text x="500" y="278" fill="#ffffff" font-size="17" font-weight="700" text-anchor="middle">ΔW = η · φ · P_sig · C</text>
+  <text x="500" y="300" fill="#dbe4ff" font-size="11" text-anchor="middle">loi figée — on tune η et l'architecture, jamais la loi</text>
+
+  <!-- résultat -->
+  <rect x="760" y="250" width="180" height="64" rx="12" fill="url(#step)"/>
+  <text x="850" y="278" fill="#041b15" font-size="14" font-weight="700" text-anchor="middle">Neurogenesis</text>
+  <text x="850" y="299" fill="#083b30" font-size="11" text-anchor="middle">3,78 M neurones · 43,3 M renforcements</text>
+
+  <!-- flèches -->
+  <line x1="240" y1="165" x2="272" y2="165" stroke="#8fa3d0" stroke-width="2" marker-end="url(#arr2)"/>
+  <line x1="480" y1="165" x2="512" y2="165" stroke="#8fa3d0" stroke-width="2" marker-end="url(#arr2)"/>
+  <line x1="620" y1="210" x2="540" y2="242" stroke="#8fa3d0" stroke-width="2" marker-end="url(#arr2)"/>
+  <line x1="700" y1="282" x2="752" y2="282" stroke="#8fa3d0" stroke-width="2" marker-end="url(#arr2)"/>
+  <path d="M 850 314 C 850 380, 140 380, 140 218" fill="none" stroke="#22c55e" stroke-width="1.6" stroke-dasharray="6 5" marker-end="url(#arr2)"/>
+  <text x="500" y="392" fill="#7ddeb0" font-size="12" text-anchor="middle">les corrélations renforcées deviennent la mémoire — le réseau relit le corpus sans jamais ré-entraîner de zéro</text>
+</svg>

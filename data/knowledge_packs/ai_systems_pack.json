@@ -1,0 +1,77 @@
+{
+  "schema": "ratis_knowledge_pack/v1",
+  "domain": "ai_systems",
+  "generated_at": "2026-08-25",
+  "language": ["fr", "en"],
+  "purpose": "Relations de référence sur la gestion des risques, la conception et l’évaluation des systèmes d’IA.",
+  "use_limits": "Ce pack décrit un cadre de gestion des risques. Il ne certifie aucun système RATISS, ne remplace pas un audit indépendant, et ne garantit pas la sûreté ou l’absence d’hallucination.",
+  "sources": [
+    {
+      "id": "nist_ai_rmf",
+      "title": "NIST — AI Risk Management Framework",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "doi": "https://doi.org/10.6028/NIST.AI.100-1",
+      "accessed": "2026-08-25"
+    },
+    {
+      "id": "nist_genai_profile",
+      "title": "NIST — Generative AI Profile, AI RMF 1.0 companion",
+      "url": "https://doi.org/10.6028/NIST.AI.600-1",
+      "accessed": "2026-08-25"
+    }
+  ],
+  "entries": [
+    {
+      "id": "a_001",
+      "r": "nist_ai_rmf",
+      "rel": [
+        {
+          "t": "ai_risk_management",
+          "k": "supports",
+          "c": "voluntary_framework",
+          "fr": "Le cadre NIST AI RMF est destiné à un usage volontaire pour mieux intégrer des considérations de fiabilité dans la conception, le développement, l’utilisation et l’évaluation de systèmes d’IA.",
+          "en": "The NIST AI RMF is intended for voluntary use to better incorporate trustworthiness considerations into the design, development, use, and evaluation of AI systems.",
+          "src": ["nist_ai_rmf"],
+          "evidence": "source_backed",
+          "aeon_proof_status": "not_generated"
+        },
+        {
+          "t": "people_organizations_society",
+          "k": "addresses_risks_to",
+          "c": "risk_scope",
+          "fr": "Le NIST présente le cadre comme un moyen de mieux gérer les risques associés à l’IA pour les personnes, les organisations et la société.",
+          "en": "NIST presents the framework as a way to better manage AI-associated risks to people, organizations, and society.",
+          "src": ["nist_ai_rmf"],
+          "evidence": "source_backed",
+          "aeon_proof_status": "not_generated"
+        }
+      ]
+    },
+    {
+      "id": "a_002",
+      "r": "generative_ai_profile",
+      "rel": [
+        {
+          "t": "generative_ai_risks",
+          "k": "helps_identify",
+          "c": "ai_rmf_companion_profile",
+          "fr": "Le profil NIST pour l’IA générative vise à aider les organisations à identifier les risques propres aux systèmes d’IA générative.",
+          "en": "The NIST generative-AI profile aims to help organizations identify risks unique to generative-AI systems.",
+          "src": ["nist_ai_rmf", "nist_genai_profile"],
+          "evidence": "source_backed",
+          "aeon_proof_status": "not_generated"
+        },
+        {
+          "t": "risk_management_actions",
+          "k": "proposes",
+          "c": "organizational_goals",
+          "fr": "Le profil propose des actions de gestion des risques alignées sur les objectifs et priorités des organisations; il ne constitue pas une certification automatique.",
+          "en": "The profile proposes risk-management actions aligned with organizational goals and priorities; it is not an automatic certification.",
+          "src": ["nist_ai_rmf", "nist_genai_profile"],
+          "evidence": "source_backed_with_limit",
+          "aeon_proof_status": "not_generated"
+        }
+      ]
+    }
+  ]
+}

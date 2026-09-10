@@ -1,0 +1,9 @@
+{
+  "orthogonal_seen": 0.7864583333333333,
+  "orthogonal_unseen": 0.7291666666666666,
+  "orthogonal_verdict": "GÉNÉRALISATION",
+  "structured_seen": 0.9947916666666666,
+  "structured_unseen": 0.9958333333333333,
+  "structured_verdict": "GÉNÉRALISATION",
+  "generalizes": true
+}

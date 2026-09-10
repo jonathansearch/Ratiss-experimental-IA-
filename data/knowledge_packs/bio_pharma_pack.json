@@ -1,0 +1,191 @@
+{
+ "schema": "ratis_knowledge_pack/v1",
+ "domain": "bio_pharma",
+ "generated_at": "2026-08-25",
+ "language": [
+  "fr",
+  "en"
+ ],
+ "purpose": "Point de départ descriptif pour la biologie structurale et les cibles moléculaires.",
+ "use_limits": "Ce pack ne contient aucune posologie, recommandation thérapeutique, diagnostic, ni conseil médical. Il ne doit pas être utilisé pour prendre une décision de santé ou de traitement.",
+ "sources": [
+  {
+   "id": "uniprot_p69905",
+   "title": "UniProtKB — P69905, Hemoglobin subunit alpha",
+   "url": "https://www.uniprot.org/uniprotkb/P69905/entry",
+   "accessed": "2026-08-25"
+  },
+  {
+   "id": "rcsb_4hhb",
+   "title": "RCSB Protein Data Bank — 4HHB, human deoxyhemoglobin",
+   "url": "https://www.rcsb.org/structure/4hhb",
+   "accessed": "2026-08-25"
+  }
+ ],
+ "entries": [
+  {
+   "id": "b_001",
+   "r": "hemoglobin_subunit_alpha",
+   "rel": [
+    {
+     "t": "oxygen_transport",
+     "k": "contributes_to",
+     "c": "human_physiology",
+     "fr": "L’entrée UniProt revue P69905 indique que la sous-unité alpha de l’hémoglobine participe au transport de l’oxygène des poumons vers les tissus périphériques.",
+     "en": "The reviewed UniProt P69905 entry indicates that the hemoglobin alpha subunit contributes to oxygen transport from the lungs to peripheral tissues.",
+     "src": [
+      "uniprot_p69905"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    },
+    {
+     "t": "oxygen",
+     "k": "has_annotated_binding_site_for",
+     "c": "protein_feature",
+     "fr": "UniProt annote un site de liaison de l’oxygène à la position 59 pour cette sous-unité alpha.",
+     "en": "UniProt annotates an oxygen-binding site at position 59 for this alpha subunit.",
+     "src": [
+      "uniprot_p69905"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ]
+  },
+  {
+   "id": "b_002",
+   "r": "hemoglobin_subunit_alpha",
+   "rel": [
+    {
+     "t": "heme_b_iron",
+     "k": "has_annotated_binding_residue_for",
+     "c": "protein_feature",
+     "fr": "UniProt annote à la position 88 un résidu de liaison au fer de l’hème b pour cette sous-unité alpha.",
+     "en": "UniProt annotates at position 88 a residue binding the iron of heme b for this alpha subunit.",
+     "src": [
+      "uniprot_p69905"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    },
+    {
+     "t": "hemoglobin_complex",
+     "k": "is_component_of",
+     "c": "protein_complex",
+     "fr": "UniProt associe la sous-unité alpha de l’hémoglobine au complexe d’hémoglobine dans ses annotations de localisation et de processus.",
+     "en": "UniProt associates the hemoglobin alpha subunit with the hemoglobin complex in its localization and process annotations.",
+     "src": [
+      "uniprot_p69905"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ]
+  },
+  {
+   "id": "b_003",
+   "r": "pdb_4hhb",
+   "rel": [
+    {
+     "t": "human_deoxyhemoglobin_structure",
+     "k": "identifies_structure_of",
+     "c": "structural_biology",
+     "fr": "L’entrée RCSB PDB 4HHB référence une structure cristallographique d’hémoglobine humaine désoxygénée.",
+     "en": "The RCSB PDB 4HHB entry references a crystallographic structure of human deoxyhemoglobin.",
+     "src": [
+      "rcsb_4hhb"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ]
+  },
+  {
+   "id": "b_010",
+   "r": "protein",
+   "rel": [
+    {
+     "t": "amino acids",
+     "k": "made_of",
+     "c": "macromolecule",
+     "fr": "Une protéine est une macromolécule composée d'acides aminés; sa séquence, codée par l'ADN, détermine son repliement et sa fonction.",
+     "en": "A protein is a macromolecule made of amino acids; its sequence, encoded by DNA, determines its folding and function.",
+     "src": [
+      "nih_medline"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "protéine",
+    "proteine"
+   ]
+  },
+  {
+   "id": "b_011",
+   "r": "cell",
+   "rel": [
+    {
+     "t": "living organisms",
+     "k": "basic_unit_of",
+     "c": "biology",
+     "fr": "La cellule est l'unité de base du vivant; elle contient le matériel génétique et les structures nécessaires au métabolisme.",
+     "en": "The cell is the basic unit of living organisms; it contains the genetic material and the structures needed for metabolism.",
+     "src": [
+      "nih_medline"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "cellule"
+   ]
+  },
+  {
+   "id": "b_012",
+   "r": "enzyme",
+   "rel": [
+    {
+     "t": "biochemical reactions",
+     "k": "catalyzes",
+     "c": "protein",
+     "fr": "Une enzyme est une protéine qui catalyse les réactions biochimiques, par exemple la digestion ou la réplication de l'ADN.",
+     "en": "An enzyme is a protein that catalyzes biochemical reactions, such as digestion or DNA replication.",
+     "src": [
+      "nih_medline"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "enzyme"
+   ]
+  },
+  {
+   "id": "b_013",
+   "r": "photosynthesis",
+   "rel": [
+    {
+     "t": "light energy",
+     "k": "converts",
+     "c": "plant_metabolism",
+     "fr": "La photosynthèse convertit l'énergie lumineuse en énergie chimique dans les plantes et les algues, produisant du glucose et du dioxygène à partir de CO2 et d'eau.",
+     "en": "Photosynthesis converts light energy into chemical energy in plants and algae, producing glucose and oxygen from CO2 and water.",
+     "src": [
+      "nih_medline"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "photosynthèse",
+    "photosynthese"
+   ]
+  }
+ ]
+}

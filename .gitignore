@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+secrets/
+
+# Large data files (download separately, see data/glove/README.md)
+data/glove/*.txt
+data/glove/*.zip
+data/scalpel_network.pkl
+trained/
+*.egg-info/
+data/grammar_domains/ultra_context_map.json
+artifacts/scalpel_wikipedia.pkl
+data/corpus/scalpel_v3_corpus.txt
+data/grammar_domains/ultra_context_map.json

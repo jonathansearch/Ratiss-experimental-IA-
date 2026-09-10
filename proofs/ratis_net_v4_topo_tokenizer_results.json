@@ -1,0 +1,12 @@
+{
+  "full_persistence": true,
+  "ttf_connected": true,
+  "hash_seen": 0.775,
+  "hash_unseen": 0.7583333333333334,
+  "ttf_seen": 0.94375,
+  "ttf_unseen": 0.9833333333333334,
+  "topo_seen": 0.9166666666666666,
+  "topo_unseen": 0.9333333333333332,
+  "best_unseen": 0.9833333333333334,
+  "winner": "TTF/MCB"
+}

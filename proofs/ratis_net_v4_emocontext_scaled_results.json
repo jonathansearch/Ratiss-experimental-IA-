@@ -1,0 +1,65 @@
+{
+  "A_baseline": {
+    "label": "A_baseline",
+    "per_word": true,
+    "balanced": false,
+    "n_dialogues": 300,
+    "acc_test": 0.8571428571428571,
+    "f1_macro": 0.6197112366603892,
+    "per_class_recall": {
+      "angry": 1.0,
+      "happy": 0.0,
+      "others": 1.0
+    },
+    "c_seuils": {
+      "happy": 0.6955551414052663,
+      "angry": 0.29392056619710694,
+      "sad": 0.18744053851077425,
+      "others": 0.4991879613931493
+    },
+    "n_samples": 2641,
+    "train_time": 81.36616635322571
+  },
+  "B_seq_bal_300": {
+    "label": "B_seq_bal_300",
+    "per_word": false,
+    "balanced": true,
+    "n_dialogues": 300,
+    "acc_test": 0.6428571428571429,
+    "f1_macro": 0.5882186948853615,
+    "per_class_recall": {
+      "angry": 1.0,
+      "happy": 0.625,
+      "others": 0.34615384615384615
+    },
+    "c_seuils": {
+      "happy": 0.36123825347055616,
+      "angry": 0.29169242589783323,
+      "sad": 0.25546232509373534,
+      "others": 0.3416181129118766
+    },
+    "n_samples": 48,
+    "train_time": 1.4895801544189453
+  },
+  "C_seq_bal_3000": {
+    "label": "C_seq_bal_scaled",
+    "per_word": false,
+    "balanced": true,
+    "n_dialogues": 3000,
+    "acc_test": 0.9306049822064056,
+    "f1_macro": 0.9243929842284366,
+    "per_class_recall": {
+      "angry": 1.0,
+      "happy": 0.847457627118644,
+      "others": 0.8996655518394648
+    },
+    "c_seuils": {
+      "happy": 0.6776307592152261,
+      "angry": 0.34588677870606005,
+      "sad": 0.23081026741166152,
+      "others": 0.5396612453219092
+    },
+    "n_samples": 603,
+    "train_time": 14.273053884506226
+  }
+}

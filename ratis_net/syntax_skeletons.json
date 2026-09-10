@@ -1,0 +1,146 @@
+[
+  {
+    "id": "define_1",
+    "intent": "define",
+    "template_en": "{concept1} is a branch of {concept2} that studies {concept3}.",
+    "template_fr": "{concept1} est une branche de {concept2} qui etudie {concept3}.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["science", "physics", "mathematics", "chemistry", "biology", "quantum", "history", "philosophy"]
+  },
+  {
+    "id": "define_2",
+    "intent": "define",
+    "template_en": "{concept1} refers to the study of {concept2} and its relationship to {concept3}.",
+    "template_fr": "{concept1} designe l'etude de {concept2} et sa relation avec {concept3}.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["science", "research", "theory", "method", "analysis"]
+  },
+  {
+    "id": "define_3",
+    "intent": "define",
+    "template_en": "In simple terms, {concept1} is the way {concept2} interacts with {concept3}.",
+    "template_fr": "En termes simples, {concept1} est la maniere dont {concept2} interagit avec {concept3}.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["physics", "quantum", "mechanics", "energy", "force"]
+  },
+  {
+    "id": "explain_1",
+    "intent": "explain",
+    "template_en": "To understand {concept1}, one must first consider how {concept2} affects {concept3}.",
+    "template_fr": "Pour comprendre {concept1}, il faut d'abord considerer comment {concept2} affecte {concept3}.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["quantum", "gravity", "energy", "brain", "system", "process"]
+  },
+  {
+    "id": "explain_2",
+    "intent": "explain",
+    "template_en": "The key idea behind {concept1} is that {concept2} can influence {concept3} in unexpected ways.",
+    "template_fr": "L'idee cle derriere {concept1} est que {concept2} peut influencer {concept3} de maniere inattendue.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["quantum", "consciousness", "neural", "topology", "coherence"]
+  },
+  {
+    "id": "explain_3",
+    "intent": "explain",
+    "template_en": "When we talk about {concept1}, we are really talking about the connection between {concept2} and {concept3}.",
+    "template_fr": "Quand on parle de {concept1}, on parle en realite de la connexion entre {concept2} et {concept3}.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["love", "emotion", "brain", "mind", "consciousness", "memory"]
+  },
+  {
+    "id": "describe_1",
+    "intent": "describe",
+    "template_en": "{concept1} is characterized by its {concept2} and its relationship to {concept3}.",
+    "template_fr": "{concept1} se caracterise par son {concept2} et sa relation a {concept3}.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["music", "art", "architecture", "language", "culture", "history"]
+  },
+  {
+    "id": "describe_2",
+    "intent": "describe",
+    "template_en": "One of the most fascinating aspects of {concept1} is how it reveals {concept2} through {concept3}.",
+    "template_fr": "Un des aspects les plus fascinants de {concept1} est la maniere dont il revele {concept2} a travers {concept3}.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["science", "quantum", "topology", "mathematics", "nature"]
+  },
+  {
+    "id": "describe_3",
+    "intent": "describe",
+    "template_en": "At its core, {concept1} represents the {concept2} that emerges from {concept3}.",
+    "template_fr": "En son coeur, {concept1} represente le {concept2} qui emerge de {concept3}.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["consciousness", "life", "love", "energy", "matter"]
+  },
+  {
+    "id": "narrate_1",
+    "intent": "narrate",
+    "template_en": "The story of {concept1} begins with the discovery of {concept2} and evolves through {concept3}.",
+    "template_fr": "L'histoire de {concept1} commence par la decouverte de {concept2} et evolue a travers {concept3}.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["history", "science", "civilization", "evolution", "revolution"]
+  },
+  {
+    "id": "narrate_2",
+    "intent": "narrate",
+    "template_en": "Long ago, {concept1} was thought to be {concept2}, but today we know it involves {concept3}.",
+    "template_fr": "Autrefois, {concept1} etait considere comme {concept2}, mais aujourd'hui nous savons qu'il implique {concept3}.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["gravity", "earth", "sun", "atom", "light", "energy"]
+  },
+  {
+    "id": "question_1",
+    "intent": "question",
+    "template_en": "What if {concept1} is not just {concept2}, but also a form of {concept3}?",
+    "template_fr": "Et si {concept1} n'etait pas seulement {concept2}, mais aussi une forme de {concept3}?",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["consciousness", "love", "music", "art", "quantum"]
+  },
+  {
+    "id": "question_2",
+    "intent": "question",
+    "template_en": "How does {concept1} connect to {concept2}, and what does this mean for {concept3}?",
+    "template_fr": "Comment {concept1} se connecte-t-il a {concept2}, et qu'est-ce que cela signifie pour {concept3}?",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["quantum", "gravity", "brain", "neural", "topology", "coherence"]
+  },
+  {
+    "id": "compare_1",
+    "intent": "compare",
+    "template_en": "While {concept1} focuses on {concept2}, {concept3} takes a broader perspective.",
+    "template_fr": "Tandis que {concept1} se concentre sur {concept2}, {concept3} adopte une perspective plus large.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["physics", "chemistry", "biology", "science", "mathematics", "philosophy"]
+  },
+  {
+    "id": "emotion_1",
+    "intent": "emotion",
+    "template_en": "{concept1} is more than just {concept2}; it is a deep connection to {concept3}.",
+    "template_fr": "{concept1} est plus qu'un simple {concept2}; c'est une connexion profonde a {concept3}.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["love", "happy", "sad", "music", "art", "heart", "feeling"]
+  },
+  {
+    "id": "emotion_2",
+    "intent": "emotion",
+    "template_en": "When we experience {concept1}, our {concept2} responds to {concept3} in profound ways.",
+    "template_fr": "Quand nous ressentons {concept1}, notre {concept2} repond a {concept3} de manieres profondes.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["love", "happy", "sad", "angry", "music", "heart", "brain", "feeling"]
+  },
+  {
+    "id": "conclude_1",
+    "intent": "conclude",
+    "template_en": "Ultimately, {concept1} shows us that {concept2} and {concept3} are deeply intertwined.",
+    "template_fr": "En fin de compte, {concept1} nous montre que {concept2} et {concept3} sont profondement entrelaces.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["science", "quantum", "topology", "love", "consciousness", "nature"]
+  },
+  {
+    "id": "conclude_2",
+    "intent": "conclude",
+    "template_en": "In conclusion, {concept1} reveals that the boundary between {concept2} and {concept3} is not as clear as we thought.",
+    "template_fr": "En conclusion, {concept1} revele que la frontiere entre {concept2} et {concept3} n'est pas aussi nette qu'on le pensait.",
+    "slots": ["concept1", "concept2", "concept3"],
+    "keywords": ["quantum", "physics", "consciousness", "mind", "matter", "energy"]
+  }
+]

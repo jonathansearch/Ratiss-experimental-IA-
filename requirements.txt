@@ -1,0 +1,8 @@
+# RATIS-Net v2 — Dépendances (frugal, CPU-only par défaut)
+
+numpy>=1.24,<3.0
+
+# Optionnel (extras) :
+#   pip install .[full]   → scipy + gudhi (persistance ~95x plus rapide)
+#   pip install .[train]  → datasets (streaming Hugging Face)
+#   pip install .[dev]    → pytest

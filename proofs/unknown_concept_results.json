@@ -1,0 +1,50 @@
+{
+  "unknown_words": {
+    "quantum": {
+      "pred": 2,
+      "conf": 0.4325976575572235
+    },
+    "metacognition": {
+      "pred": 2,
+      "conf": 0.43459557219927886
+    },
+    "topologie": {
+      "pred": 2,
+      "conf": 0.42430826586008735
+    },
+    "bonjour": {
+      "pred": 2,
+      "conf": 0.43571906696135765
+    },
+    "amour": {
+      "pred": 2,
+      "conf": 0.42651495350396545
+    },
+    "xyzqpf": {
+      "pred": 2,
+      "conf": 0.422972032151124
+    },
+    "flarglebargle": {
+      "pred": 2,
+      "conf": 0.4345175183057039
+    },
+    "zzzzz": {
+      "pred": 2,
+      "conf": 0.359751704539116
+    },
+    "funnyyy": {
+      "pred": 2,
+      "conf": 0.42850238078428826
+    },
+    "happily": {
+      "pred": 2,
+      "conf": 0.43111782562557566
+    },
+    "stupidly": {
+      "pred": 2,
+      "conf": 0.4342844560675696
+    }
+  },
+  "n_neutral": 11,
+  "robustness": "6/6"
+}

@@ -1,0 +1,1368 @@
+Quantum mechanics, also known as quantum physics, is the fundamental physical theory that describes the behavior of matter and of light; the behaviors it models typically occur at and below the scale of atoms, and have often been described as counterintuitive.
+Its concepts and methods have been applied across many disciplines, including quantum chemistry, quantum biology, quantum field theory, quantum technology, and quantum information science.
+General relativity, also known as the general theory of relativity, and as Einstein's theory of gravity, is the geometric theory of gravitation published by Albert Einstein in May 1916 and is the accepted description of the gravitation of macroscopic objects in modern physics.
+General relativity generalizes special relativity and refines Isaac Newton's law of universal gravitation, providing a unified description of gravity as a geometric property of space and time, or four-dimensional spacetime.
+In particular, the curvature of spacetime is directly related to the energy, momentum, and stress of whatever is present, including matter and radiation.
+The relation is specified by the Einstein field equations, a system of second-order partial differential equations.
+John Archibald Wheeler summarized it: "Space-time tells matter how to move; matter tells space-time how to curve."
+A black hole is an astronomical body so compact that its gravity prevents anything, including light, from escaping.
+Albert Einstein's theory of general relativity, which describes gravitation as the curvature of spacetime, predicts that any sufficiently compact mass will form a black hole.
+The boundary of no escape is called the event horizon.
+In general relativity, crossing a black hole's event horizon traps an object inside but produces no locally detectable change.
+General relativity also predicts that every black hole should have a central singularity, where the curvature of spacetime is infinite.
+In physics, string theory is a theoretical framework in which the point-like particles of particle physics are replaced by one-dimensional objects called strings.
+String theory describes how these strings move through space and interact with each other by vibrations.
+On distance scales larger than the string scale, a string acts like a particle, with its mass, charge, and other properties determined by the vibrational state of the string.
+In string theory, one of the many vibrational states of the string corresponds to the graviton, a quantum mechanical particle that carries the gravitational force.
+Thus, string theory is a theory of quantum gravity.
+Particle physics or high-energy physics is the study of fundamental particles and forces that constitute matter and radiation.
+The field also studies combinations of elementary particles up to the scale of protons and neutrons, while the study of combinations of protons and neutrons is called nuclear physics.
+The Standard Model of particle physics is the theory describing three of the four known fundamental forces in the universe and classifying all known elementary particles.
+It was developed in stages throughout the latter half of the 20th century, through the work of many scientists worldwide, with the current formulation being finalized in the mid-1970s upon experimental confirmation of the existence of quarks.
+Since then, proof of the top quark (1995), the tau neutrino (2000), and the Higgs boson (2012) have added further credence to the Standard Model.
+In addition, the Standard Model has predicted with great accuracy the various properties of weak neutral currents and the W and Z bosons.
+In physics, electromagnetism is an interaction that occurs between particles with electric charge via electromagnetic fields.
+The electromagnetic force is one of the four fundamental forces of nature.
+It is the dominant force in the interactions of atoms and molecules.
+Electromagnetism describes and relates the three distinct but closely intertwined phenomena of electricity, magnetism, and optics.
+In the study of electromagnetism these phenomena are described by the 3 sub-disciplines: electrostatics, magnetostatics, and electrodynamics.
+Thermodynamics is a branch of physics that deals with heat, work, and temperature, and their relation to energy, entropy, and the physical properties of matter and radiation.
+The behavior of these quantities is governed by the four laws of thermodynamics, which convey a quantitative description using measurable macroscopic physical quantities but may be explained in terms of microscopic constituents by statistical mechanics.
+Thermodynamics applies to various topics in science and engineering, especially physical chemistry, biochemistry, chemical engineering, and mechanical engineering, as well as other complex fields such as meteorology.
+Entropy is a thermodynamic state variable that quantifies the probabilistic distribution of accessible microstates in a system.
+The term and the concept are used in diverse fields, from classical thermodynamics, to the microscopic description of nature in statistical physics, and the principles of information theory.
+It has far-ranging applications in chemistry and physics, in biological systems and their relation to life, in cosmology, economics, and information systems including the transmission of information in telecommunication.
+Information theory is the mathematical study of the quantification, storage, and communication of a particular type of mathematically defined information.
+The field was established and formalized by Claude Shannon in the 1940s, though early contributions were made in the 1920s through the works of Harry Nyquist and Ralph Hartley.
+Chaos theory is a branch of mathematics and an interdisciplinary area of scientific study.
+It focuses on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions.
+These were once thought to have completely random states of disorder and irregularities.
+The theory states that within the apparent randomness of chaotic complex systems, there are underlying patterns, interconnection, constant feedback loops, repetition, self-similarity, fractals and self-organization.
+The butterfly effect, an underlying principle of chaos, describes how a small change in one state of a deterministic nonlinear system can result in large differences in a later state.
+A metaphor for this behavior is that a butterfly flapping its wings in Brazil can cause or prevent a tornado in Texas.
+In mathematics, a fractal is a geometric shape containing detailed structure at arbitrarily small scales, usually having a fractal dimension strictly exceeding the topological dimension.
+Many fractals appear similar at various scales, as illustrated in successive magnifications of the Mandelbrot set.
+This exhibition of similar patterns at increasingly smaller scales is called self-similarity, also known as expanding symmetry or unfolding symmetry; if this replication is exactly the same at every scale, as in the Menger sponge, the shape is called affine self-similar.
+Fractal geometry relates to the mathematical branch of measure theory by their Hausdorff dimension.
+Mathematics is a field of knowledge concerned with abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities.
+It uses logical reasoning and proof to study and establish their properties, often expressed as theorems, formulas, and equations.
+Mathematics is used to model and solve problems in science, engineering, technology, economics, and everyday life.
+Calculus is the branch of mathematics that studies continuous change, and is the principal precursor of modern mathematical analysis.
+Originally called infinitesimal calculus or the calculus of infinitesimals, it has two major branches, differential calculus and integral calculus.
+Differential calculus studies instantaneous rates of change and slopes of curves; integral calculus studies accumulation of quantities and areas under or between curves.
+These two branches are related to each other by the fundamental theorem of calculus.
+Calculus uses convergence of infinite sequences and infinite series to a well-defined mathematical limit.
+Algebra is a branch of mathematics that deals with abstract systems, known as algebraic structures, and the manipulation of expressions within those systems.
+It is a generalization of arithmetic that introduces variables and algebraic operations other than the standard arithmetic operations, such as addition and multiplication.
+Geometry is a branch of mathematics concerned with properties of space such as the distance, shape, size, and relative position of figures.
+Geometry is, along with arithmetic, one of the oldest branches of mathematics.
+A mathematician who works in the field of geometry is called a geometer.
+Until the 19th century, geometry was almost exclusively devoted to Euclidean geometry, which includes the notions of point, line, plane, distance, angle, surface, and curve, as fundamental concepts.
+Topology is the branch of mathematics concerned with the properties of a geometric object that are preserved under continuous deformations, such as stretching, twisting, crumpling, and bending; that is, without closing holes, opening holes, tearing, gluing, or passing through itself.
+Number theory is a branch of mathematics devoted primarily to the study of the integers and arithmetic functions.
+Number theorists study prime numbers as well as the properties of mathematical objects constructed from integers, or defined as generalizations of the integers.
+Probability concerns events and numerical descriptions of how likely they are to occur.
+The probability of an event is a number between 0 and 1; the larger the probability, the more likely an event is to occur.
+This number is often expressed as a percentage (%), ranging from 0% to 100%.
+A simple example is the tossing of a fair (unbiased) coin.
+Since the coin is fair, the two outcomes are both equally probable; the probability of "heads" equals the probability of "tails"; and since no other outcomes are possible, the probability of either "heads" or "tails" is 1/2.
+Statistics is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data.
+In applying statistics to a scientific, industrial, or social problem, it is conventional to begin with a statistical population or a statistical model to be studied.
+Populations can be diverse groups of people or objects such as "all people living in a country" or "every atom composing a crystal".
+Statistics deals with every aspect of data, including the planning of data collection in terms of the design of surveys and experiments.
+Statistics is deeply related to subjects like physics, chemistry, geography, geopolitics, and especially mathematics.
+Linear algebra is the branch of mathematics concerning linear equations such as
+In mathematics, a differential equation is an equation that relates one or more unknown functions and their derivatives.
+In applications, the functions generally represent physical quantities, the derivatives represent their rates of change, and the differential equation defines a relationship between the two.
+Such relations are common in mathematical models and scientific laws; therefore, differential equations play a prominent role in many disciplines including engineering, physics, economics, and biology.
+Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force.
+It is one of the most fundamental scientific disciplines.
+A scientist who specializes in the field of physics is called a physicist.
+Chemistry is the scientific study of the properties and behavior of matter.
+It is a physical science within the natural sciences that studies matter: composition, structure, properties, behavior and the changes they undergo during reactions with other substances.
+Chemistry also addresses the nature of chemical bonds in chemical compounds.
+Biology is the scientific study of life and living organisms.
+It is a broad natural science that encompasses a wide range of fields and unifying principles that explain the structure, function, growth, origin, evolution, and distribution of life.
+Central to biology are five fundamental themes: the cell as the basic unit of life, genes and heredity as the basis of inheritance, evolution as the driver of biological diversity, energy transformation for sustaining life processes, and homeostasis, the maintenance of internal stability.
+Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos.
+It uses mathematics, physics, and chemistry to explain their origin and their overall evolution.
+Objects of interest include planets, moons, stars, nebulae, galaxies, meteoroids, asteroids, and comets.
+Relevant phenomena include supernova explosions, gamma ray bursts, quasars, blazars, pulsars, and cosmic microwave background radiation.
+More generally, astronomy studies everything that originates beyond Earth's atmosphere.
+Cosmology is the branch of astronomy that studies the universe as a whole.
+Cosmology is the study of the nature of the universe, the cosmos.
+The term cosmology was first used in English in 1656 in Thomas Blount's Glossographia, with the meaning of "a speaking of the world".
+In 1731, German philosopher Christian Wolff used the term cosmology in Latin (cosmologia) to denote a branch of metaphysics that deals with the general nature of the physical world.
+Cosmology is investigated by scientists, including astronomers and physicists, as well as philosophers, such as metaphysicians, philosophers of physics, and philosophers of space and time.
+Because of this shared scope with philosophy, theories in cosmology may include both scientific and non-scientific propositions and may depend upon assumptions that cannot be tested.
+Religious or mythological cosmology is a body of beliefs based on mythological, religious, and esoteric literature and traditions of creation myths and eschatology.
+Neuroscience is the scientific study of the nervous system, its functions, and its disorders.
+It is a multidisciplinary science that combines physiology, anatomy, molecular biology, developmental biology, cytology, psychology, physics, computer science, chemistry, medicine, statistics, and mathematical modeling to understand the fundamental and emergent properties of neurons, glia, and neural circuits.
+The understanding of the biological basis of learning, memory, behavior, perception, and consciousness has been described by Eric Kandel as the "epic challenge" of the biological sciences.
+Computer science is the study of computation, information, and automation.
+Included broadly in the sciences, computer science spans theoretical disciplines to applied disciplines.
+An expert in the field is known as a computer scientist.
+Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making.
+It is a field of research in engineering, mathematics, and computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximise their chances of achieving defined goals.
+In machine learning, deep learning (DL) focuses on utilizing multilayered neural networks to perform tasks such as classification, regression, and representation learning.
+The field takes inspiration from biological neuroscience and revolves around stacking artificial neurons into layers and "training" them to process data.
+The adjective "deep" refers to the use of multiple layers in the network.
+Methods used can be supervised, semi-supervised or unsupervised.
+In mathematics and computer science, an algorithm is a finite sequence of mathematically rigorous logical instructions, typically used to solve a class of specific problems or to perform a computation.
+Algorithms are used as specifications for performing calculations and data processing.
+More advanced algorithms can use conditionals to divert the code execution through various routes and deduce valid inferences.
+Cryptography, or cryptology, is the practice and study of techniques for secure communication in the presence of adversarial behavior.
+More generally, cryptography is about constructing and analyzing protocols that prevent third parties or the public from reading private messages.
+Modern cryptography exists at the intersection of the disciplines of mathematics, computer science, information security, electrical engineering, digital signal processing, physics, and others.
+Core concepts related to information security are also central to cryptography.
+Practical applications of cryptography include electronic commerce, chip-based payment cards, digital currencies, computer passwords and military communications.
+Philosophy is a systematic study of general and fundamental questions concerning topics like existence, knowledge, mind, reason, language, and value.
+It is a rational and critical inquiry that reflects on its methods and assumptions.
+Logic is the study of correct reasoning.
+It includes both formal and informal logic.
+Formal logic is the study of deductively valid inferences or logical truths.
+It examines how conclusions follow from premises based on the structure of arguments alone, independent of their topic and content.
+Informal logic is associated with informal fallacies, critical thinking, and argumentation theory.
+Informal logic examines arguments expressed in natural language whereas formal logic uses formal language.
+When used as a countable noun, the term "a logic" refers to a specific logical formal system that articulates a proof system.
+Logic plays a central role in many fields, such as philosophy, mathematics, computer science, and linguistics.
+Ethics is the philosophical study of moral phenomena.
+Also called moral philosophy, it investigates normative questions about what people ought to do or which behavior is morally right.
+Its main branches include normative ethics, applied ethics, and metaethics.
+Epistemology is the branch of philosophy that examines the nature, origin, and limits of knowledge.
+Also called the theory of knowledge, it explores different types of knowledge, such as propositional knowledge about facts, practical knowledge in the form of skills, and knowledge by acquaintance as a familiarity through experience.
+Epistemologists study the concepts of belief, truth, and justification to understand the nature of knowledge.
+To discover how knowledge arises, they investigate sources of justification, such as perception, introspection, memory, reason, and testimony.
+Metaphysics is the branch of philosophy that examines the basic nature or most fundamental structure of reality.
+It is traditionally seen as the study of mind-independent features of the world, but some theorists view it as an inquiry into the conceptual framework of human understanding.
+Some philosophers, including Aristotle, designate metaphysics as the first philosophy to suggest that it is more fundamental than other forms of philosophical inquiry.
+Psychology is the scientific study of the mind and behavior.
+Its subject matter includes the behavior of humans and nonhumans, both conscious and unconscious phenomena, and mental processes such as thoughts, feelings, and motives.
+Psychology is an academic discipline of broad scope, crossing the boundaries between the natural and social sciences.
+Sociology is the scientific study of human society that focuses on human social behavior, patterns of social relationships, social interaction, and aspects of culture associated with everyday life.
+The term sociology was coined in the late 18th century to describe the scientific study of society.
+As a social science, sociology uses various methods of empirical investigation and critical analysis to develop a body of knowledge about social order and social change.
+Sociological subject matter ranges from micro-level analyses of individual interaction and agency to macro-level analyses of social systems and social structure.
+Applied sociological research may be directed toward social policy and welfare, whereas theoretical approaches may focus on understanding social processes and the phenomenological method.
+Economics is a social science that studies the production, distribution, and consumption of goods and services.
+History is the systematic study of the past, focusing primarily on the human past.
+As an academic discipline, it analyses and interprets evidence to construct narratives about what happened and explain why it happened.
+Some theorists categorize history as a social science, while others see it as part of the humanities or consider it a hybrid discipline.
+Similar debates surround the purpose of history—for example, whether its main aim is theoretical, to uncover the truth, or practical, to learn lessons from the past.
+In a more general sense, the term history refers not to an academic field but to the past itself, times in the past, or to individual texts about the past.
+Geography is the study of the lands, features, inhabitants, and phenomena of planet Earth.
+Geography is an all-encompassing discipline that seeks an understanding of Earth and its human and natural complexities—not merely where objects are, but also how they have changed and come to be.
+While geography is specific to Earth, many concepts can be applied more broadly to other celestial bodies in the field of planetary science.
+Geography has been called "a bridge between natural science and social science disciplines."
+Geology is a branch of natural science concerned with the Earth and other astronomical bodies, the rocks of which they are composed, and the processes by which they change over time.
+The name comes from Ancient Greek  γῆ (gê) 'earth' and  λoγία (-logía) 'study of, discourse'.
+Modern geology significantly overlaps all other Earth sciences, including hydrology.
+It is integrated with Earth system science and planetary science.
+Climate is the long-term weather pattern in a region, typically averaged over 30 years.
+More rigorously, it is the mean and variability of meteorological variables over a time spanning from months to millions of years.
+Some of the meteorological variables that are commonly measured are temperature, humidity, atmospheric pressure, wind, and precipitation.
+In a broader sense, climate is the state of the components of the climate system, including the atmosphere, hydrosphere, cryosphere, lithosphere and biosphere and the interactions between them.
+The climate of a location is affected by its latitude, longitude, terrain, altitude, land use and nearby water bodies and their currents.
+Ecology is the natural science of the relationships among living organisms and their environment.
+Ecology considers organisms at the individual, population, community, ecosystem, and biosphere levels.
+Ecology overlaps with the closely related sciences of biogeography, evolutionary biology, genetics, ethology, and natural history.
+Evolution is the change in the heritable characteristics of biological populations over successive generations.
+It occurs when evolutionary processes such as genetic drift and natural selection act on genetic variation, resulting in certain characteristics becoming more or less common within a population over successive generations.
+The process of evolution has given rise to biodiversity at every level of biological organisation.
+Genetics is the study of genes, genetic variation, and heredity in organisms.
+It is an important branch in biology because heredity is vital to organisms' evolution.
+Gregor Mendel, a Moravian Augustinian friar working in the 19th century in Brno, was the first to study genetics scientifically.
+Mendel studied "trait inheritance", patterns in the way traits are handed down from parents to offspring over time.
+He observed that organisms inherit traits by way of discrete "units of inheritance".
+This term, still used today, is a somewhat ambiguous definition of what is referred to as a gene.
+Deoxyribonucleic acid is a polymer composed of two polynucleotide chains that coil around each other to form a double helix.
+The polymer carries genetic instructions for the development, functioning, growth and reproduction of all known organisms and many viruses.
+DNA and ribonucleic acid (RNA) are nucleic acids.
+Alongside proteins, lipids and complex carbohydrates (polysaccharides), nucleic acids are one of the four major types of macromolecules that are essential for all known forms of life.
+Proteins are large biomolecules and macromolecules that comprise one or more long chains of amino acid residues.
+Proteins perform a vast array of functions within organisms, including catalysing metabolic reactions, DNA replication, responding to stimuli, providing structure to cells and organisms, and transporting molecules from one location to another.
+Proteins differ from one another primarily in their sequence of amino acids, which is dictated by the nucleotide sequence of their genes, and which usually results in protein folding into a specific 3D structure that determines its activity.
+Pharmacology is the science of drugs and medications, including a substance's origin, composition and interaction with biological systems; specifically through pharmacokinetics, pharmacodynamics, therapeutic use, and toxicology.
+The discipline examines these interactions through pharmacokinetics and pharmacodynamics, both of which determine how a substance alters normal or abnormal biochemical function.
+Substances with medicinal properties are classified as pharmaceuticals, while the term drug encompasses any chemical agent that alters biological processes.
+Nanopharmacology is the specialization of pharmacology in the nanoscale.
+Technology is the application of conceptual knowledge to achieve practical goals, especially in a reproducible way.
+The word technology can also mean the products resulting from such efforts, including both tangible products such as tools or machines, and intangible ones such as software.
+Technology plays a critical role in science, engineering, and everyday life.
+Engineering is the practice of systematically applying natural science and mathematics to design and improve systems, devices, or processes that solve problems under constraints.
+It is typically motivated by satisfying human needs, resulting in creations such as bridges, engines, smartphones, pacemakers, the internet, spacecraft, and washing machines.
+Engineering involves balancing competing demands such as safety, performance, aesthetics, cost, laws and regulations, and time, while operating within fundamental limits such as the laws of physics.
+Robotics is the interdisciplinary study and practice of the design, construction, operation, and use of robots.
+A roboticist is someone who specializes in robotics.
+Robotics usually combines four aspects of design work: a power source, mechanical construction, a control system, and software.
+Biotechnology is a multidisciplinary field that involves the integration of natural sciences and engineering sciences to achieve the application of organisms and parts thereof for products and services.
+The Internet is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices.
+It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies.
+The Internet carries a vast range of information services and resources, such as the interlinked hypertext documents and applications of the World Wide Web (WWW), electronic mail, discussion groups, internet telephony, streaming media and file sharing.
+The World Wide Web is a global interconnected information system that enables content sharing over the Internet.
+It facilitates access to documents and other web resources according to specific rules of the Hypertext Transfer Protocol (HTTP).
+Software engineering is a branch of both computer science and engineering focused on designing, developing, testing, and maintaining software applications.
+It involves applying engineering principles and computer programming expertise to develop software systems that meet user needs.
+Computer graphics (CG) deals with generating images and art with the aid of computers.
+Computer graphics is a core technology in digital photography, film, video games, digital art, cell phone and computer displays, and many specialized applications.
+A great deal of specialized hardware and software has been developed, with the displays of most devices being driven by computer graphics hardware.
+It is a vast and recently developed area of computer science.
+The phrase was coined in 1960 by computer graphics researchers Verne Hudson and William Fetter of Boeing.
+It is often abbreviated as CG, or typically in the context of film as computer generated imagery (CGI).
+The non-artistic aspects of computer graphics are the subject of computer science research.
+Music is the arrangement of sound to create some combination of form, harmony, melody, rhythm, or otherwise expressive content.
+Music is generally agreed to be a cultural universal that is present in all human societies.
+Definitions of music vary widely in substance and approach.
+While scholars agree that music is defined by a small number of specific elements, there is no consensus as to what these necessary elements are.
+Music is often characterized as a highly versatile medium for expressing human creativity.
+Diverse activities are involved in the creation of music, and are often divided into categories of composition, improvisation, and performance.
+Music may be performed using a wide variety of musical instruments, including the human voice.
+It can also be composed, sequenced, or otherwise produced to be indirectly played mechanically or electronically, such as via a music box, barrel organ, or digital audio workstation software on a computer.
+Art is a diverse range of cultural activity centered around works utilizing creative or imaginative talents, which are expected to evoke a worthwhile experience, generally through an expression of emotional power, conceptual ideas, technical proficiency, or beauty.
+Literature is any collection of written work.
+The term is also used more narrowly for writings considered an art form, especially novels, plays, and poems.
+It includes both print and digital writing.
+In recent centuries, the definition has expanded to include oral literature, much of which has been transcribed.
+Literature is a method of recording, preserving, and transmitting knowledge and entertainment.
+It can also have a social, psychological, spiritual, or political role.
+Poetry is a form of literary art that uses aesthetic and often rhythmic qualities of language to evoke meanings in addition to, or in place of, literal or surface-level meanings.
+A particular instance of poetry is a poem and is written by a poet.
+Poets use a variety of techniques called poetic devices, such as assonance, alliteration, consonance, euphony and cacophony, onomatopoeia, rhythm, rhyme schemes and sound symbolism, to produce musical or other artistic effects.
+They also frequently organize these devices into poetic structures, which may be strict or loose, conventional or invented by the poet.
+Poetic structures vary dramatically by language and cultural convention, but they often rely on rhythmic metre: patterns of syllable stress or syllable weight.
+They may also use repeating patterns of phonemes, phoneme groups, tones, words, or entire phrases.
+Poetic structures may even be semantic.
+Theatre or theater is a collaborative form of performing art that uses live performers, usually actors, to present experiences of a real or imagined event before a live audience in a specific place, often a stage.
+The performers may communicate this experience to the audience through combinations of gesture, speech, song, music, and dance.
+A film, movie, or motion picture is a work of visual art that simulates experiences and otherwise communicates ideas, stories, perceptions, emotions, or atmosphere through the use of moving images that are generally, since the 1930s, synchronized with sound and sometimes feature other sensory stimuli.
+Architecture is the study and practice of designing structures, especially habitable ones.
+It utilizes civil engineering techniques, but is considered a visual art.
+It is both the process and the product of sketching, conceiving, planning, designing, and constructing buildings or other structures.
+The term comes from Latin  architectura; from Ancient Greek  ἀρχιτέκτων (arkhitéktōn) 'architect'; from  ἀρχι- (arkhi-) 'chief' and  τέκτων (téktōn) 'creator'.
+Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+Historical civilizations are often identified with their surviving architectural achievements.
+Sculpture is the branch of the visual arts that operates in three dimensions.
+Sculpture is the three-dimensional artwork which is physically presented in the dimensions of height, width and depth.
+It is one of the plastic arts.
+Durable sculptural processes originally used carving and modelling, in stone, metal, ceramics, wood and other materials but, since Modernism, there has been almost complete freedom of materials and process.
+A wide variety of materials may be worked by removal such as carving, assembled by welding or modelling, or moulded or cast.
+Painting is a visual art, characterized by the practice of applying paint, pigment, color, or other medium to a solid surface.
+The medium is commonly applied to the base with a brush.
+Other implements, such as palette knives, sponges, airbrushes, the artist's fingers, or even a dripping technique that uses gravity may be used.
+One who produces paintings is called a painter.
+Dance is an art form, consisting of sequences of body movements with aesthetic and often symbolic value, either improvised or purposefully selected.
+Dance can be categorized and described by its choreography, by its repertoire of movements or by its historical period or place of origin.
+Dance is typically performed with musical accompaniment, and sometimes with the dancer simultaneously using a musical instrument themselves.
+Opera is a form of Western theatre in which music is a fundamental component and dramatic roles are taken by singers.
+Such a "work" is typically a collaboration between a composer and a librettist and incorporates a number of the performing arts, such as acting, scenery, costume, and sometimes dance or ballet.
+The performance is typically given in an opera house, accompanied by an orchestra or smaller musical ensemble, which since the early 19th century has been led by a conductor.
+Although musical theatre is closely related to opera, the two are considered to be distinct from one another.
+Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia.
+It has since become a widespread and highly technical form of dance with its own vocabulary.
+Ballet has been influential globally and has defined the foundational techniques which are used in many other dance genres and cultures.
+Various schools around the world have incorporated their own cultures.
+As a result, ballet has evolved in distinct ways.
+Agriculture is the practice of cultivating the soil, planting, raising, and harvesting both food and non-food crops, as well as livestock production.
+Broader definitions also include forestry and aquaculture.
+Agriculture was a key factor in the rise of sedentary human civilization, whereby farming of domesticated plants and animals created food surpluses that enabled people to live in the cities.
+While humans started gathering grains at least 105,000 years ago, nascent farmers only began planting them around 11,500 years ago.
+Sheep, goats, pigs, and cattle were domesticated around 10,000 years ago.
+Plants were independently cultivated in at least 11 regions of the world.
+In the 20th century, industrial agriculture based on large-scale monocultures came to dominate agricultural output.
+Manufacturing is the creation or production of goods with the help of equipment, labor, machines, tools, and chemical or biological processing or formulation.
+It is the essence of the secondary sector of the economy.
+The term may refer to a range of human activity, from handicraft to high-tech, but it is most commonly applied to industrial design, in which raw materials from the primary sector are transformed into finished goods on a large scale.
+Such goods may be sold to other manufacturers for the production of other more complex products, or distributed via the tertiary sector to end users and consumers.
+A satellite or an artificial satellite is an object, typically a spacecraft, placed into orbit around a celestial body.
+They have a variety of uses, including communication relay, weather forecasting, navigation (GPS), broadcasting, scientific research, and Earth observation.
+Additional military uses are reconnaissance, early warning, signals intelligence and, potentially, weapon delivery.
+Other satellites include the final rocket stages that place satellites in orbit and formerly useful satellites that later become defunct.
+Energy is the quantitative property that is transferred to a body or to a physical system, recognizable in the capacity to do work and in the form of heat and light.
+Energy is a conserved quantity—the law of conservation of energy states that energy can be converted in form, but not created or destroyed.
+The unit of measurement for energy in the International System of Units (SI) is the joule (J).
+Renewable energy is energy made from renewable natural resources that are replenished on a human timescale.
+The most widely used renewable energy types are solar energy, wind power, and hydropower.
+Bioenergy and geothermal power are also significant in some countries.
+Renewable energy installations can be large or small and are suited for both urban and rural areas.
+Renewable energy is often deployed together with further electrification.
+This has several benefits: electricity can move heat and vehicles efficiently and is clean at the point of consumption.
+Variable renewable energy sources are those that have a fluctuating nature, such as wind power and solar power.
+In contrast, controllable renewable energy sources include dammed hydroelectricity, bioenergy, or geothermal power.
+A fossil fuel is a flammable carbon compound- or hydrocarbon-containing material formed naturally in the Earth's crust from the buried remains of prehistoric organisms, a process that occurs within geological formations.
+Reservoirs of such compound mixtures, such as coal, petroleum and natural gas, can be extracted and burnt as fuel for human consumption to provide energy for direct use, to power heat engines that can propel vehicles, or to generate electricity via steam turbine generators.
+Some fossil fuels are further refined into derivatives such as kerosene, gasoline and diesel, or converted into petrochemicals such as polyolefins (plastics), aromatics and synthetic resins.
+Nuclear power is the use of nuclear reactions to produce electricity.
+Nuclear power can be obtained from nuclear fission, nuclear decay and nuclear fusion reactions.
+Presently, the vast majority of electricity from nuclear power is produced by nuclear fission of uranium and plutonium in nuclear power plants.
+Nuclear decay processes are used in niche applications such as radioisotope thermoelectric generators in some space probes such as Voyager 2.
+Reactors producing controlled fusion power have been operated since 1958 but have yet to generate net power and are not expected to be commercially available in the near future.
+Wind power is the use of wind energy to generate useful work.
+Historically, wind power was used by sails, windmills and windpumps, but today it is mostly used to generate electricity.
+This article deals only with wind power for electricity generation.
+Today, wind power is generated almost completely using wind turbines, generally grouped into wind farms and connected to the electrical grid.
+The scientific method is an empirical method for acquiring knowledge through careful observation, rigorous skepticism, hypothesis testing, and experimental validation.
+Developed from ancient and medieval practices, it acknowledges that cognitive assumptions can distort the interpretation of the observation.
+The scientific method has characterized science since at least the 17th century.
+Scientific inquiry includes creating a testable hypothesis through inductive reasoning, testing it through experiments and statistical analysis, and adjusting or discarding the hypothesis based on the results.
+Law is a set of rules that are created and enforced by governmental or societal institutions to regulate behavior, with its precise definition a matter of longstanding debate.
+It has been variously described as a science and as the art of justice.
+State-enforced laws can be made by a legislature, resulting in statutes; by the executive through decrees and regulations; or by judges' decisions, which form precedent in common law jurisdictions.
+An autocrat may exercise those functions within their realm.
+The creation of laws themselves may be influenced by a constitution, written or tacit, and the rights encoded therein.
+The law shapes politics, economics, history, and society in various ways and also serves as a mediator of relations between people.
+In philosophy, empiricism is an epistemological view which holds that true knowledge or justification comes either only or primarily from sensory experience and empirical evidence.
+It is one of several competing views within epistemology, along with rationalism and skepticism.
+Empiricists argue that empiricism is a more reliable method of finding the truth than relying purely on logical reasoning, because humans have cognitive biases and limitations which lead to errors of judgement.
+World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers.
+One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides.
+The war also helped spread the Spanish flu pandemic.
+The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.
+World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers.
+Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale.
+World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians.
+Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust.
+After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.
+The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc.
+It began in the aftermath of the Second World War and ended with the dissolution of the Soviet Union in 1991.
+The term cold war is used because there was no direct fighting between the two superpowers, though each supported opposing sides in regional conflicts known as proxy wars.
+In addition to the struggle for ideological and economic influence and an arms race in both conventional and nuclear weapons, the Cold War was expressed through technological rivalries such as the Space Race, espionage, propaganda campaigns, embargoes, and sports diplomacy.
+The French Revolution was a period of political and societal change in France that began with the Estates General of 1789 and ended with the Coup of 18 Brumaire on 9 November 1799.
+Many of the revolution's ideas are considered fundamental principles of liberal democracy, and its values remain central to modern French political discourse.
+It was caused by a combination of social, political, and economic factors which the existing regime proved unable to manage.
+The American Revolution (1765–1789) was a political movement in the Thirteen Colonies of Great Britain.
+It began as a rebellion and turned into a revolution eventually creating the sovereign United States, which was the outcome of the associated American Revolutionary War (1775–1783).
+The Second Continental Congress, as the provisional government, established the Continental Army and appointed George Washington as its commander-in-chief in 1775.
+The following year, the Congress passed the Lee Resolution on July 2nd and unanimously adopted the Declaration of Independence on July 4th.
+Throughout most of the war, the outcome appeared uncertain, but a 1781 victory by Washington and the Continental Army in the Siege of Yorktown led King George III and the Fox–North coalition in government to negotiate the cessation of colonial rule and the acknowledgment of American sovereignty, which was formalized in the Treaty of Paris, signed on September 3, 1783.
+The Constitution took effect in 1789 and the Bill of Rights was ratified in 1791.
+The Renaissance was a European period of history and cultural movement taking place at the end of the Late Middle Ages and the beginning of the early modern era.
+It is variously defined as covering the 15th and 16th centuries or, more broadly, as lasting from the 14th century to the 17th.
+It was characterized by the European rediscovery and revival of the literary, philosophical, and artistic achievements of classical antiquity.
+Associated with great change in art, architecture, politics, literature, exploration and technology, the Renaissance was first centered in the Republic of Florence, then spread to the rest of Italy and later throughout Europe.
+In the history of Europe, the Middle Ages or medieval period lasted approximately from the 5th to late 15th centuries, comparable with the post-classical period of global history.
+The medieval period is the middle epoch of the three traditional divisions of Western history: classical antiquity, the medieval period, and the modern period.
+The medieval period is itself subdivided into the Early, High, and Late Middle Ages.
+In modern historiography, ancient Rome is the Roman civilisation from the founding of the Italian city of Rome in the 8th century BC to the collapse of the Western Roman Empire in the 5th century AD.
+It encompasses the Roman Kingdom (753–509 BC), the Roman Republic (509‍–‍27 BC), and the Roman Empire until the fall of the western empire.
+Ancient Greece was an ancient civilization existing from the Greek Dark Ages of the 12th–9th centuries BC to the end of classical antiquity, comprising a loose collection of culturally and linguistically related city-states and regions, primarily centered in the northeastern area of the Mediterranean Sea.
+Prior to the Roman period, most of this area was officially unified only once, from 338 to 323 BC under the Kingdom of Macedon.
+In Western history, the era of classical antiquity was immediately followed by the Early Middle Ages and the Byzantine period.
+Ancient Egypt was a cradle of civilization concentrated along the lower reaches of the Nile River in the eastern part of North Africa.
+It emerged from prehistoric Egypt around 3150 BC, when Upper and Lower Egypt were united by Menes, who is believed by the majority of Egyptologists to have been the same person as Narmer.
+The history of ancient Egypt unfolded as a series of stable kingdoms interspersed by the "Intermediate Periods" of relative instability.
+These stable kingdoms existed in one of three periods: the Old Kingdom of the Early Bronze Age; the Middle Kingdom of the Middle Bronze Age; or the New Kingdom of the Late Bronze Age.
+The Byzantine Empire, also known as the Eastern Roman Empire, was the continuation of the Roman Empire centred on Constantinople during late antiquity and the Middle Ages.
+Having survived the fall of the Western Roman Empire in the 5th century AD, it endured until the fall of Constantinople to the Ottoman Empire in 1453.
+The term 'Byzantine Empire' was coined only after its demise; its citizens used the term 'Roman Empire' and called themselves 'Romans'.
+The Ottoman Empire, historically also known as the Turkish Empire or Turkey, was a state that spanned much of Southeastern Europe, West Asia, and North Africa from the 14th century to the early 20th century, centred in modern-day Turkey.
+It also controlled parts of southeastern Central Europe between the early 16th and early 18th centuries.
+The Mongol Empire was the largest contiguous empire in history.
+Originating in present-day Mongolia in East Asia, the medieval empire at its height stretched from the Sea of Japan to Eastern Europe, extending northward into Siberia and east and southward into the Indian subcontinent, mounting invasions of Southeast Asia, and conquering the Iranian Plateau; and reaching westward as far as the Levant and the Carpathian Mountains.
+The British Empire comprised British dominions, colonies, protectorates, mandates, and other territories.
+It began with the overseas possessions and trading posts established by England in the late 16th and early 17th centuries, and colonisation attempts by Scotland during the 17th century.
+At its height in the 19th and early 20th centuries, it was the largest empire in history and, for a century, was the foremost global power.
+By 1913 the British Empire held sway over 412 million people, 23 per cent of the world population at the time, and by 1920 it covered 35.5 million km2 (13.7 million sq mi), 24 per cent of the Earth's total land area.
+As a result, its constitutional, legal, linguistic, and cultural legacy is widespread.
+It was described as "the empire on which the sun never sets", as the sun was always shining on at least one of its territories.
+Colonialism is the practice of extending and maintaining political, social, economic, and cultural domination over a territory and its people by another people in pursuit of interests defined in an often distant metropole, who also claim superiority.
+While frequently an imperialist project, colonialism functions through differentiating between the targeted land and people, and that of the colonizers.
+Rather than annexation, this typically culminates in organizing the colonized into colonies separate to the colonizers' metropole.
+Colonialism sometimes deepens by developing settler colonialism, whereby settlers from one or multiple colonizing metropoles occupy a territory with the intention of partially or completely supplanting the existing Indigenous peoples, possibly amounting to genocide.
+A republic, based on the Latin phrase res publica, is a state in which political power rests with the public (people), typically through their representatives—in contrast to a monarchy or a direct democracy.
+Although a republic is most often a single sovereign state, subnational state entities that have governments that are republican in nature may be referred to as republics.
+Communism is a political and economic ideology whose goal is the creation of a communist society, a socioeconomic classless order centered on common ownership of the means of production, distribution, and exchange that allocates products in society based on need.
+A communist society entails the absence of private property and social classes, and ultimately money and the state.
+The United Nations (UN) is an international intergovernmental organization established by the signing of the Charter of the United Nations on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals.
+The European Union (EU) is a political and economic union of 27 member states that are located primarily in Europe.
+A supranational union with a total area of 4,233,255 km2 (1,634,469 sq mi) and an estimated population of just under 452 million as of 2026, its member states generated a nominal gross domestic product (GDP) of around €18.802 trillion in 2025, accounting for approximately one sixth of global economic output.
+The EU is often described as a sui generis political entity combining characteristics of both a federation and a confederation.
+The World Bank Group (WBG) is a family of five international organizations that make leveraged loans to developing countries.
+The group is the largest development bank in the world.
+It is headquartered in Washington, D.C., United States.
+The bank's stated mission is to achieve the twin goals of ending extreme poverty and building shared prosperity.
+Historically, within the group, the IBRD and IDA were collectively known as the World Bank due to their emphasis on global lending.
+Africa is the world's second-largest and second-most populous continent after Asia.
+At about 30.3 million km2 including adjacent islands, it covers around 20% of Earth's land area and 6% of its total surface area.
+With nearly 1.4 billion of the world population, Africa's population is the youngest among the continents; the median age in 2012 was 19.7, when the worldwide median age was 30.4.
+Based on 2024 projections, Africa's population will exceed 3.8 billion people by 2100.
+Africa is the least wealthy inhabited continent per capita and second-least wealthy by total wealth, ahead of Oceania.
+Scholars have attributed this to various factors including geography, climate, corruption, colonialism, the Cold War, and neocolonialism.
+Despite this low concentration of wealth, the African economy is home to many of the world's fastest-growing economies.
+Asia is the largest continent in the world by both land area and population.
+It covers an area of more than 44 million square kilometres, about 30% of Earth's total land area and 8% of Earth's total surface area.
+The continent, which has long been home to the majority of the human population, was the site of many of the first civilisations.
+Its 4.7 billion people constitute roughly 60% of the world's population.
+North America is a continent in the Northern and Western hemispheres.
+It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the south and west by the Pacific Ocean.
+Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands.
+It has a land area of 7,688,287 km2 (2,968,464 sq mi), making it the sixth-largest country in the world, and is the world's flattest and driest inhabited continent.
+It is a megadiverse country, and its size gives it a wide variety of landscapes and climates, including deserts in the interior and tropical rainforests along the coast.
+Antarctica is Earth's southernmost and least-populated continent.
+Situated almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean, it contains the geographic South Pole.
+Antarctica is the fifth-largest continent, being about 40% larger than Europe, and has an area of 14,200,000 km2 (5,500,000 sq mi).
+Most of Antarctica is covered by the Antarctic ice sheet, with an average thickness of 1.9 km (1.2 mi).
+The Arctic is the polar region of Earth that surrounds the North Pole, lying north of the Arctic Circle.
+The Arctic region, from the IERS Reference Meridian travelling east, consists of parts of northern Norway, northernmost Sweden, northern Finland, Russia, the United States (Alaska), Canada, Danish Realm (Greenland), and northern Iceland, along with the Arctic Ocean and adjacent seas.
+The Pacific Ocean is the largest and deepest of Earth's five oceanic divisions.
+It stretches from the Arctic Ocean in the north to the Southern Ocean, or, depending on the definition, to Antarctica in the south, and is bounded by the continents of Asia and Australia in the west and the Americas in the east.
+The Atlantic Ocean is the second largest of the world's five oceans, with an area of about 85,133,000 square kilometers (32,870,000 sq mi).
+It covers approximately 17% of Earth's surface and about 24% of its water surface area.
+During the Age of Discovery, it was known for separating the New World of the Americas from the Old World of Afro-Eurasia.
+The Indian Ocean is the third-largest of the world's five oceanic divisions, covering 70,560,000 km2 (27,240,000 sq mi) or approximately 20% of the water area of Earth's surface.
+It is bounded by Asia to the north, Africa to the west and Australia to the east.
+To the south it is bounded by the Southern Ocean or Antarctica, depending on the definition in use.
+The Indian Ocean has large marginal or regional seas, including the Andaman Sea, the Arabian Sea, the Bay of Bengal, and the Laccadive Sea.
+The Amazon rainforest, also called the Amazon jungle, Amazonia, or simply the Amazon, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America.
+This basin encompasses 7 million km2 (2.7 million sq mi), of which 6 million km2 (2.3 million sq mi) are covered by the rainforest.
+This region includes territory belonging to nine nations and 3,344 indigenous territories.
+Mount Everest is the highest mountain on Earth above sea level.
+It lies in the Mahalangur Himal sub-range of the Himalayas and marks part of the China–Nepal border at its summit.
+Its height was most recently measured in 2020 through a joint survey by Nepalese and Chinese authorities as 8,848.86 m.
+The Nile is a major north-flowing river in northeast Africa which empties into the Mediterranean Sea.
+At 7,088 kilometers (4,404 mi) long, it is the longest river in the world, although the volume of water it carries is much smaller than other major rivers such as the Amazon or the Congo.
+The Nile has played a central role in the environmental, economic, and cultural history of Africa for millennia.
+The Amazon River in South America is the largest river by discharge volume of water in the world, and the second-longest or longest river system in the world, a title which is disputed with the Nile.
+The Mediterranean Sea is an intercontinental sea situated between Europe, Asia, and Africa.
+It is surrounded by the Mediterranean basin and almost completely enclosed by land: on the east by the Levant in West Asia, on the north by Anatolia in West Asia and Southern Europe, and on the south by North Africa.
+To its west it is connected to the Atlantic Ocean via the Strait of Gibraltar that separates the Iberian Peninsula in Europe from Morocco in Africa by only 14 km (9 mi); additionally, it is connected to the Black Sea through the Bosporus strait that intersects Turkey in the northeast and the Red Sea via the Suez Canal in the southeast.
+Humans are the most abundant and widespread species of primates, characterized by bipedalism, minimal body hair, and large, complex brains enabling the development of advanced technology, culture, and language.
+Humans are highly social beings and tend to live in complex social structures composed of many cooperating and competing groups, from families and kinship networks to political states.
+Social interactions between humans have established a wide variety of values, social norms, and rituals, which bolster human society.
+Curiosity and the human desire to understand and influence the environment have motivated humanity's development of science, philosophy, religion, mythology and other fields of knowledge.
+The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals.
+It consists of nervous tissue and is typically located in the head (cephalization), usually near organs for special senses such as vision, hearing, and olfaction.
+Being the most specialized organ, it is responsible for receiving information from the sensory nervous system, processing that information and the coordination of motor control and the endocrine system.
+The heart is a muscular organ found in humans and other animals.
+This organ pumps blood through the blood vessels.
+The heart and blood vessels together make up the circulatory system.
+The pumped blood carries oxygen and nutrients to the tissue, while carrying metabolic waste such as carbon dioxide to the lungs.
+In humans, the heart is approximately the size of a closed fist and is located between the lungs, in the middle compartment of the chest, called the mediastinum.
+The lungs are the primary organs of the respiratory system in many animals, including humans.
+In mammals and most other tetrapods, two lungs are located near the backbone on either side of the heart.
+Their function in the respiratory system is to extract oxygen from the atmosphere and transfer it into the bloodstream, and to release carbon dioxide from the bloodstream into the atmosphere, in a process of gas exchange.
+Respiration is driven by different muscular systems in different species.
+Mammals, reptiles and birds use their musculoskeletal systems to support and foster breathing.
+In early tetrapods, air was driven into the lungs by the pharyngeal muscles via buccal pumping, a mechanism still seen in amphibians.
+In humans, the primary muscle that drives breathing is the diaphragm.
+The lungs also provide airflow that makes vocalisation including speech possible.
+The liver is a major metabolic organ exclusively found in vertebrates which performs many essential biological functions, such as detoxification of the organism and the synthesis of various proteins and various other biochemicals necessary for digestion and growth.
+In humans, it is located in the right upper quadrant of the abdomen, below the diaphragm and mostly shielded by the lower right rib cage.
+Its other metabolic roles include carbohydrate metabolism, the production of a number of hormones, conversion and storage of nutrients such as glucose and glycogen, and the decomposition of red blood cells.
+Anatomical and medical terminology often use the prefix hepat- from ἡπατο-, from the Greek word for liver, such as hepatology, and hepatitis.
+An eye is a sensory organ that allows an organism to perceive visual information.
+It detects light and converts it into electro-chemical impulses in neurons (neurones).
+It is part of an organism's visual system.
+A skeleton is the structural frame that supports the body of most animals.
+There are several types of skeletons, including the exoskeleton, which is a rigid outer shell that holds up an organism's shape; the endoskeleton, a rigid internal frame to which the organs and soft tissues attach; and the hydroskeleton, a flexible internal structure supported by the hydrostatic pressure of body fluids.
+Muscle is a specialised soft tissue, one of the four basic types of animal tissues.
+There are three types of muscle tissues in vertebrates: skeletal muscle tissue, cardiac muscle tissue, and smooth muscle tissue.
+Muscle tissue gives skeletal muscles the ability to contract and relax.
+Muscle tissue contains special contractile proteins called actin and myosin which interact to cause movement.
+Among many other muscle proteins present are two regulatory proteins, troponin and tropomyosin.
+Muscle is formed during embryonic development, in a process known as myogenesis.
+In biology, the nervous system is the highly complex part of an animal that coordinates its actions and sensory information by transmitting signals to and from different parts of its body.
+The nervous system detects environmental changes that impact the body, then works in tandem with the endocrine system to respond to such events.
+Nervous tissue first arose in wormlike organisms about 550 to 600 million years ago.
+In vertebrates, it consists of two main parts, the central nervous system (CNS) and the peripheral nervous system (PNS).
+The CNS consists of the brain and spinal cord.
+The PNS consists mainly of nerves, which are enclosed bundles of long fibers, or axons, that connect the CNS to every other part of the body.
+Nerves that transmit signals from the brain are called motor nerves (efferent), while those nerves that transmit information from the body to the CNS are called sensory nerves (afferent).
+The PNS is divided into two separate subsystems, the somatic and autonomic nervous systems.
+The autonomic nervous system is further subdivided into the sympathetic, parasympathetic and enteric nervous systems.
+The sympathetic nervous system is activated in cases of emergencies to mobilize energy, while the parasympathetic nervous system is activated when organisms are in a relaxed state.
+The enteric nervous system functions to control the gastrointestinal system.
+Nerves that exit from the brain are called cranial nerves while those exiting from the spinal cord are called spinal nerves.
+The immune system is a network of biological systems that protects an organism from diseases.
+It detects and responds to a wide variety of pathogens, such as viruses, bacteria, and parasites, as well as cancer cells and foreign objects, such as wood splinters—distinguishing them from the organism's own healthy tissue.
+Many species have two major subsystems of the immune system.
+The innate immune system provides a preconfigured response to broad groups of situations and stimuli.
+The adaptive immune system provides a tailored response to each stimulus by learning to recognize molecules it has previously encountered.
+Both use specialised molecules and cells to perform their functions.
+The human digestive system consists of the gastrointestinal tract plus the accessory organs of digestion.
+Digestion involves the breakdown of food into smaller and smaller components, until they can be absorbed and assimilated into the body.
+The process of digestion has three stages: the cephalic phase, the gastric phase, and the intestinal phase.
+The respiratory system is a biological system consisting of specific organs and structures used for gas exchange in animals and plants.
+Consciousness is being aware of something internal to one's self, or of states or objects in one's external environment.
+It has been the topic of extensive explanations, analyses, and debate among philosophers, scientists, and theologians for millennia.
+There is no consensus on what exactly needs to be studied, or whether consciousness can be considered a scientific concept.
+In some explanations it is synonymous with mind, while in others it is considered an aspect of it.
+Memory is the faculty of the mind by which data or information is encoded, stored, and retrieved when needed.
+It is the retention of information over time for the purpose of influencing future action.
+If past events could not be remembered, it would be impossible for language, relationships, or personal identity to develop.
+Memory loss is usually described as forgetfulness or a disorder such as amnesia.
+Learning is the process of acquiring new understanding, knowledge, behavior, skills, values, attitudes, and preferences.
+The ability to learn is possessed by humans, other animals, and some machines.
+There is also evidence for some kind of learning in certain plants.
+Some learning is immediate, induced by a single event, but much skill and knowledge accumulate from repeated experiences.
+The changes induced by learning often last a lifetime, and it is hard to distinguish learned material that seems to be "lost" from that which cannot be retrieved.
+Perception is the identification, interpretation and organization of sensory information, in order to represent and understand the presented information or environment.
+All perception involves signals that go through the nervous system, which in turn result from physical or chemical stimulation of the sensory system.
+Vision involves light striking the retina of the eye; smell is mediated by odor molecules; and hearing involves pressure waves.
+Emotions are physical and mental states brought on by neurophysiological and neuropsychological changes, variously associated with subjective experiences such as thoughts, feelings, behavioral responses, and a degree of pleasure or displeasure.
+There is no scientific consensus on a definition.
+Emotions are often intertwined with mood, temperament, personality, disposition, or creativity.
+Writing is the act of creating a persistent, usually visual representation of language on a surface.
+As a structured system of communication, writing is also known as written language.
+Historically, written languages have emerged as a way to record corresponding spoken languages.
+A particular set of symbols, called a script, as well as the rules by which they encode a particular spoken language, is known as a writing system.
+In some rare cases, writing may be tactile rather than visual.
+Communication is commonly defined as the transmission of information.
+Its precise definition is disputed and there are disagreements about whether unintentional or failed transmissions are included and whether communication not only transmits meaning but also creates it.
+Models of communication are simplified overviews of its main components and their interactions.
+Many models include the idea that a source uses a coding system to express information in the form of a message.
+The message is sent through a channel to a receiver who has to decode it to understand it.
+The main field of inquiry investigating communication is called communication studies.
+Education is the transmission of knowledge and skills and the development of character traits.
+Formal education happens in a complex institutional framework, like public schools.
+Non-formal education is also structured but occurs outside the formal schooling system, while informal education is unstructured learning through daily experiences.
+Formal and non-formal education are divided into levels that include early childhood education, primary education, secondary education, and tertiary education.
+Other classifications focus on the teaching method, like teacher-centered and student-centered education, and on the subject, like science education, language education, and physical education.
+The term "education" can also refer to the mental states and qualities of educated people and the academic field studying educational phenomena.
+A school is an educational institution designed to provide learning environments for the teaching of students, usually under the direction of teachers.
+Most countries have systems of formal education, which is sometimes compulsory.
+In these systems, students progress through a series of schools that can be built and operated by both government and private organizations.
+The names for these schools vary by country but generally include primary school for young children and secondary school for teenagers who have completed primary education.
+An institution where higher education is taught is commonly called a university college or university.
+A university is an institution of tertiary education and research which awards academic degrees in several academic disciplines.
+University is derived from the Latin phrase universitas magistrorum et scholarium, which roughly means "community of teachers and scholars".
+Universities typically offer both undergraduate and postgraduate programs.
+Research is creative and systematic work undertaken to increase the stock of knowledge.
+It involves the collection, organization, and analysis of evidence to increase understanding of a topic, characterized by a particular attentiveness to controlling sources of bias and error.
+These activities are characterized by accounting and controlling for biases.
+A research project may be an expansion of past work in the field.
+To test the validity of instruments, procedures, or experiments, research may replicate elements of prior projects or the project as a whole.
+A patent is a type of intellectual property that gives its owner the legal right to exclude others from making, using, or selling an invention for a limited period of time, in exchange for publishing an enabling disclosure of the invention.
+It offers a bargain between society and inventor: for a limited period of exclusivity, the inventor agrees to make the invention public rather than to keep it secret.
+In most countries, patent rights fall under private law and the patent holder must sue someone infringing the patent in order to enforce their rights.
+A copyright is a type of intellectual property that gives its owner the exclusive legal right to copy, distribute, adapt, display, and perform a creative work, usually for a limited time.
+The creative work may be in a literary, artistic, educational, or musical form.
+Copyright is intended to protect the original expression of an idea in the form of a creative work, but not the idea itself.
+A copyright is subject to limitations based on public interest considerations, such as the fair use doctrine in the United States and fair dealing doctrine in the United Kingdom.
+Intellectual property (IP) is a category of property that includes intangible creations of the human intellect.
+There are many types of intellectual property, and some countries recognize more than others.
+The best-known types are patents, copyrights, trademarks, and trade secrets.
+The modern concept of intellectual property was developed in England in the 17th and 18th centuries.
+The term "intellectual property" began to be used in the 19th century, though it was not until the late 20th century that intellectual property became commonplace in most of the world's legal systems.
+Python is a high-level, general-purpose programming language that emphasizes code readability, simplicity, and ease-of-writing with the use of significant indentation, an extensive ("batteries-included") standard library, and garbage collection.
+Python supports multiple programming paradigms but with an emphasis on object-oriented programming and dynamic typing.
+Java is a high-level, general-purpose, memory-safe, object-oriented programming language.
+It is intended to let programmers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need to recompile.
+Java applications are usually compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture.
+The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them.
+The Java runtime provides dynamic abilities usually unavailable in traditional compiled languages.
+Linux is a family of free and open-source software Unix-like operating systems based on the Linux kernel, which was first released on 17 September 1991 by Linus Torvalds.
+Some members of the family are typically packaged as a distribution, which includes the kernel alongside supporting system software and libraries developed by third parties—such as GNU, Red Hat, and X.Org—to create a complete operating system; however, not all Linux-based operating systems are considered distros, with Android being an example.
+Linux was originally designed as a clone of Unix and is distributed under the copyleft GPL license.
+Unix is a family of multitasking, multi-user computer operating systems that derive from the original AT&T Unix, the development of which started in 1969 at the Bell Labs research center by Ken Thompson, Dennis Ritchie, and others.
+Initially intended for use inside the Bell System, AT&T licensed Unix to outside parties in the late 1970s, leading to a variety of both academic and commercial Unix variants from vendors including University of California, Berkeley (BSD), Microsoft (Xenix), Sun Microsystems (SunOS/Solaris), HP/HPE (HP-UX), and IBM (AIX).
+Windows is a proprietary operating system developed by Microsoft.
+Windows is grouped into families that cater to particular sectors of the computing industry – Windows for personal computers, Windows Server for servers, and Windows IoT for embedded systems.
+Windows itself is further grouped into editions that cater to different users – Home for home users, Professional for advanced users, Education for schools, and Enterprise for corporations.
+Windows is sold both as a consumer retail product and to computer manufacturers, who bundle and distribute it with their systems.
+A smartphone is a mobile device that combines the functionality of a traditional mobile phone with advanced computing capabilities.
+It typically has a touchscreen interface, allowing users to access a wide range of applications and services, such as web browsing, email, and social media, as well as multimedia playback and streaming.
+Smartphones have built-in cameras, GPS navigation, and support for various communication methods, including voice calls, text messaging, and internet-based messaging apps.
+Smartphones are distinguished from older-design feature phones by their more advanced hardware capabilities and extensive mobile operating systems, access to the internet, business applications, mobile payments, and multimedia functionality, including music, video, gaming, radio, and television.
+A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation).
+Modern digital electronic computers can perform generic sets of operations known as programs, which enable computers to perform a wide range of tasks.
+The term computer system may refer to a nominally complete computer that includes the hardware, operating system, software, and peripheral equipment needed and used for full operation, or to a group of computers that are linked and function together, such as a computer network or computer cluster.
+A transistor is a semiconductor device used to amplify or switch electrical signals and power.
+It is one of the basic building blocks of modern electronics.
+It is composed of semiconductor material, usually with at least three terminals for connection to an electronic circuit.
+A voltage or current applied to one pair of the transistor's terminals controls the current through another pair of terminals.
+Because the controlled (output) power can be higher than the controlling (input) power, a transistor can amplify a signal.
+Some transistors are packaged individually, but many more in miniature form are found embedded in integrated circuits.
+Because transistors are the key active components in practically all modern electronics, they are considered one of the 20th century's greatest inventions.
+A semiconductor is a material with electrical conductivity between that of a conductor and an insulator.
+Its conductivity can be modified by adding impurities ("doping") to its crystal structure.
+When two regions with different doping levels are present in the same crystal, they form a semiconductor junction.
+The term "semiconductors" is sometimes used to refer to semiconductor devices such as microchips and computer processors, which work using the physical properties of semiconductors.
+Silicon is a chemical element; it has symbol Si and atomic number 14.
+It is a hard, brittle crystalline solid with a blue-grey metallic lustre, and is a tetravalent non-metal and semiconductor.
+It is a member of group 14 in the periodic table: carbon is above it; and germanium, tin, lead, and flerovium are below it.
+It is relatively unreactive.
+Silicon is a significant element that is essential for several physiological and metabolic processes in plants.
+Silicon is widely used as a semiconductor material in various electrical devices such as transistors, solar cells, and integrated circuits.
+It dominates semiconductor applications due to its low cost, excellent electronic properties, and adaptable physical characteristics.
+An embedded system is a specialized computer system—a combination of a computer processor, computer memory, and input/output peripheral devices—that has a dedicated function within a larger mechanical or electronic system.
+It is embedded as part of a complete device, often including electrical or electronic hardware and mechanical parts.
+Radio is the technology of communicating using radio waves.
+Radio waves are electromagnetic waves of frequency between 3 hertz (Hz) and 300 gigahertz (GHz).
+They are generated by an electronic device called a transmitter connected to an antenna which radiates the waves.
+They can be received by other antennas connected to a radio receiver; this is the fundamental principle of radio communication.
+In addition to communication, radio is used for radar, radio navigation, remote control, remote sensing, and other applications.
+Television (TV) is a telecommunication medium for transmitting moving images and sound.
+Additionally, the term can refer to a physical television set rather than the medium of transmission.
+Television is a mass medium for advertising, entertainment, news, and sports.
+The medium is capable of more than "radio broadcasting", which refers to an audio signal sent to radio receivers.
+A telephone, commonly shortened to phone, is a telecommunications device that enables two or more users to conduct a conversation when they are too far apart to be easily heard directly.
+A telephone converts sound, typically and most efficiently the human voice, into electronic signals that are transmitted via cables and other communication channels to another telephone which reproduces the sound to the receiving user.
+The term is derived from Ancient Greek: τῆλε, romanized: tēle, lit. 'far' and φωνή, together meaning distant voice.
+Telegraphy is the long-distance transmission of messages where the sender uses symbolic codes, known to the recipient, rather than a physical exchange of an object bearing the message.
+Thus flag semaphore is a method of telegraphy, whereas pigeon post is not.
+Ancient signalling systems, although sometimes quite extensive and sophisticated as in China, were generally not capable of transmitting arbitrary text messages.
+Possible messages were fixed and predetermined, so such systems are thus not true telegraphs.
+A printing press is a machine that transfers ink onto materials such as paper or cloth by applying pressure to an inked surface.
+It marked a major advance on earlier methods, in which ink was applied to the printing surface and the paper was rubbed by hand to transfer it.
+The invention and global spread of the printing press transformed book production and communication during the early modern period.
+A wheel is a rotating component intended to turn on an axle bearing.
+The wheel is one of the key components of the wheel and axle, which is one of the six simple machines.
+Wheels, in conjunction with axles, allow heavy objects to be moved easily, facilitating transportation, supporting loads, and performing work in machines.
+Wheels are also used for other purposes, such as a ship's wheel, steering wheel, potter's wheel, and flywheel.
+A steam engine is a heat engine that performs mechanical work using steam as its working fluid.
+The steam engine uses the force produced by steam pressure to push a piston back and forth inside a cylinder.
+This pushing force can be transformed by a connecting rod and crank into rotational force for work.
+The term "steam engine" is normally applied to reciprocating engines, although some authorities have also referred to the steam turbine and devices such as Hero's aeolipile as "steam engines".
+The essential feature of steam engines is that they are external combustion engines, where the working fluid is separated from the combustion products.
+The ideal thermodynamic cycle used to analyze this process is called the Rankine cycle.
+In general usage, the term "steam engine" can refer to either complete steam plants, such as railway steam locomotives and portable engines, or may refer to the piston or turbine machinery alone, as in the beam engine and stationary steam engine.
+An internal combustion engine is a heat engine in which the combustion of a fuel occurs with an oxidizer in a combustion chamber that is an integral part of the working fluid flow circuit.
+In an internal combustion engine, the expansion of the high-temperature and high-pressure gases produced by combustion applies direct force to components of the engine.
+The force is typically applied to pistons, turbine blades, a rotor, or a nozzle.
+This force moves the component over a distance.
+This process transforms chemical energy into kinetic energy which is used to propel, move or power whatever the engine is attached to.
+An electric motor is a machine that converts electrical energy into mechanical energy.
+Most electric motors operate through the interaction between the motor's magnetic field and electric current in a wire winding to generate Lorentz force in the form of torque applied on the motor's shaft.
+An electric generator is mechanically identical to an electric motor but operates inversely, converting mechanical energy into electrical energy.
+A solar cell, also known as a photovoltaic cell, is an electronic device that converts the energy of light directly into electricity by using the photovoltaic effect.
+It is a type of photoelectric cell, a device whose electrical characteristics vary when it is exposed to light.
+Individual solar cell devices are often the electrical building blocks of photovoltaic modules, known colloquially as "solar panels".
+Almost all commercial PV cells consist of crystalline silicon, with a market share of 95%.
+Cadmium telluride thin-film solar cells account for the remainder.
+The common single-junction silicon solar cell can produce a maximum open-circuit voltage of approximately 0.5 to 0.6 volts.
+A laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnetic radiation.
+The word laser originated as an acronym for light amplification by stimulated emission of radiation.
+The first laser was built in 1960 by Theodore Maiman at Hughes Research Laboratories, based on theoretical work by Charles H.
+Townes and Arthur Leonard Schawlow and the optical amplifier patented by Gordon Gould.
+A microscope is a laboratory instrument used to examine objects that are too small to be seen by the naked eye.
+Microscopy is the science of investigating small objects and structures using a microscope.
+Microscopic means being invisible to the eye unless aided by a microscope.
+A telescope is a device used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation.
+Originally, it was an optical instrument using lenses, curved mirrors, or a combination of both to observe distant objects – an optical telescope.
+Nowadays, the word "telescope" is defined as a wide range of instruments capable of detecting different regions of the electromagnetic spectrum, and in some cases other types of detectors.
+Tomography is imaging by sections or sectioning that uses any kind of penetrating wave.
+The method is used in radiology, archaeology, biology, atmospheric science, geophysics, oceanography, plasma physics, materials science, cosmochemistry, astrophysics, quantum information, and other areas of science.
+A vaccine is a biological preparation that provides active acquired immunity to a particular infectious or malignant disease.
+The safety and effectiveness of vaccines has been widely studied and verified.
+A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins.
+The agent stimulates the immune system to recognize the agent as a threat, destroy it, and recognize further and destroy any of the microorganisms associated with that agent that it may encounter in the future.
+An antibiotic is a type of antimicrobial substance which is active against bacteria.
+It is the most important type of antibacterial agent for fighting bacterial infections, and antibiotic medications are widely used in the treatment and prevention of such infections.
+They may either kill or inhibit the growth of bacteria.
+A limited number of antibiotics also possess antiprotozoal activity, but antibiotics are not effective against viruses or fungi.
+Insulin is a peptide hormone produced by beta cells of the pancreatic islets encoded in humans by the insulin (INS) gene.
+It is the main anabolic hormone of the body.
+It regulates the metabolism of carbohydrates, fats, and protein by promoting the absorption of glucose from the blood into cells of the liver, fat, and skeletal muscles.
+In these tissues the absorbed glucose is converted into either glycogen, via glycogenesis, or fats (triglycerides), via lipogenesis; in the liver, glucose is converted into both.
+Glucose production and secretion by the liver are strongly inhibited by high concentrations of insulin in the blood.
+Circulating insulin also affects the synthesis of proteins in a wide variety of tissues.
+It is thus an anabolic hormone, promoting the conversion of small molecules in the blood into large molecules in the cells.
+Low insulin in the blood has the opposite effect, promoting widespread catabolism, especially of reserve body fat.
+Anesthesia or anaesthesia is a state of controlled, temporary loss of sensation or awareness that is induced for medical or veterinary purposes.
+It may include some or all of analgesia, paralysis, amnesia, and unconsciousness.
+An individual under the effects of anesthetic drugs is referred to as being anesthetized.
+Surgery is a medical specialty that uses manual and instrumental techniques to diagnose or treat pathological conditions, to alter bodily functions, to reconstruct or alter aesthetics and appearance, or to remove unwanted tissues, neoplasms and foreign bodies.
+Cancer is a group of diseases involving uncontrolled cell growth typically resulting in tumors with the potential to invade or spread to other parts of the body.
+These malignant tumors contrast with benign tumors, which do not spread.
+Over 100 types of cancers affect humans.
+Diabetes mellitus, commonly known as diabetes or diabetus, is a group of common endocrine diseases characterized by sustained high blood sugar levels.
+Diabetes tends to progress in severity, and is due to either a reduced production of the hormone insulin by the pancreas or unresponsiveness of bodily cells to insulin's effects.
+Classic symptoms include the three Ps: polydipsia, polyuria, and polyphagia, together with weight loss and blurred vision.
+If left untreated, the disease can lead to many health complications, including disorders of the cardiovascular system, eye, kidney, and nerves.
+Alzheimer's disease (AD) is a neurodegenerative disease and is the most common cause of dementia, accounting for around 60–70% of cases.
+The most common early symptom is difficulty in remembering recent events.
+As the disease advances, symptoms can include problems with language, disorientation, mood swings, loss of motivation, self-neglect, and behavioral issues.
+As a person's condition declines, they often withdraw from family and society.
+Gradually, bodily functions are lost, ultimately leading to death.
+The median life expectancy following diagnosis of dementia is three to twelve years.
+Co-occurring movement disorder, also known as extrapyramidal signs, multiplies risk of death by 1.6.
+Malaria is a mosquito-borne infectious disease that is transmitted by the bite of Anopheles mosquitoes.
+The symptoms of human malaria typically include fever, fatigue, vomiting, and headaches.
+In severe cases, the disease can cause jaundice, seizures, coma, or death.
+Symptoms usually begin 10 to 15 days after being bitten by an infected Anopheles mosquito.
+If not properly treated, people may have recurrences of the disease months later.
+Those who survive an infection develop partial immunity, being susceptible to reinfection although with milder symptoms.
+This partial resistance disappears over months to years if the person has no continuing exposure to malaria.
+Tuberculosis, also known colloquially as the "white death", or historically as consumption, is a contagious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria.
+Tuberculosis initially infects the lungs, but it can also spread to other parts of the body.
+Most infections show no symptoms, in which case tuberculosis is considered to be inactive or latent.
+A small proportion of latent infections progress to active disease that, if left untreated, can be fatal.
+Typical symptoms of active TB are chronic cough with blood-containing mucus, fever, night sweats, and weight loss.
+Infection of other organs can cause a wide range of symptoms.
+Influenza, commonly known as the flu, is an infectious disease caused by influenza viruses.
+Symptoms range from mild to severe and often include fever, runny nose, sore throat, muscle pain, headache, coughing, and fatigue.
+These symptoms begin one to four days after exposure to the virus and last for about two to eight days.
+Diarrhea and vomiting can occur, particularly in children.
+Influenza may progress to pneumonia from the virus or a subsequent bacterial infection.
+Other complications include acute respiratory distress syndrome, meningitis, encephalitis, and worsening of pre-existing health problems such as asthma and cardiovascular disease.
+A virus is a submicroscopic infectious agent that replicates only inside the living cells of an organism.
+Viruses infect all life forms, from animals and plants to microorganisms, including bacteria and archaea.
+Viruses are found in almost every ecosystem on Earth and are the most numerous type of biological entity.
+Since the first discovery of a virus, the tobacco mosaic virus, in the 1890s, more than 16,000 of the millions of virus species have been described in detail.
+The study of viruses is known as virology, a subspeciality of microbiology.
+Bacteria are ubiquitous, mostly free-living organisms often consisting of one biological cell.
+They constitute a large domain of prokaryotic microorganisms.
+Typically a few micrometres in length, bacteria were among the first life forms to appear on Earth, and are present in most of its habitats.
+Bacteria inhabit the air, soil, water, acidic hot springs, radioactive waste, and the deep biosphere of Earth's crust.
+Bacteria play a vital role in many stages of the nutrient cycle by recycling nutrients and the fixation of nitrogen from the atmosphere.
+The nutrient cycle includes the decomposition of dead bodies; bacteria are responsible for the putrefaction stage in this process.
+In the biological communities surrounding hydrothermal vents and cold seeps, extremophile bacteria provide the nutrients needed to sustain life by converting dissolved compounds, such as hydrogen sulphide and methane, to energy.
+Bacteria also live in mutualistic, commensal and parasitic relationships with plants and animals.
+Most bacteria have not been characterised and there are many species that cannot be grown in the laboratory.
+The study of bacteria is known as bacteriology, a branch of microbiology.
+A fungus is any member of the group of eukaryotic organisms that includes yeasts, molds, and mushrooms.
+These organisms are classified in the biological kingdom Fungi.
+An infection is the invasion of tissues by pathogens, their multiplication, and the reaction of host tissues to the infectious agent and the toxins they produce.
+An infectious disease is an illness resulting from an infection, and some infectious diseases are also communicable (transmissible).
+Nutrition is the biochemical and physiological process by which an organism uses food and water to support its life.
+The intake of these substances provides organisms with nutrients which can be metabolized to create energy and chemical structures; too much or too little of an essential nutrient can cause malnutrition.
+Nutritional science, the study of nutrition as a hard science, typically emphasizes human nutrition.
+Vitamins are organic molecules that are essential to an organism in small quantities for proper metabolic function.
+These essential nutrients cannot be synthesized in the organism in sufficient quantities for survival, and therefore must be obtained through consumption.
+For example, vitamin C can be synthesized by some species but not by others; it is not considered a vitamin in the first instance but is in the second.
+Most vitamins are not single molecules, but groups of related molecules called vitamers.
+For example, there are eight vitamers of vitamin E: four tocopherols and four tocotrienols.
+In geology and mineralogy, a mineral or mineral species is, broadly speaking, a solid substance with a fairly well-defined chemical composition and a specific crystal structure that occurs naturally in pure form.
+Proteins are large biomolecules and macromolecules that comprise one or more long chains of amino acid residues.
+Proteins perform a vast array of functions within organisms, including catalysing metabolic reactions, DNA replication, responding to stimuli, providing structure to cells and organisms, and transporting molecules from one location to another.
+Proteins differ from one another primarily in their sequence of amino acids, which is dictated by the nucleotide sequence of their genes, and which usually results in protein folding into a specific 3D structure that determines its activity.
+A carbohydrate is a sugar (saccharide) or a sugar derivative.
+For the simplest carbohydrates, the carbon-to-hydrogen-to-oxygen atomic ratio is 1:2:1, i.e.
+they are often represented by the empirical formula (CH2O)n.
+Together with amino acids, fats, and nucleic acids, the carbohydrates are one of the major families of biomolecules.
+In nutrition, biology, and chemistry, fat usually means any ester of fatty acids, or a mixture of such compounds, most commonly those that occur in living beings or in food.
+Metabolism refers to the set of life-sustaining chemical reactions that occur within living organisms.
+The three main functions of metabolism are the conversion of energy in food into a usable form for cellular processes; the conversion of food to building blocks of macromolecules (biopolymers) such as proteins, lipids, nucleic acids, and some carbohydrates; and the excretion of metabolic wastes.
+These enzyme-catalyzed reactions allow organisms to grow, reproduce, maintain their structures, and respond to their environments.
+The word metabolism can also refer to all chemical reactions that occur in living organisms, including digestion and the transportation of substances into and between different cells.
+In a broader sense, the set of reactions occurring within the cells is called intermediary metabolism.
+A hormone is a class of signaling molecules in multicellular organisms that are sent to distant organs or tissues by complex biological processes to regulate physiology and behavior.
+Hormones are required for the normal development of animals, plants and fungi.
+Photosynthesis is a system of biological processes by which photopigment-bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy—typically from sunlight—into the chemical energy necessary to fuel their metabolism.
+The term photosynthesis usually refers to oxygenic photosynthesis, a process that releases oxygen as a byproduct of water splitting.
+Photosynthetic organisms store the converted chemical energy within the bonds of intracellular organic compounds, typically carbohydrates like sugars, starches, phytoglycogen and cellulose.
+When needing to use this stored energy, an organism's cells then metabolize the organic compounds through cellular respiration.
+Photosynthesis plays a critical role in producing and maintaining the oxygen content of the Earth's atmosphere, and it supplies most of the biological energy necessary for complex life on Earth.
+In biology, the word gene has two meanings.
+The Mendelian gene is a basic unit of heredity.
+The molecular gene is a sequence of nucleotides in DNA that is transcribed to produce RNA.
+There are two types of molecular genes: protein-coding genes and non-coding genes.
+During gene expression, DNA is first copied into RNA.
+RNA can be directly functional or be the intermediate template for the synthesis of a protein.
+In the fields of molecular biology and genetics, a genome is all the genetic information of an organism.
+It consists of nucleotide sequences of DNA.
+The nuclear genome includes protein-coding genes and non-coding genes, other functional regions of the genome such as regulatory sequences, and often a substantial fraction of junk DNA with no evident function.
+Almost all eukaryotes have mitochondria and a small mitochondrial genome.
+Algae and plants also contain chloroplasts with a chloroplast genome.
+In biology, a mutation is an alteration in the nucleic acid sequence of the genome of an organism, virus, or extrachromosomal DNA.
+Mutations result from errors during replication, mitosis, meiosis, or damage to DNA, which then may trigger error-prone repair or cause an error during replication.
+Mutations may also result from substitution, insertion or deletion of segments of DNA due to mobile genetic elements.
+Speciation is the evolutionary process by which populations evolve to become distinct species.
+The biologist Orator F.
+Cook coined the term in 1906 for cladogenesis, the splitting of lineages, as opposed to anagenesis, phyletic evolution within lineages.
+Charles Darwin was the first to describe the role of natural selection in speciation in his 1859 book On the Origin of Species.
+He also identified sexual selection as a likely mechanism, but found it problematic.
+Extinction is the termination of a species via the death of its last member.
+A taxon may become functionally extinct before the death of its last member if it loses the capacity to reproduce and recover.
+As a species' potential range may be very large, determining this moment is difficult, and is usually done retrospectively.
+This difficulty leads to phenomena such as Lazarus taxa, where a species presumed extinct abruptly "reappears" after a period of apparent absence.
+Biodiversity is the variability of life on Earth.
+It can be measured on various levels, for example, genetic variability, species diversity, ecosystem diversity, and phylogenetic diversity.
+Diversity is not distributed evenly on Earth — it is greater in the tropics as a result of the warm climate and high primary productivity in the region near the equator.
+Tropical forest ecosystems cover less than one-fifth of Earth's terrestrial area and contain about 50% of the world's species.
+There are latitudinal gradients in species diversity for both marine and terrestrial taxa.
+A food chain is a linear network of links in a food web, often beginning with an autotroph, also called a producer, and typically ending at an apex predator, detritivore, or decomposer.
+A food web is distinct from a food chain.
+A food chain illustrates the associations between organisms according to the energy sources they consume in trophic levels, and the most common way to quantify them is in length: the number of links between a trophic consumer and the base of the chain.
+Parasitism is a close relationship between species, where one organism, the parasite, lives on or inside another organism, the host, causing it some harm, and is adapted structurally to this way of life.
+Parasites include single-celled protozoans such as the agents of malaria, sleeping sickness, and amoebic dysentery; animals such as hookworms, lice, mosquitoes, and vampire bats; fungi such as honey fungus and the agents of ringworm; and plants such as mistletoe, dodder, and the broomrapes.
+Plants are the eukaryotic organisms that constitute the kingdom Plantae.
+They are predominantly photosynthetic or came from photosynthetic ancestors, meaning that they obtain their energy from sunlight by using the green pigment chlorophyll in their chloroplasts to produce sugars from carbon dioxide and water.
+Over the course of time, some plants have evolved to be parasitic, meaning they take energy from other organisms.
+Except for glaucophytes, some green algae and a few red algae, most plants are multicellular.
+Animals are multicellular, eukaryotic organisms belonging to the biological kingdom Animalia.
+Animals consume organic material, breathe oxygen, have muscle cells, can reproduce sexually, and grow from a hollow sphere of cells, the blastula, during embryonic development.
+With few exceptions, animals are able to move.
+Animals form a clade, meaning that they arose from a single common ancestor.
+Over 1.5 million living animal species have been described, of which around 1.05 million are insects, over 85,000 are molluscs, and around 65,000 are vertebrates.
+It has been estimated there are as many as 7.77 million animal species on Earth.
+Animal body lengths range from 8.5 μm (0.00033 in) to 33.6 m (110 ft).
+They have complex ecologies and interactions with each other and their environments, forming intricate food webs.
+The scientific study of animals is known as zoology, and the study of animal behaviour is known as ethology.
+Bacteria are ubiquitous, mostly free-living organisms often consisting of one biological cell.
+They constitute a large domain of prokaryotic microorganisms.
+Typically a few micrometres in length, bacteria were among the first life forms to appear on Earth, and are present in most of its habitats.
+Bacteria inhabit the air, soil, water, acidic hot springs, radioactive waste, and the deep biosphere of Earth's crust.
+Bacteria play a vital role in many stages of the nutrient cycle by recycling nutrients and the fixation of nitrogen from the atmosphere.
+The nutrient cycle includes the decomposition of dead bodies; bacteria are responsible for the putrefaction stage in this process.
+In the biological communities surrounding hydrothermal vents and cold seeps, extremophile bacteria provide the nutrients needed to sustain life by converting dissolved compounds, such as hydrogen sulphide and methane, to energy.
+Bacteria also live in mutualistic, commensal and parasitic relationships with plants and animals.
+Most bacteria have not been characterised and there are many species that cannot be grown in the laboratory.
+The study of bacteria is known as bacteriology, a branch of microbiology.
+Insects are invertebrates of the class Insecta.
+They are the largest group within the arthropod phylum.
+Insects have an exoskeleton, a three-part body, three pairs of jointed legs, compound eyes, and a pair of antennae.
+Insects are the most diverse group of animals, with more than a million described species; they represent more than half of all animal species.
+A fish is an aquatic, anamniotic, gill-bearing vertebrate animal with a tough cranium to protect the brain, but lacking limbs with digits.
+Fish can be grouped into the more basal jawless fish and the more common jawed fish, the latter including all living cartilaginous and bony fish, as well as the extinct placoderms and acanthodians.
+In a break from the long tradition of grouping all fish into a single class (Pisces), modern phylogenetics views fish as a paraphyletic group that includes all vertebrates except tetrapods.
+In English, the plural of "fish" is fish when referring to individuals and fishes when referring to species.
+Birds are a group of warm-blooded vertebrate animals constituting the class Aves, characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton that retains dinosaur-like characteristics.
+Birds live worldwide and range in size from the 5.5 cm (2.2 in) bee hummingbird to the 2.8 m common ostrich.
+There are over 11,000 living species and they are split into 44 orders.
+More than half of the world's bird species are passerine or "perching" birds.
+Nearly all birds have wings whose development varies according to the life style of each species.
+Wings, which are modified forelimbs, gave birds the ability to fly, although further evolution has led to the loss of flight in some birds, including ratites, penguins, and diverse endemic island species.
+The only known groups without wings are the extinct moa and elephant birds.
+Birds are the only extant members of Dinosauria, and are a type of paravian theropods.
+The digestive and respiratory systems of birds are also uniquely adapted for flight.
+Some bird species of aquatic environments, particularly seabirds and some waterbirds, have further evolved for swimming.
+The study of birds is called ornithology.
+A mammal is a vertebrate animal of the class Mammalia.
+Mammals are characterized by the presence of milk-producing mammary glands for feeding their young, a broad neocortex region of the brain, fur or hair, and three middle ear bones.
+These characteristics distinguish them from reptiles and birds, from which their ancestors diverged in the Carboniferous period over 300 million years ago.
+Around 6,640 extant species of mammals have been described and divided into 27 orders.
+The study of mammals is called mammalogy.
+Amphibians are ectothermic, anamniotic, four-limbed vertebrate animals that constitute the class Amphibia.
+In its broadest sense, it is a paraphyletic group encompassing all tetrapods, but excluding the amniotes.
+All extant (living) amphibians belong to the monophyletic subclass Lissamphibia, with three living orders: Anura, Urodela (salamanders), and Gymnophiona (caecilians).
+Evolved to be mostly semiaquatic, amphibians have adapted to inhabit a wide variety of habitats, with most species living in freshwater, wetland or terrestrial ecosystems.
+Their life cycle typically starts out as aquatic larvae with gills known as tadpoles, but some species have developed behavioural adaptations to bypass this.
+Dinosaurs are a diverse group of warmblooded reptiles of the clade Dinosauria.
+They existed through most of the Mesozoic era, first appearing early in the Triassic period.
+They became the dominant terrestrial vertebrates after the Triassic–Jurassic extinction event 201.3 mya and their dominance continued throughout the Jurassic and Cretaceous periods.
+The fossil record shows that birds are feathered dinosaurs, having evolved from earlier theropods during the Late Jurassic epoch, and are the only dinosaur lineage known to have survived the Cretaceous–Paleogene extinction event approximately 66 mya.
+Dinosaurs can therefore be divided into avian dinosaurs—birds—and the extinct non-avian dinosaurs, which are all dinosaurs other than birds.
+Evolutionary biology is a subfield of biology that analyzes the four mechanisms of evolution: natural selection, mutation, genetic drift, and gene flow.
+Natural selection was independently discovered as the engine of evolution by Charles Darwin and Alfred Russel Wallace, based on patterns in the geographic distribution of species.
+Gregor Mendel discovered the laws of heredity.
+Fisher unified Darwin and Mendel in the modern synthesis.
+The Solar System is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one.
+The Solar System is an isolated single-star planetary system within the Milky Way Galaxy.
+The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled.
+Mercury is the first planet from the Sun and the smallest in the Solar System.
+It is a rocky planet with a trace atmosphere and a surface gravity slightly higher than that of Mars.
+The surface of Mercury is similar to Earth's Moon, being cratered, with an expansive rupes system generated from thrust faults, and bright ray systems, formed by ejecta.
+Its largest crater, Caloris Planitia, has a diameter of 1,550 km (960 mi), which is about one-third the diameter of the planet.
+Being the most inferior orbiting planet, it always appears close to the Sun in Earth's sky, as either a "morning star" or an "evening star".
+It is the planet with the highest delta-v required for travel from Earth, as well as to and from the other planets in the Solar System.
+Venus is the second planet from the Sun.
+Similar in size and mass to Earth, Venus has no liquid water, and its atmosphere is far thicker and denser than that of any other rocky body in the Solar System.
+The atmosphere is composed mostly of carbon dioxide and has a thick cloud layer of sulfuric acid that spans the whole planet.
+At the mean surface level, the atmosphere reaches a temperature of 737 K, making it the hottest planet in the solar system and also a pressure 92 times greater than Earth's at sea level, turning the lowest layer of the atmosphere into a supercritical fluid.
+From Earth, Venus is visible as a star-like point of light, appearing brighter than any other natural point of light in the sky, as either the brightest "morning star" or "evening star".
+It was also given the poetic name Ēarendel in Old English, meaning "ray of light" along with the two previous epithets.
+Mars is the fourth planet from the Sun.
+It is also known as the "Red Planet", for its orange-red appearance.
+Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily carbon dioxide.
+At the average surface level the atmospheric pressure is a few thousandths of Earth's, atmospheric temperature ranges from −153 to 20 °C, and cosmic radiation is high.
+Mars retains some water, in the ground as well as thinly in the atmosphere, forming cirrus clouds, fog, frost, larger polar regions of permafrost and ice caps, but no bodies of liquid surface water.
+Its surface gravity is roughly a third of Earth's or double that of the Moon.
+Its mean diameter, 6,779 km (4,212 mi), is about half the Earth's, or twice the Moon's, and its surface area is the size of all the dry land of Earth.
+Jupiter is the fifth planet from the Sun, and the largest in the Solar System.
+It is a gas giant with a mass nearly 2.5 times that of all the other planets in the Solar System combined and slightly less than one-thousandth the mass of the Sun.
+The diameter of Jupiter is 11 times that of Earth and a tenth that of the Sun.
+It orbits the Sun at a distance of 5.20 AU (778.5 Gm), with an orbital period of 11.86 years.
+Jupiter is the third-brightest natural object in the Earth's night sky, after the Moon and Venus, and has been observed since prehistoric times.
+Its name derives from that of Jupiter, the chief deity of ancient Roman religion.
+Saturn is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter.
+It is a gas giant, with an average radius of about 9 times that of Earth.
+It has an eighth of the average density of Earth, but is over 95 times more massive.
+Even though Saturn is almost as big as Jupiter, it has less than a third of its mass.
+Saturn orbits the Sun at a distance of 9.59 AU (1,434 million km), with an orbital period of 29.45 years.
+Uranus is the seventh planet from the Sun.
+It is a gaseous cyan-coloured ice giant.
+Most of the planet is made of water, ammonia, and methane in a supercritical phase of matter, which astronomy calls "ice" or volatiles.
+The planet's atmosphere has a complex layered cloud structure and has the lowest minimum temperature of all the Solar System's planets.
+It has a marked axial tilt of 82.23° with a retrograde rotation period of 17 hours and 14 minutes.
+This means that in an 84-Earth-year orbital period around the Sun, its poles get around 42 years of continuous sunlight, followed by 42 years of continuous darkness.
+Neptune is the eighth and farthest known planet orbiting the Sun.
+It is the fourth-largest planet in the Solar System by diameter, the third-most-massive planet, and the densest giant planet.
+It is 17 times the mass of Earth.
+Compared to Uranus, its neighbouring ice giant, Neptune is slightly smaller, but more massive and dense.
+Being composed primarily of gases and liquids, it has no well-defined solid surface.
+Neptune orbits the Sun once every 164.8 years at an orbital distance of 30.1 astronomical units.
+It is named after the Roman god of the sea and has the astronomical symbol , representing Neptune's trident.
+Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune.
+It is the ninth-largest and tenth-most-massive known object to directly orbit the Sun.
+It is the largest known trans-Neptunian object by volume by a small margin, but is less massive than Eris.
+Like other Kuiper belt objects, Pluto is made primarily of ice and rock and is much smaller than the inner planets.
+Pluto has roughly one-sixth the mass of the Moon and one-third of its volume.
+Originally considered a planet, its status was changed when astronomers adopted a new definition of the word with new criteria.
+An asteroid is a minor planet—an object larger than a meteoroid that is neither a planet nor an identified comet—that orbits within the inner Solar System or is co-orbital with Jupiter.
+Asteroids are rocky, metallic, or icy bodies with no atmosphere, and are broadly classified into C-type (carbonaceous), M-type (metallic), or S-type (silicaceous).
+The size and shape of asteroids vary significantly, ranging from small rubble piles under a kilometer across to Ceres, a dwarf planet almost 1000 km in diameter.
+A body is classified as a comet, not an asteroid, if it shows a coma (tail) when warmed by solar radiation, although recent observations suggest a continuum between these types of bodies.
+A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing.
+This produces an extended, gravitationally unbound atmosphere or coma surrounding the nucleus, and sometimes a tail of gas and dust gas blown out from the coma.
+These phenomena are due to the effects of solar radiation and the outstreaming solar wind plasma acting upon the nucleus of the comet.
+Comet nuclei range from a few hundred meters to tens of kilometers across and are composed of loose collections of ice, dust, and small rocky particles.
+The coma may be up to 15 times Earth's diameter, while the tail may stretch beyond one astronomical unit.
+If sufficiently close and bright, a comet may be seen from Earth without the aid of a telescope and can subtend an arc of up to 30° across the sky.
+Comets have been observed and recorded since ancient times by many cultures and religions.
+A meteorite is a rock that originated in outer space and has fallen to the surface of a planet or moon.
+When the original object enters the atmosphere, various factors such as friction, pressure, and chemical interactions with the atmospheric gases cause it to heat up and radiate energy.
+It then becomes a meteor and forms a fireball, also known as a shooting star; astronomers call the brightest examples "bolides".
+Once it settles on the larger body's surface, the meteor becomes a meteorite.
+Meteorites vary greatly in size.
+For geologists, a bolide is a meteorite large enough to create an impact crater.
+A galaxy is a physical system of stars, planetary systems, stellar remnants, substellar objects, interstellar gas, dust, and dark matter bound together by gravity.
+The word is derived from the Greek galaxias (γαλαξίας), meaning 'milky', a reference to the Milky Way galaxy that contains the Solar System.
+Galaxies, averaging an estimated 100 million stars, range in size from dwarfs with less than a thousand stars to the largest galaxies known—supergiants with one hundred trillion stars, each orbiting its galaxy's center of mass.
+Most of the mass in a typical galaxy is in the form of dark matter, with only a few percent of that mass visible in the form of stars and nebulae.
+Supermassive black holes are a common feature at the centers of galaxies.
+The Milky Way or Milky Way Galaxy, or simply the Galaxy, is the galaxy that includes the Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed from stars in other arms of the galaxy, which are so far away that they cannot be individually distinguished by the naked eye.
+The Andromeda Galaxy is a barred spiral galaxy and is the nearest major galaxy to the Milky Way.
+It was originally named the Andromeda Nebula and is cataloged as Messier 31, M31, and NGC 224.
+Andromeda has a D25 isophotal diameter of about 46.56 kiloparsecs (152,000 light-years) and is approximately 765 kpc (2.5 million light-years) from Earth.
+The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the princess who was the wife of Perseus in Greek mythology.
+The Big Bang is a physical theory that describes how the universe expanded from an early state of high density and temperature.
+Various cosmological models based on the Big Bang concept explain a broad range of phenomena, including the abundance of light elements, the cosmic microwave background (CMB) radiation, the redshift of galaxies and the large-scale structure of the universe.
+The observed uniformity of the universe, which leads to the horizon and flatness problems, is explained through cosmic inflation: a phase of accelerated expansion during the earliest stages.
+Detailed measurements of the expansion rate of the universe place the cosmic inflation at an estimated 13.787±0.02 billion years ago, which is considered the age of the universe.
+A wide range of empirical evidence strongly favors the Big Bang model, which is now widely accepted.
+The cosmic microwave background, or relic radiation, is microwave radiation that fills all space in the observable universe.
+With a standard optical telescope, the background space between stars and galaxies is almost completely dark.
+However, a sufficiently sensitive radio telescope detects a faint background glow that is almost uniform and is not associated with any star, galaxy, or other object.
+This glow is strongest in the microwave region of the electromagnetic spectrum.
+Its energy density exceeds that of all the photons emitted by all the stars in the history of the universe.
+The accidental discovery of the CMB in 1964 by the American radio astronomers Arno Allan Penzias and Robert Woodrow Wilson was the culmination of work initiated in the 1940s.
+In astronomy and cosmology, dark matter is an invisible and hypothetical form of matter that does not interact with electromagnetic radiation, including light.
+Dark matter is implied by gravitational effects that cannot be explained by general relativity unless more matter is present than can be observed.
+Such effects occur in the context of formation and evolution of galaxies, gravitational lensing, the observable universe's current structure, mass position in galactic collisions, the motion of galaxies within galaxy clusters, and cosmic microwave background anisotropies.
+Dark matter is thought to serve as gravitational scaffolding for cosmic structures.
+After the Big Bang, dark matter clumped into blobs along narrow filaments with superclusters of galaxies forming a cosmic web at scales on which entire galaxies appear like tiny particles.
+In physical cosmology and astronomy, dark energy is a proposed form of energy that affects the universe on its largest scales.
+Its primary effect is to drive the accelerating expansion of the universe.
+It also slows the rate of structure formation.
+Assuming that the lambda-CDM model of cosmology is correct, dark energy dominates the universe, contributing 68% of the total mass-energy in the present-day observable universe while dark matter and ordinary (baryonic) matter contribute 27% and 5%, respectively, and other components such as neutrinos and photons are nearly negligible.
+Dark energy's density is very low: 7×10−30 g/cm3, much lower than the density of ordinary matter or dark matter within galaxies.
+However, it dominates the universe's mass–energy content because it is uniform across space.
+Gravitational waves are waves of spacetime curvature produced by the relative motion of gravitating masses and which propagate away at the speed of light.
+They were first predicted by Albert Einstein as a consequence of his general theory of relativity, appearing as "ripples in spacetime curvature".
+Hundreds of these gravitational waves have since then been observed, first indirectly using binary-pulsar observations and, since 2015, directly through dedicated observatories.
+A neutron star is the gravitationally collapsed core of a massive supergiant star.
+It results from the supernova explosion of a massive star—combined with gravitational collapse—that compresses the core past white dwarf star density to that of atomic nuclei.
+Surpassed only by black holes, neutron stars are the second-smallest and second-densest known class of stellar objects.
+Neutron stars have a radius on the order of 10 kilometers and a mass of about 1.4 solar masses (M☉).
+Stars that collapse into neutron stars typically have an initial total mass between 10 and 25 M☉ or possibly more for those that are especially rich in elements heavier than hydrogen and helium.
+A pulsar is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation out of its magnetic poles.
+This radiation can be observed only when a beam of emission is pointing toward Earth, and is responsible for the pulsed appearance of emission.
+Neutron stars are very dense and have short, regular rotational periods.
+This produces a very precise interval between pulses that ranges from milliseconds to seconds for an individual pulsar.
+Pulsars are one of the candidates for the source of ultra-high-energy cosmic rays.
+A quasar is an extremely luminous active galactic nucleus (AGN).
+It is sometimes known as a quasi-stellar object, abbreviated QSO.
+The emission from an AGN is powered by accretion onto a supermassive black hole with a mass ranging from millions to tens of billions of solar masses, surrounded by a gaseous accretion disc.
+Gas in the disc falling towards the black hole heats up and releases energy in the form of electromagnetic radiation.
+The radiant energy of quasars is enormous; the most powerful quasars have luminosities thousands of times greater than that of a galaxy such as the Milky Way.
+Quasars are usually categorized as a subclass of the more general category of AGN.
+The redshifts of quasars are of cosmological origin.
+A supernova is a powerful and luminous explosion of a star.
+A supernova occurs during the last evolutionary stages of a massive star, or when a white dwarf is triggered into runaway nuclear fusion.
+The original object, called the progenitor, either collapses to a neutron star or black hole, or is completely destroyed to form a diffuse nebula.
+The peak optical luminosity of a supernova can be comparable to that of an entire galaxy before fading over several weeks or months.
+A white dwarf is a very dense type of star: in an Earth-sized volume, it packs a mass that is comparable to the Sun.
+A white dwarf radiates light from residual heat and eventual crystallization, not from nuclear fusion.
+Stars like the Sun, whose mass is not high enough to collapse into a neutron star or black hole, are expected to become white dwarf stars later in their evolution.
+The nearest known white dwarf is Sirius B, at 8.6 light years, the smaller component of the Sirius binary star.
+A red giant is a luminous giant star of low or intermediate mass in a late phase of stellar evolution.
+The outer atmosphere is inflated and tenuous, making the radius large and the surface temperature around 5,000 K [K] or lower.
+The appearance of the red giant is from yellow-white to reddish-orange, including the spectral types K and M, sometimes G, but also class S stars and most carbon stars.
+An exoplanet or extrasolar planet is a planet outside the Solar System.
+The first confirmed detection of an exoplanet was in 1992 around a pulsar, and the first detection around a main-sequence star was in 1995.
+A different planet, first detected in 1988, was confirmed in 2003.
+In 2016, it was recognized that the first possible evidence of an exoplanet had been noted in 1917, a precovery.
+As of 20 August 2026, there are 6,354 confirmed exoplanets in 4,756 planetary systems, with 1,060 systems having more than one planet.
+In astronomy and astrobiology, the habitable zone (HZ), also known as the circumstellar habitable zone (CHZ), or as the Goldilocks zone, is the range of orbits around a star within which a planetary surface could potentially support liquid water.
+Liquid water is considered by many scientists as necessary for a planet to be habitable.
+The range depends upon the brightness of the star interacting with a planet's atmosphere.
+At the inner edge the star's light, trapped by greenhouse gases in a planet's atmosphere, boils off the planet's water.
+At the outer edge light from the star is insufficient even with help from atmospheric gas and the planet's water freezes.
+Many other factors are added in various habitable zone models.
+The habitable zone has become a key tool in the search for habitable planets because discoveries of exoplanets yield approximate orbital radii.
+The Fermi paradox is the seeming inconsistency between the lack of evidence of extraterrestrial civilizations and the apparently high likelihood of their existence.
+The search for extraterrestrial intelligence is the diverse efforts and scientific projects intended to detect extraterrestrial signals, or any evidence of intelligent life beyond Earth.
+The Space Shuttle is a retired, partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the U.S.
+National Aeronautics and Space Administration (NASA) as part of the Space Shuttle program.
+Its official program name was the Space Transportation System (STS), taken from the 1969 plan led by U.S.
+vice president Spiro Agnew for a system of reusable spacecraft where it was the only item funded for development.
+Atoms are the basic particles of the chemical elements and the fundamental building blocks of matter.
+An atom consists of a nucleus of protons and generally neutrons, surrounded by an electromagnetically bound swarm of electrons.
+The chemical elements are distinguished from each other by the number of protons that are in their atoms.
+For example, any atom that contains 11 protons is sodium, and any atom that contains 29 protons is copper.
+Atoms with the same number of protons but a different number of neutrons are called isotopes of the same element.
+The electron is a subatomic particle whose electric charge is negative one elementary charge.
+It is an elementary particle contained in the matter that makes up the universe.
+A proton is a stable subatomic particle, symbol p, H+, or 1H+ with a positive electric charge of +1 e (elementary charge).
+Its mass is slightly less than the mass of a neutron and approximately 1836 times the mass of an electron (the proton-to-electron mass ratio).
+Protons and neutrons, each with a mass of approximately one dalton, are jointly referred to as nucleons (particles present in atomic nuclei).
+A neutron is a subatomic particle, symbol n or n0, that has no electric charge, and a mass slightly greater than that of a proton.
+The neutron was discovered by James Chadwick in 1932, leading to the discovery of nuclear fission in 1938, the first self-sustaining nuclear reactor, and the first nuclear weapon.
+A quark is a type of elementary particle and a fundamental constituent of matter.
+Quarks combine to form composite particles called hadrons, the most stable of which are protons and neutrons, the components of atomic nuclei.
+All commonly observable matter is composed of up quarks, down quarks, and electrons.
+Owing to a phenomenon known as color confinement, quarks are never found in isolation; they can be found only within hadrons, which include baryons and mesons, or in quark–gluon plasmas.
+For this reason, much of what is known about quarks has been drawn from observations of hadrons.
+A photon is an elementary particle that is a quantum of the electromagnetic field, including electromagnetic radiation such as light and radio waves, and the force carrier for the electromagnetic force.
+Photons are massless particles that can only move at one speed, the speed of light measured in a vacuum.
+The photon belongs to the class of boson particles.
+In particle physics, a fermion is a subatomic particle that follows Fermi–Dirac statistics.
+Fermions have a half-integer spin and obey the Pauli exclusion principle.
+These particles include all quarks and leptons and all composite particles made of an odd number of these, such as all baryons and many atoms and nuclei.
+Fermions differ from bosons, which obey Bose–Einstein statistics.
+Nuclear fusion is a reaction in which two or more atomic nuclei combine to form a larger nucleus.
+The difference in mass between the reactants and products is manifested as either the release or the absorption of energy.
+This difference in mass arises as a result of the difference in nuclear binding energy between the atomic nuclei before and after the fusion reaction.
+Active stellar cores are powered by fusion.
+Nucleosynthesis via fusion, in the Big Bang and in stars, creates all elements lighter than nickel.
+The periodic table, also known as the periodic table of the elements, is an ordered arrangement of the chemical elements into rows ("periods") and columns ("groups").
+An icon of chemistry, the periodic table is widely used in physics and other sciences.
+It is a depiction of the periodic law, which states that when the elements are arranged in order of their atomic numbers an approximate recurrence of their properties is evident.
+The table is divided into four roughly rectangular areas called blocks.
+Elements in the same group tend to show similar chemical characteristics.
+A chemical element is a species of atom defined by its number of protons.
+The number of protons is called the atomic number of that element.
+For example, oxygen has an atomic number of 8: each oxygen atom has 8 protons in its nucleus.
+Atoms of the same element can have different numbers of neutrons in their nuclei, known as isotopes of the element.
+Atoms of one element can be transformed into atoms of a different element in nuclear reactions, which change an atom's atomic number.
+Almost all baryonic matter in the universe is composed of elements.
+A chemical bond is the association of atoms or ions to form molecules, crystals, and other structures.
+The bond may result from the electrostatic force between oppositely charged ions, as in ionic bonds; the sharing of electrons, as in covalent bonds; or some combination of these effects.
+Chemical bonds are described as having different strengths: there are "strong bonds" or "primary bonds" such as covalent, ionic, and metallic bonds, and "weak bonds" or "secondary bonds" such as dipole–dipole interactions, the London dispersion force, and hydrogen bonds.
+A molecule is a group of two or more atoms that are held together by attractive forces known as chemical bonds; depending on context, the term may or may not include ions that satisfy this criterion.
+In quantum physics, organic chemistry, and biochemistry, the distinction from ions is dropped and molecule is often used when referring to polyatomic ions.
+A chemical reaction is a process that leads to the chemical transformation of one set of chemical substances to another.
+Biochemistry, or biological chemistry, is the study of chemical processes within and relating to living organisms.
+A sub-discipline of both chemistry and biology, biochemistry may be divided into three fields: structural biology, enzymology, and metabolism.
+Over the last decades of the 20th century, biochemistry has become successful at explaining living processes through these three disciplines.
+Almost all areas of the life sciences are being uncovered and developed through biochemical methodology and research.
+Physical chemistry is the study of macroscopic and microscopic phenomena in chemical systems in terms of the principles, practices, and concepts of physics such as motion, energy, force, time, thermodynamics, quantum chemistry, statistical mechanics, analytical dynamics and chemical equilibria.
+Glass is an amorphous (non-crystalline) solid.
+Because it is often transparent and chemically inert, glass has found widespread practical, technological, and decorative use in window panes, tableware, and optics.
+Some common objects made of glass are named after the material, e.g., a "glass" for drinking, "glasses" for vision correction, and a "magnifying glass".
+A metal is a material that, when polished or fractured, shows a lustrous appearance, and conducts electricity and heat relatively well.
+These properties are all associated with having electrons available at the Fermi level, as opposed to nonmetallic materials which do not.
+Metals are typically ductile and malleable.
+An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although the word is also sometimes used for mixtures of elements; herein only metallic alloys are described.
+Metallic alloys often have properties that differ from those of the pure elements from which they are made.
+The vast majority of metals used for commercial purposes are alloyed to improve their properties or behavior, such as increased strength, hardness or corrosion resistance.
+Metals may also be alloyed to reduce their overall cost, for instance alloys of gold and copper.
+Plastics are a wide range of synthetic or semisynthetic materials composed primarily of polymers.
+Their defining characteristic, plasticity, allows them to be molded, extruded, or pressed into a diverse range of solid forms.
+This adaptability, combined with a wide range of other properties such as low weight, durability, flexibility, chemical resistance, low toxicity, and low-cost production, has led to their widespread use around the world.
+While most plastics are produced from natural gas and petroleum, a growing minority are produced from renewable resources like polylactic acid.
+A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature.
+Common examples are earthenware, porcelain, and brick.
+Magnetism is the class of physical attributes that occur through a magnetic field, which allows objects to attract or repel each other.
+Because both electric currents and magnetic moments of elementary particles give rise to a magnetic field, magnetism is one of two aspects of electromagnetism.
+Electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge.
+Electricity is related to magnetism, both being part of the phenomenon of electromagnetism, as described by Maxwell's equations.
+Common phenomena are related to electricity, including lightning, static electricity, electric heating, electric discharges and many others.
+Voltage, also known as (electrical) potential difference, electric pressure, or electric tension, is the difference in electric potential between two points.
+In a static electric field, it corresponds to the work needed per unit of charge to move a positive test charge from the first point to the second point.
+In the International System of Units (SI), the derived unit for voltage is the volt (V).
+A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other.
+It is a passive electronic component with two terminals.
+A capacitor was originally known as a condenser, a term still encountered in a few compound names, such as the condenser microphone.
+Colloquially, a capacitor may be called a cap.
+In thermodynamics, heat is defined as energy in transfer between a body and its surroundings, other than through thermodynamic work or through transfer of matter.
+A bridge is a structure designed to span an obstacle, such as a river or railway, allowing vehicles, pedestrians, and other loads to pass across.
+Most bridges consist of a flat deck, supported by beams, arches, or cables.
+These structures rest on a foundation that is carefully designed to transfer the weight of the bridge to the subsoil without settling.
+A dam is a structure that impounds water or restricts its flow.
+Dams are classified into four basic types: gravity dams are massive structures made of concrete or masonry that rely on their weight to resist the force of impounded water; embankment dams are large earthworks consisting of rocks, clay, sand, soil, or gravel; buttress dams consist of a sloped, concrete face supported on the downstream side by a series of triangular buttresses; and arch dams use a curved concrete wall to transfer the weight of the water to the surrounding valley walls.
+A skyscraper is a very tall building or otherwise permanently habitable structure, typically defined as reaching a minimum height of either 100 metres (328 ft) or 150 metres (492 ft) in height; however, there remains no universally accepted definition of a skyscraper, other than being a high-rise.
+Skyscrapers can host a variety of spaces, typically including office, commercial, hotel, and residential space.
+Skyscrapers are a common feature in the downtown or central business districts (CBD) of major cities, especially in the Americas, Asia, and Australia, often due to a high demand for space and limited availability of land.
+A road is a thoroughfare from one place to another, primarily used for movement of traffic.
+Many roads are paved.
+A ship is a large watercraft designed for travel across the surface of a body of water, carrying cargo or passengers, or in support of specialized tasks such as warfare, oceanography and fishing.
+Ships are generally distinguished from boats, based on size, shape, load capacity and purpose.
+Ships have supported exploration, trade, warfare, migration, colonization, and science.
+Ship transport is responsible for the largest portion of world commerce.
+An aircraft or aerial vehicle is a vehicle that can fly by gaining support from the air.
+It counters the force of gravity by using either static lift or the dynamic lift of an airfoil, or, in a few cases, direct downward thrust from its engines.
+Common examples of aircraft include airplanes, drones, rotorcraft, airships, gliders, paramotors, and hot air balloons.
+Part 1 of Subchapter A of Chapter I of Title 14 of the U.
+Code of Federal Regulations states that aircraft "means a device that is used or intended to be used for flight in the air".
+A satellite or an artificial satellite is an object, typically a spacecraft, placed into orbit around a celestial body.
+They have a variety of uses, including communication relay, weather forecasting, navigation (GPS), broadcasting, scientific research, and Earth observation.
+Additional military uses are reconnaissance, early warning, signals intelligence and, potentially, weapon delivery.
+Other satellites include the final rocket stages that place satellites in orbit and formerly useful satellites that later become defunct.
+A wheel is a rotating component intended to turn on an axle bearing.
+The wheel is one of the key components of the wheel and axle, which is one of the six simple machines.
+Wheels, in conjunction with axles, allow heavy objects to be moved easily, facilitating transportation, supporting loads, and performing work in machines.
+Wheels are also used for other purposes, such as a ship's wheel, steering wheel, potter's wheel, and flywheel.
+A gear or gearwheel, also called a toothed wheel, is a rotating machine part typically used to transmit rotational motion or torque by means of a series of "teeth" that engage with compatible teeth of another gear or other part.
+The teeth can be integral saliences or cavities machined on the part, or separate pegs inserted into it.
+In the latter case, the gear is usually called a cogwheel.
+A cog may be one of those pegs or the whole gear.
+Two or more meshing gears are called a gear train.
+A clock or chronometer is a device that measures and displays time.
+The clock is one of the oldest human inventions, meeting the need to measure intervals of time shorter than the natural units such as the day, the lunar month, and the year.
+Devices operating on several physical processes have been used over the millennia.
+A season is a division of the year based on changes in weather, ecology, and the number of daylight hours in a given region.
+On Earth, seasons are the result of the axial parallelism of Earth's tilted orbit around the Sun.
+In temperate and polar regions, the seasons are marked by changes in the intensity of sunlight that reaches the Earth's surface, variations of which may cause animals to undergo hibernation or to migrate, and plants to be dormant.
+Various cultures define the number and nature of seasons based on regional variations, and as such there are a number of both modern and historical definitions of the seasons.
+Weather is the state of the Earth's atmosphere at a specific place and time, typically described in terms of temperature, humidity, cloud cover, and stability.
+On Earth, most weather phenomena occur in the lowest layer of the planet's atmosphere, the troposphere, just below the stratosphere.
+Weather refers to day-to-day temperature, precipitation, and other atmospheric conditions, whereas climate is the term for the averaging of atmospheric conditions over longer periods of time.
+When used without qualification, "weather" is generally understood to mean the weather of Earth.
+In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, ice crystals, or other particles, suspended in the atmosphere of a planetary body or similar space.
+Water, primarily, comprises the droplets and crystals.
+On Earth, clouds are formed as a result of saturation of the air when it is cooled to its dew point, or when it gains sufficient moisture, usually in the form of water vapor, from an adjacent source to raise the dew point to the ambient temperature.
+Rain or rainfall is a form of atmospheric precipitation composed of droplets of water aerosols that have condensed from atmospheric water vapor and fall by gravity.
+Depending on the intensity, rain can be described as a drizzle, a shower, a cloudburst or a downpour.
+It is also often accompanied by other weather phenomena such as strong wind (rainstorm) and lightning (thunderstorm), and maybe be mixed with hail/ice pellet, snow (sleet) and sandstorm.
+Rain is a major component of the water cycle and is responsible for depositing most of the fresh water on Earth.
+It provides water for hydroelectric power plants, crop irrigation, and suitable conditions for many types of ecosystems.
+Snow is a form of solid atmospheric precipitation consisting of individual ice crystals that grow while suspended in the air—usually within clouds—and then fall, accumulating on the ground, where they undergo further changes.
+It consists of frozen crystalline water throughout its life cycle, starting when, under suitable conditions, the ice crystals form in the atmosphere, increase to millimeter size, precipitate and accumulate on surfaces, then metamorphose in place, and ultimately melt, slide, or sublimate away.
+A storm is any disturbed state of the natural environment or the atmosphere of an astronomical body.
+It may be marked by significant disruptions to normal conditions such as strong wind, tornadoes, hail, thunder and lightning, heavy precipitation, heavy freezing rain, strong winds, wind transporting some substance through the atmosphere such as in a dust storm, among other forms of severe weather.
+An Atlantic hurricane is a type of tropical cyclone that forms in the Atlantic Ocean primarily between June and November.
+These storms are continuously rotating around a low pressure center, which causes stormy weather across a large area, which is not limited to just the eye of the storm.
+They are organized systems of clouds and thunderstorms that originate over tropical or subtropical waters and have closed low-level circulation.
+An earthquake, also called a quake, tremor, or temblor, is the shaking of the Earth's surface resulting from a sudden release of energy in the lithosphere that creates seismic waves.
+Earthquakes can range in intensity, from those so weak they cannot be felt, to those violent enough to propel objects and people into the air, damage critical infrastructure, and wreak destruction across entire cities.
+The seismic activity of an area is the frequency, type, and size of earthquakes experienced over a particular time.
+The seismicity at a particular location in the Earth is the average rate of seismic energy released per unit volume.
+A volcano is a vent or fissure in the crust of a planetary-mass object that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface.
+On Earth, volcanoes are most often found where tectonic plates are diverging or converging, and because most of Earth's plate boundaries are underwater, most volcanoes are found underwater.
+For example, a mid-ocean ridge, such as the Mid-Atlantic Ridge, has volcanoes caused by divergent tectonic plates whereas the Pacific Ring of Fire has volcanoes caused by convergent tectonic plates.
+Volcanoes resulting from divergent tectonic activity are usually non-explosive whereas those resulting from convergent tectonic activity cause violent eruptions.
+Volcanoes can also form where there is stretching and thinning of the crust's plates, such as in the East African Rift, the Wells Gray-Clearwater volcanic field, and the Rio Grande rift in North America.
+Volcanism away from plate boundaries most likely arises from upwelling diapirs from the core–mantle boundary called mantle plumes, 3,000 kilometres (1,900 mi) deep within Earth.
+This results in hotspot volcanism or intraplate volcanism, in which the plume may cause thinning of the crust and result in a volcanic island chain due to the continuous movement of the tectonic plate, of which the Hawaiian hotspot is an example.
+Volcanoes are usually not created at transform tectonic boundaries where two tectonic plates slide past one another.
+A tsunami is a series of waves in a water body caused by the displacement of a large volume of water, generally in an ocean or a large lake.
+Earthquakes, volcanic eruptions, underwater explosions, landslides, glacier calvings, meteorite impacts and other disturbances above or below water all have the potential to generate a tsunami.
+Unlike normal ocean waves, which are generated by wind, or tides, which are in turn generated by the gravitational pull of the Moon and the Sun, a tsunami is generated by the displacement of water from a large event.
+A flood is an overflow of water that submerges land that is usually dry.
+In the sense of "flowing water", the word may also be applied to the inflow of the tide.
+Floods are of significant concern in agriculture, civil engineering and public health.
+Human changes to the environment often increase the intensity and frequency of flooding.
+Examples for human changes are land use changes such as deforestation and removal of wetlands, changes in waterway course or flood controls such as with levees.
+Global environmental issues also influence causes of floods, namely climate change which causes an intensification of the water cycle and sea level rise.
+For example, climate change makes extreme weather events more frequent and stronger.
+This leads to more intense floods and increased flood risk.
+A drought is a period of drier-than-normal conditions.
+A drought can last for days, months or years.
+Drought often has large impacts on the ecosystems and agriculture of affected regions, and causes harm to the local economy.
+Annual dry seasons in the tropics significantly increase the chances of a drought developing, with subsequent increased wildfire risks.
+Heat waves can significantly worsen drought conditions by increasing evapotranspiration.
+This dries out forests and other vegetation, and increases the amount of fuel for wildfires.
+A wildfire, forest fire, brushfire or a bushfire is an unplanned and uncontrolled fire in an area of combustible vegetation.
+Some natural forest ecosystems depend on wildfire.
+Modern forest management often engages in prescribed burns to mitigate fire risk and promote natural forest cycles.
+Controlled burns can turn into wildfires if they escape containment lines.
+Present-day climate change includes both global warming—the ongoing increase in global average temperature—and its wider effects on Earth's climate system.
+In a broader sense, climate change also includes previous long-term changes to Earth's climate.
+The modern-day rise in global temperatures is driven by human activities, especially fossil fuel burning since the Industrial Revolution.
+Fossil fuel use, deforestation, and some agricultural and industrial practices release greenhouse gases.
+These gases absorb some of the heat that the Earth radiates after it warms from sunlight, warming the lower atmosphere.
+Earth's atmosphere now has roughly 50% more carbon dioxide, the main gas driving global warming, than it did at the end of the pre-industrial era, reaching levels not seen for millions of years.
+Ozone depletion consists of two related events observed since the late 1970s: a lowered total amount of ozone in Earth's upper atmosphere, and a much larger springtime decrease in stratospheric ozone around Earth's polar regions.
+The latter phenomenon is referred to as the ozone hole.
+There are also springtime polar tropospheric ozone depletion events in addition to these stratospheric events.
+A fossil fuel is a flammable carbon compound- or hydrocarbon-containing material formed naturally in the Earth's crust from the buried remains of prehistoric organisms, a process that occurs within geological formations.
+Reservoirs of such compound mixtures, such as coal, petroleum and natural gas, can be extracted and burnt as fuel for human consumption to provide energy for direct use, to power heat engines that can propel vehicles, or to generate electricity via steam turbine generators.
+Some fossil fuels are further refined into derivatives such as kerosene, gasoline and diesel, or converted into petrochemicals such as polyolefins (plastics), aromatics and synthetic resins.
+Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams.
+Coal is mostly carbon with variable amounts of other elements, chiefly hydrogen, sulfur, oxygen, and nitrogen.
+It is a fossil fuel, formed when plants decay into peat which is converted into coal by the heat and pressure of deep burial over millions of years.
+Vast deposits formed from wetlands called coal forests that covered much of the tropics during the late Carboniferous and early Permian.
+Natural gas is a fossil fuel, naturally occurring in geological formations.
+Typically, the gas is a mix of gaseous hydrocarbons, primarily methane (95%), small amounts of higher alkanes, and traces of carbon dioxide and nitrogen, hydrogen sulfide and helium.
+Methane is a colorless and odorless gas, and, after carbon dioxide, is the second-greatest greenhouse gas that contributes to global climate change.
+Because natural gas is odorless, a commercial odorizer, such as methanethiol, that smells of hydrogen sulfide is added to the gas for the ready detection of gas leaks.
+Gold is a chemical element; its chemical symbol is Au and atomic number 79.
+In its pure form, it is a bright-metallic-yellow, dense, soft, malleable, and ductile metal.
+Chemically, gold is a transition metal, a group 11 element, and one of the noble metals.
+It is one of the least reactive chemical elements, being the second lowest in the reactivity series, with only platinum ranked as less reactive.
+Gold is solid under standard conditions.
+Copper is a chemical element; it has symbol Cu and atomic number 29.
+It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity.
+A freshly exposed surface of pure copper has a pinkish-orange color.
+Copper is used as a conductor of heat and electricity, as a building material, and as a constituent of various metal alloys, such as sterling silver used in jewelry, cupronickel used to make marine hardware and coins, and constantan used in strain gauges and thermocouples for temperature measurement.
+Iron is a chemical element; it has symbol Fe and atomic number 26.
+It is a metal that belongs to the first transition series and group 8 of the periodic table.
+It is, by mass, the most common element on Earth, forming much of Earth's outer and inner core.
+It is the fourth most abundant element in the Earth's crust.
+In its metallic state it was mainly deposited by meteorites.
+Salt is a mineral composed primarily of sodium chloride (NaCl).
+When used in food, especially in granulated form, it is more formally called table salt.
+In the form of a natural crystalline mineral, salt is also known as rock salt or halite.
+Salt is essential for life in general, and saltiness is one of the basic human tastes.
+Salt is one of the oldest and most ubiquitous food seasonings, and is known to uniformly improve the taste perception of food.
+Salting, brining, and pickling are ancient and important methods of food preservation.
+Limestone is a type of carbonate sedimentary rock which is the main source of the material lime.
+It is composed mostly of the minerals calcite and aragonite, which are different crystal forms of calcium carbonate CaCO3.
+Limestone forms when these minerals precipitate out of water containing dissolved calcium.
+This can take place through both biological and nonbiological processes, though biological processes, such as the accumulation of corals and shells in the sea, have likely been more important for the last 540 million years.
+Limestone often contains fossils which provide scientists with information on ancient environments and on the evolution of life.
+Slate is a fine-grained, foliated, homogeneous, metamorphic rock derived from an original shale-type sedimentary rock composed of clay or volcanic ash through low-grade, regional metamorphism.
+It is the finest-grained foliated metamorphic rock.
+Foliation may not correspond to the original sedimentary layering, but instead is in planes perpendicular to the direction of metamorphic compression.
+A river is a natural stream of fresh water that flows on land or inside caves towards another body of water at a lower elevation, such as an ocean, lake, or another river.
+A river may run dry before reaching the end of its course if it runs out of water, or only flow during certain seasons.
+Rivers are regulated by the water cycle, the processes by which water moves around the Earth.
+Water first enters rivers through precipitation, whether from rainfall, the runoff of water down a slope, the melting of glaciers or snow, or seepage from aquifers beneath the surface of the Earth.
+A lake is often a naturally occurring, relatively large and fixed body of water on or near the Earth's surface.
+It is localized in a basin or interconnected basins surrounded by dry land.
+Lakes lie completely on land and are separate from the ocean, although they may be connected with the ocean by outflowing rivers.
+Lakes, like other bodies of water, are part of the water cycle, the processes by which water moves around the Earth.
+Most lakes are fresh water and account for almost all the world's surface freshwater, but some are salt lakes with salinities even higher than that of seawater.
+Lakes vary significantly in surface area and volume of water, but in total cover approximately 2.5 X 106 km2 (less than 2%) of the Earth's surface.
+A glacier is a persistent body of natural ice, a form of
+rock, that is constantly moving under its own weight.
+A glacier forms where the accumulation of snow exceeds its ablation over many years, often centuries.
+It slowly flows and deforms under stresses induced by gravity, undergoing both ductile and brittle deformation, and acquiring distinguishing surface features, such as crevasses and seracs.
+As a glacier moves, it abrades underlying rock and debris to create glacial landforms, such as cirques, moraines, and fjords.
+Although a glacier may flow into a body of water, and can include ice shelves and ice tongues, it originates only on land and is distinct from the much thinner sea ice and lake ice that form on the surface of freezing bodies of water.
+Soil, also commonly referred to as earth, is a mixture of organic matter, minerals, gases, water, and organisms that together support the life of plants and soil organisms.
+Some scientific definitions distinguish dirt from soil by restricting the former term specifically to displaced soil.
+In geology and mineralogy, a mineral or mineral species is, broadly speaking, a solid substance with a fairly well-defined chemical composition and a specific crystal structure that occurs naturally in pure form.
+A fossil fuel is a flammable carbon compound- or hydrocarbon-containing material formed naturally in the Earth's crust from the buried remains of prehistoric organisms, a process that occurs within geological formations.
+Reservoirs of such compound mixtures, such as coal, petroleum and natural gas, can be extracted and burnt as fuel for human consumption to provide energy for direct use, to power heat engines that can propel vehicles, or to generate electricity via steam turbine generators.
+Some fossil fuels are further refined into derivatives such as kerosene, gasoline and diesel, or converted into petrochemicals such as polyolefins (plastics), aromatics and synthetic resins.
+A mountain is an elevated portion of the surface of a planet, generally with steep sides that show significant exposed bedrock.
+Although there are no universally accepted definitions, a mountain is usually considered higher than a hill.
+By definition, mountains are often thought of as being a landform which is higher than 2,000 feet (610 m).
+It may either have a limited summit area or be a smaller plateau with high elevation and steep sides.
+A few mountains are isolated summits, but most occur in mountain ranges.
+A valley is an elongated low area often running between hills or mountains and typically containing a river or stream running from one end to the other.
+Most valleys are formed by erosion of the land surface by rivers or streams over a very long period.
+Some valleys are formed through erosion by glacial ice.
+These glaciers may remain present in valleys in high mountains or polar areas.
+A desert is a landscape where little precipitation occurs and, consequently, living conditions create unique biomes and ecosystems.
+The lack of vegetation exposes the unprotected surface of the ground to denudation.
+About one-third of the land surface of the Earth is arid or semi-arid.
+This includes much of the polar regions, where little precipitation occurs, and which are sometimes called polar deserts or "cold deserts".
+Deserts can be classified by the amount of precipitation that falls, by the temperature that prevails, by the causes of desertification or by their geographical location.
+An island or isle is a piece of land, distinct from a continent, completely surrounded by water.
+There are continental islands, which were formed by being split from a continent by plate tectonics, and oceanic islands, which have never been part of a continent.
+Oceanic islands can be formed from volcanic activity, grow into atolls from coral reefs, and form from sediment along shorelines, creating barrier islands.
+River islands can also form from sediment and debris in rivers.
+Artificial islands are those made by humans, including small rocky outcroppings built out of lagoons and large-scale land reclamation projects used for development.
+An earthquake, also called a quake, tremor, or temblor, is the shaking of the Earth's surface resulting from a sudden release of energy in the lithosphere that creates seismic waves.
+Earthquakes can range in intensity, from those so weak they cannot be felt, to those violent enough to propel objects and people into the air, damage critical infrastructure, and wreak destruction across entire cities.
+The seismic activity of an area is the frequency, type, and size of earthquakes experienced over a particular time.
+The seismicity at a particular location in the Earth is the average rate of seismic energy released per unit volume.
+A volcano is a vent or fissure in the crust of a planetary-mass object that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface.
+On Earth, volcanoes are most often found where tectonic plates are diverging or converging, and because most of Earth's plate boundaries are underwater, most volcanoes are found underwater.
+For example, a mid-ocean ridge, such as the Mid-Atlantic Ridge, has volcanoes caused by divergent tectonic plates whereas the Pacific Ring of Fire has volcanoes caused by convergent tectonic plates.
+Volcanoes resulting from divergent tectonic activity are usually non-explosive whereas those resulting from convergent tectonic activity cause violent eruptions.
+Volcanoes can also form where there is stretching and thinning of the crust's plates, such as in the East African Rift, the Wells Gray-Clearwater volcanic field, and the Rio Grande rift in North America.
+Volcanism away from plate boundaries most likely arises from upwelling diapirs from the core–mantle boundary called mantle plumes, 3,000 kilometres (1,900 mi) deep within Earth.
+This results in hotspot volcanism or intraplate volcanism, in which the plume may cause thinning of the crust and result in a volcanic island chain due to the continuous movement of the tectonic plate, of which the Hawaiian hotspot is an example.
+Volcanoes are usually not created at transform tectonic boundaries where two tectonic plates slide past one another.
+In cartography, a map is a representation or abstraction of geographic reality.
+Maps are used for a wide range of purposes, including navigation, scientific research, governance, and warfare.
+A common use is route planning, which enables users to find their way to their destination.
+Specialized maps, called charts, are used for nautical navigation and aviation.
+Scientists use maps to organize spatial data in fields such as geology, meteorology, seismology and demographics.
+Governments use maps for administrative functions such as census, electoral districts, property taxation, dispatching police, and coordinating disaster relief.
+Military and security organizations use maps for mission planning, surveillance, border management, logistics, and intelligence analysis.
+A compass is a device that shows the cardinal directions used for navigation and geographic orientation.
+It typically consists of a magnetized needle or another element, such as a compass card or compass rose, that pivots to align itself with magnetic north.
+Other methods may be used, including gyroscopes, magnetometers, and GPS receivers.
+The Global Positioning System (GPS) is a satellite-based hyperbolic navigation system owned by the United States Space Force and operated by Mission Delta 31.
+It is one of the global navigation satellite systems (GNSS) that provide geolocation and time information to a GPS receiver anywhere on or near the Earth where signal quality permits.
+It does not require the user to transmit any data, and operates independently of any telephone or Internet reception, though these technologies can enhance the usefulness of the GPS positioning information.
+It provides critical positioning capabilities to military, civil, and commercial users around the world.
+Although the United States government created, controls, and maintains GPS, it is freely accessible to anyone with a GPS receiver.
+Surveying or land surveying is the technique, profession, art, and science of determining the terrestrial positions of points based on the distances and angles between them.
+These points are usually on the surface of the Earth, and they are often used to establish maps and boundaries for ownership, locations, such as the designated positions of structural components for construction or the surface location of subsurface features, or other purposes required by government or civil law, such as property sales.
+Navigation is a field of study that focuses on the process of monitoring and controlling the movement of a craft or vehicle from one place to another.
+The field of navigation includes four general categories: land navigation, marine navigation, aeronautic navigation, and space navigation.
+It is also the term of art used for the specialized knowledge used by navigators to perform navigation tasks.
+All navigational techniques involve locating the navigator's position compared to known locations or patterns.
+Navigation, in a broader sense, can refer to any skill or study that involves the determination of position and direction.
+In this sense, navigation includes orienteering and pedestrian navigation.
+Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos.
+It uses mathematics, physics, and chemistry to explain their origin and their overall evolution.
+Objects of interest include planets, moons, stars, nebulae, galaxies, meteoroids, asteroids, and comets.
+Relevant phenomena include supernova explosions, gamma ray bursts, quasars, blazars, pulsars, and cosmic microwave background radiation.
+More generally, astronomy studies everything that originates beyond Earth's atmosphere.
+Cosmology is the branch of astronomy that studies the universe as a whole.
+Light, visible light, or visible radiation is electromagnetic radiation that can be perceived by the human eye.
+Visible light spans the visible spectrum and is usually defined as having wavelengths in the range of 400–700 nanometers (nm), corresponding to frequencies of 750–420 terahertz.
+The visible band sits adjacent to the infrared and the ultraviolet, called collectively optical radiation.
+Color is the visual perception produced by the activation of the different types of cone cells in the eye caused by light.
+Though color is not an inherent property of matter, color perception is related to an object's light absorption, emission, reflection and transmission.
+For most humans, visible wavelengths of light are the ones perceived in the visible light spectrum, with three types of cone cells (trichromacy).
+Other animals may have a different number of cone cell types or have eyes sensitive to different wavelengths, such as bees that can distinguish ultraviolet, and thus have a different color sensitivity range.
+Animal perception of color originates from different light wavelength or spectral sensitivity in cone cell types, which is then processed by the brain.
+Sound is a phenomenon in which pressure disturbances propagate through an elastic material medium.
+In the context of physics, it is characterised as a mechanical wave of pressure or related quantities, whereas in physiological-psychological contexts it implies a hearing process.
+Though sensitivity to sound varies among all organisms, the human ear is sensitive to audio frequencies ranging from 20 Hz to 20 kHz.
+More broadly, acoustic waves encompass mechanical longitudinal waves in general.
+Examples of the significance and application of sound include music, medical imaging techniques, oral language and parts of science.
+In mathematics and physical science, a wave is a propagating dynamic disturbance of one or more quantities.
+Periodic waves oscillate repeatedly about an equilibrium (resting) value at some frequency.
+When the entire waveform moves in one direction, it is said to be a traveling wave; by contrast, a pair of identical superimposed periodic waves traveling in opposite directions makes a standing wave.
+In a standing wave, the amplitude of vibration has nulls at some positions where the wave amplitude appears smaller or even zero.
+Frequency is the number of occurrences of a repeating event per unit of time.
+Frequency is an important parameter used in science and engineering to specify the rate of oscillatory and vibratory phenomena, such as mechanical vibrations, audio signals (sound), radio waves, and light.
+The amplitude of a periodic variable is a measure of its change in a single period.
+The amplitude of a non-periodic signal is its magnitude compared with a reference value.
+There are various definitions of amplitude, which are all functions of the magnitude of the differences between the variable's extreme values.
+In older texts, the phase of a periodic function is sometimes called the amplitude.
+In physics and mathematics, wavelength or spatial period of a wave or periodic function is the distance over which the wave's shape repeats.
+In other words, it is the distance between consecutive corresponding points of the same phase on the wave, such as two adjacent crests, troughs, or zero crossings.
+Wavelength is a characteristic of both traveling waves and standing waves, as well as other spatial wave patterns.
+The inverse of the wavelength is called the spatial frequency.
+Wavelength is commonly designated by the Greek letter lambda (λ).
+For a modulated wave, wavelength may refer to the carrier wavelength of the signal.
+The term wavelength may also apply to the repeating envelope of modulated waves or waves formed by interference of several sinusoids.
+A spectrum is a set of related ideas, objects, or properties whose features overlap such that they blend to form a continuum.
+The word spectrum was first used scientifically in optics to describe the rainbow of colors in visible light after passing through a prism.
+In the optical spectrum, light wavelength is viewed as continuous, and spectral colors are seen to blend into one another smoothly when organized in order of their corresponding wavelengths.
+As scientific understanding of light advanced, the term came to apply to the entire electromagnetic spectrum, including radiation not visible to the human eye.
+In physics, refraction is the redirection of a wave as it passes from one medium to another.
+The redirection can be caused by the wave's change in speed or by a change in the medium.
+Refraction of light is the most commonly observed phenomenon, but other waves such as sound waves and water waves also experience refraction.
+How much a wave is refracted is determined by the change in wave speed and the initial direction of wave propagation relative to the direction of change in speed.
+Reflection may refer to:
+Diffraction is the deviation of waves from straight-line propagation due to an obstacle or through an aperture, without any change in their energy.
+Diffraction is the same physical effect as interference, but interference is typically used for the superposition of a few waves, while the term diffraction is used when many waves are superposed.
+The term diffraction pattern is used to refer to an image or map of the different directions of the waves after they have been diffracted.
+Diffraction patterns are pronounced when a wave from a coherent source encounters a slit/aperture as shown in the first image.
+Optics is the branch of physics that studies the behaviour, manipulation, and detection of electromagnetic radiation, including its interactions with matter and instruments that use or detect it.
+Optics usually describes the behaviour of visible, ultraviolet, and infrared light.
+The study of optics extends to other forms of electromagnetic radiation, including radio waves, microwaves,
+The term optics is also applied to technology for manipulating beams of elementary charged particles.
+A mirror, also known as a looking glass, is an object that reflects an image.
+Light that bounces off a mirror forms an image of whatever is in front of it, which is then focused through the lens of the eye or a camera.
+Mirrors reverse the direction of light at an angle equal to its incidence.
+This allows the viewer to see themselves or objects behind them, or even objects that are at an angle from them but out of their field of view, such as around a corner.
+Natural mirrors have existed since prehistoric times, such as the surface of water, but people have been manufacturing mirrors out of a variety of materials for thousands of years, like stone, metals, and glass.
+In modern mirrors, metals like silver or aluminium are often used due to their high reflectivity, applied as a thin coating on glass because of its naturally smooth and very hard surface.
+Resonance is a phenomenon that occurs when an object or system is subjected to an external force or vibration whose frequency matches a resonant frequency of the system, defined as a frequency that generates a maximum amplitude response in the system.
+When this happens, the object or system absorbs energy from the external force and starts vibrating with a larger amplitude.
+Resonance can occur in various systems, such as mechanical, electrical, or acoustic systems, and it is often desirable in certain applications, such as musical instruments or radio receivers.
+However, resonance can also be detrimental, leading to excessive vibrations or even structural failure in some cases.
+Thermodynamics is a branch of physics that deals with heat, work, and temperature, and their relation to energy, entropy, and the physical properties of matter and radiation.
+The behavior of these quantities is governed by the four laws of thermodynamics, which convey a quantitative description using measurable macroscopic physical quantities but may be explained in terms of microscopic constituents by statistical mechanics.
+Thermodynamics applies to various topics in science and engineering, especially physical chemistry, biochemistry, chemical engineering, and mechanical engineering, as well as other complex fields such as meteorology.
+In thermodynamics, heat is defined as energy in transfer between a body and its surroundings, other than through thermodynamic work or through transfer of matter.
+In classical thermodynamics and kinetic theory, temperature reflects the average kinetic energy of the particles in a system, providing a quantitative measure of how energy is distributed among microscopic degrees of freedom.
+Boiling or ebullition is the rapid phase transition from liquid to gas or vapour; the reverse of boiling is condensation.
+Boiling occurs when a liquid is heated to its boiling point, so that the vapour pressure of the liquid is equal to the pressure exerted on the liquid by the surrounding atmosphere.
+Boiling and evaporation are the two main forms of liquid vapourization.
+A vacuum is space devoid of matter.
+The word is derived from the Latin adjective vacuus meaning "vacant" or "void".
+An approximation to such vacuum is a region with a gaseous pressure much less than atmospheric pressure.
+Physicists often discuss ideal test results that would occur in a perfect vacuum, which they sometimes simply call "vacuum" or free space, and use the term partial vacuum to refer to an actual imperfect vacuum as one might have in a laboratory or in space.
+In engineering and applied physics on the other hand, vacuum refers to any space in which the pressure is considerably lower than atmospheric pressure.
+The Latin term in vacuo is used to describe an object that is surrounded by a vacuum.
+The process in which a mechanical device removes matter from a closed or open system in an effort to create a vacuum is called evacuation.
+Evacuated substances captured, removed from the flowstream in another location, and held under vacuum are sometimes said to be collected by the vacuum system.
+The mechanical force the atmosphere exerts on air and material obstructing the flow of air into a vacuum is referred to as suction.
+Bernoulli's principle is a concept in fluid dynamics that relates pressure, speed and height.
+For example, for a fluid flowing horizontally, Bernoulli's principle states that an increase in the speed occurs simultaneously with a decrease in pressure.
+The principle is named after the Swiss mathematician and physicist Daniel Bernoulli, who published it in his book Hydrodynamica in 1738.
+Although Bernoulli deduced that pressure decreases when the flow speed increases, it was Leonhard Euler in 1752 who derived Bernoulli's equation in its usual form.

@@ -1,0 +1,83 @@
+{
+ "schema": "ratis_knowledge_pack_index/v1",
+ "generated_at": "2026-08-25",
+ "directory": "data/knowledge_packs",
+ "packs": [
+  {
+   "id": "quantum_physics",
+   "file": "quantum_physics_pack.json",
+   "language": [
+    "fr",
+    "en"
+   ],
+   "purpose": "Notions quantiques fondamentales, limites et relations de simulation."
+  },
+  {
+   "id": "math_logic",
+   "file": "math_logic_pack.json",
+   "language": [
+    "fr",
+    "en"
+   ],
+   "purpose": "Notions de théorie des ensembles, démonstration et algèbre."
+  },
+  {
+   "id": "bio_pharma",
+   "file": "bio_pharma_pack.json",
+   "language": [
+    "fr",
+    "en"
+   ],
+   "purpose": "Point de départ descriptif en biologie structurale, sans conseil clinique."
+  },
+  {
+   "id": "ai_systems",
+   "file": "ai_systems_pack.json",
+   "language": [
+    "fr",
+    "en"
+   ],
+   "purpose": "Gouvernance, évaluation et gestion des risques des systèmes d’IA."
+  },
+  {
+   "id": "astronomy",
+   "file": "astronomy_pack.json",
+   "language": [
+    "fr",
+    "en"
+   ],
+   "purpose": "Notions d'astronomie fondamentales : trous noirs, étoiles, galaxies."
+  },
+  {
+   "id": "chemistry",
+   "file": "chemistry_pack.json",
+   "language": [
+    "fr",
+    "en"
+   ],
+   "purpose": "Notions de chimie fondamentales : atome, molécule, réaction."
+  },
+  {
+   "id": "medicine",
+   "file": "medicine_pack.json",
+   "language": [
+    "fr",
+    "en"
+   ],
+   "purpose": "Notions biomedicales fondamentales : virus, immunité, vaccins."
+  }
+ ],
+ "loading_note": "Chaque pack est un JSON autonome. Charger le manifest puis uniquement le ou les domaines nécessaires; ne pas charger le dossier entier si une requête concerne un seul domaine.",
+ "relation_contract": {
+  "r": "concept racine",
+  "rel": "relations factuelles sourcées",
+  "t": "concept cible",
+  "k": "type de relation contrôlé",
+  "c": "contexte",
+  "fr": "formulation française concise",
+  "en": "formulation anglaise concise",
+  "src": "identifiant d’une ou plusieurs sources du pack",
+  "evidence": "statut de source",
+  "aeon_proof_status": "statut de preuve interne; aucune preuve n’est prétendue si ce champ vaut not_generated"
+ }
+}

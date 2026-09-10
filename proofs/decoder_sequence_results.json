@@ -1,0 +1,37 @@
+{
+  "generations": {
+    "happy": "yes this is very go and",
+    "angry": "ur who is or just hate",
+    "sad": "ur who who who all of",
+    "others": "to get with me get it"
+  },
+  "coherence": {
+    "happy": {
+      "generated": "yes this is very go and",
+      "pred_seq": 1,
+      "target": 1,
+      "coherent": true
+    },
+    "angry": {
+      "generated": "ur who is or just hate",
+      "pred_seq": 0,
+      "target": 0,
+      "coherent": true
+    },
+    "sad": {
+      "generated": "ur who who who all of",
+      "pred_seq": 0,
+      "target": 0,
+      "coherent": true
+    },
+    "others": {
+      "generated": "to get with me get it",
+      "pred_seq": 2,
+      "target": 2,
+      "coherent": true
+    }
+  },
+  "n_coherent_seq": 4,
+  "n_samples_word": 12733,
+  "n_samples_seq": 297
+}

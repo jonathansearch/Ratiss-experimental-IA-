@@ -1,0 +1,4 @@
+artifacts/*.pkl filter=lfs diff=lfs merge=lfs -text
+data/grammar_domains/ultra_context_map.json filter=lfs diff=lfs merge=lfs -text
+data/corpus/scalpel_v3_corpus.txt filter=lfs diff=lfs merge=lfs -text
+artifacts/scalpel_wikipedia.pkl filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,33 @@
+{
+  "verdict": "PASS",
+  "reports": {
+    "HASH": {
+      "tokenizer": "HASH",
+      "backend": "gpu",
+      "acc_train": 0.8962514199166982,
+      "acc_test_vote": 0.8571428571428571,
+      "c_seuils": {
+        "happy": 0.6860180688805084,
+        "angry": 0.2991464187822984,
+        "sad": 0.18250908021936277,
+        "others": 0.49969606777667874
+      },
+      "n_dialogues": 300,
+      "n_samples": 2641
+    },
+    "TOPO": {
+      "tokenizer": "TOPO[gpu]",
+      "backend": "gpu",
+      "acc_train": 0.8962514199166982,
+      "acc_test_vote": 0.8571428571428571,
+      "c_seuils": {
+        "happy": 0.6848384729365677,
+        "angry": 0.30711978617618435,
+        "sad": 0.19491088096851186,
+        "others": 0.49889863633101483
+      },
+      "n_dialogues": 300,
+      "n_samples": 2641
+    }
+  }
+}

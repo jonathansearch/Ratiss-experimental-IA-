@@ -1,0 +1,251 @@
+{
+ "schema": "ratis_knowledge_pack/v1",
+ "domain": "quantum_physics",
+ "generated_at": "2026-08-25",
+ "language": [
+  "fr",
+  "en"
+ ],
+ "purpose": "Relations de référence sur les états, mesures, portes et limites de l’informatique quantique.",
+ "use_limits": "Ce pack décrit des notions générales. Il ne prouve pas une hypothèse RATISS, ne remplace pas une simulation, et ne constitue pas une validation sur QPU.",
+ "sources": [
+  {
+   "id": "nist_quantum_2026",
+   "title": "NIST — Quantum Computing Explained",
+   "url": "https://www.nist.gov/quantum-information-science/quantum-computing-explained",
+   "accessed": "2026-08-25"
+  },
+  {
+   "id": "ibm_qm_basics",
+   "title": "IBM Quantum Learning — Quantum mechanics basics",
+   "url": "https://quantum.cloud.ibm.com/learning/courses/use-a-qc-today/quantum-mechanics-basics",
+   "accessed": "2026-08-25"
+  }
+ ],
+ "entries": [
+  {
+   "id": "q_001",
+   "r": "qubit",
+   "rel": [
+    {
+     "t": "superposition",
+     "k": "can_be_described_by",
+     "c": "state_representation",
+     "fr": "Un qubit peut être préparé dans l’état 0, dans l’état 1, ou dans une combinaison des deux états.",
+     "en": "A qubit can be prepared in state 0, in state 1, or in a combination of both states.",
+     "src": [
+      "nist_quantum_2026"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    },
+    {
+     "t": "measurement",
+     "k": "produces_outcome",
+     "c": "computational_basis",
+     "fr": "Une mesure d’un qubit produit un résultat possible; les amplitudes de l’état déterminent les probabilités des résultats.",
+     "en": "A qubit measurement produces a possible outcome; the state amplitudes determine the probabilities of the outcomes.",
+     "src": [
+      "ibm_qm_basics"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "qubit"
+   ]
+  },
+  {
+   "id": "q_002",
+   "r": "measurement",
+   "rel": [
+    {
+     "t": "classical_outcome",
+     "k": "collapses_to",
+     "c": "single_qubit",
+     "fr": "Après une mesure, un qubit se trouve dans le résultat observé et la superposition antérieure n’est plus conservée dans cet état mesuré.",
+     "en": "After measurement, a qubit is in the observed outcome and the prior superposition is no longer retained in that measured state.",
+     "src": [
+      "ibm_qm_basics"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    },
+    {
+     "t": "probability_distribution",
+     "k": "is_governed_by",
+     "c": "born_rule_summary",
+     "fr": "Dans la représentation vectorielle présentée par IBM, la probabilité d’un résultat est obtenue à partir du carré de l’amplitude correspondante.",
+     "en": "In IBM’s vector representation, the probability of an outcome is obtained from the square of the corresponding amplitude.",
+     "src": [
+      "ibm_qm_basics"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "mesure quantique"
+   ]
+  },
+  {
+   "id": "q_003",
+   "r": "hadamard_gate",
+   "rel": [
+    {
+     "t": "superposition",
+     "k": "transforms_basis_state_into",
+     "c": "single_qubit_gate",
+     "fr": "La porte de Hadamard transforme les états de base en combinaisons superposées avec des amplitudes normalisées.",
+     "en": "The Hadamard gate transforms basis states into superposed combinations with normalized amplitudes.",
+     "src": [
+      "ibm_qm_basics"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    },
+    {
+     "t": "unitary_matrix",
+     "k": "is_represented_by",
+     "c": "linear_algebra",
+     "fr": "Les portes quantiques sont représentées par des matrices qui transforment les vecteurs d’état; la leçon IBM rappelle leur caractère réversible et unitaire.",
+     "en": "Quantum gates are represented by matrices that transform state vectors; the IBM lesson notes their reversible and unitary character.",
+     "src": [
+      "ibm_qm_basics"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ]
+  },
+  {
+   "id": "q_004",
+   "r": "bell_state",
+   "rel": [
+    {
+     "t": "entanglement",
+     "k": "exemplifies",
+     "c": "two_qubit_system",
+     "fr": "L’état de Bell Phi-plus constitue un exemple à deux qubits où les mesures présentent des résultats corrélés.",
+     "en": "The Bell Phi-plus state is a two-qubit example in which measurements exhibit correlated outcomes.",
+     "src": [
+      "ibm_qm_basics"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    },
+    {
+     "t": "cnot_gate",
+     "k": "can_be_prepared_with",
+     "c": "hadamard_then_controlled_not",
+     "fr": "La leçon IBM construit l’état de Bell Phi-plus en appliquant une porte de Hadamard puis une porte CNOT dans un circuit à deux qubits.",
+     "en": "The IBM lesson constructs the Bell Phi-plus state by applying a Hadamard gate followed by a CNOT gate in a two-qubit circuit.",
+     "src": [
+      "ibm_qm_basics"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "état de bell",
+    "etat de bell"
+   ]
+  },
+  {
+   "id": "q_005",
+   "r": "environmental_disturbance",
+   "rel": [
+    {
+     "t": "quantum_coherence",
+     "k": "can_disrupt",
+     "c": "noise_and_decoherence",
+     "fr": "Des perturbations extérieures, comme des champs parasites ou des fluctuations de température, peuvent détruire une superposition ou un enchevêtrement.",
+     "en": "External disturbances, such as stray fields or temperature fluctuations, can destroy a superposition or entanglement.",
+     "src": [
+      "nist_quantum_2026"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ]
+  },
+  {
+   "id": "q_006",
+   "r": "topological_qubit",
+   "rel": [
+    {
+     "t": "error_protection",
+     "k": "is_theoretically_motivated_by",
+     "c": "braiding_of_quasiparticles",
+     "fr": "Le NIST présente le qubit topologique comme une approche théorique visant une certaine protection contre des perturbations, fondée sur des motifs de tressage de quasi-particules.",
+     "en": "NIST presents the topological qubit as a theoretical approach to some protection from disturbances, based on quasiparticle braiding patterns.",
+     "src": [
+      "nist_quantum_2026"
+     ],
+     "evidence": "source_backed_with_limit",
+     "aeon_proof_status": "not_generated"
+    },
+    {
+     "t": "laboratory_realization",
+     "k": "remains_unconfirmed",
+     "c": "hardware_status",
+     "fr": "Le NIST indique que les chercheurs cherchent encore une preuve définitive de la réalisation d’un qubit topologique en laboratoire.",
+     "en": "NIST indicates that researchers are still seeking definitive evidence of a topological-qubit realization in the laboratory.",
+     "src": [
+      "nist_quantum_2026"
+     ],
+     "evidence": "source_backed_with_limit",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "qubit topologique"
+   ]
+  },
+  {
+   "id": "q_100",
+   "r": "quantum mechanics",
+   "aliases": [
+    "mécanique quantique",
+    "mecanique quantique"
+   ],
+   "rel": [
+    {
+     "t": "superposition and measurement",
+     "k": "describes",
+     "c": "fundamental_theory",
+     "fr": "La mécanique quantique est la théorie qui décrit la matière et la lumière à l'échelle atomique : les systèmes y sont décrits par des états en superposition, et la mesure projette l'état sur un résultat.",
+     "en": "Quantum mechanics is the theory describing matter and light at the atomic scale: systems are described by states in superposition, and measurement projects the state onto an outcome.",
+     "src": [
+      "ibm_qm_basics"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ]
+  },
+  {
+   "id": "q_101",
+   "r": "quantum entanglement",
+   "aliases": [
+    "intrication quantique"
+   ],
+   "rel": [
+    {
+     "t": "correlated outcomes",
+     "k": "produces",
+     "c": "nonclassical_correlation",
+     "fr": "L'intrication quantique lie des systèmes dont les mesures restent corrélées quelle que soit la distance, sans permettre de communication plus rapide que la lumière.",
+     "en": "Quantum entanglement links systems whose measurements stay correlated regardless of distance, without allowing faster-than-light communication.",
+     "src": [
+      "ibm_qm_basics"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ]
+  }
+ ]
+}

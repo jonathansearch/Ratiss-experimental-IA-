@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If this work supports research or software development, please cite it."
+title: "Ratiss-experimental-IA-"
+type: software
+authors:
+  - family-names: Evina
+    given-names: Jonathan
+    name-suffix: "(RATISS Labs)"
+    orcid: "https://orcid.org/0009-0000-4092-5313"
+year: 2026
+license: Apache-2.0
+repository-code: "https://github.com/jonathansearch/Ratiss-experimental-IA-"

@@ -1,0 +1,280 @@
+{
+ "schema": "ratis_knowledge_pack/v1",
+ "domain": "astronomy",
+ "generated_at": "2026-08-25",
+ "language": [
+  "fr",
+  "en"
+ ],
+ "purpose": "Notions d'astronomie fondamentales : trous noirs, étoiles, galaxies, cosmologie.",
+ "use_limits": "Faits de consensus scientifique; ne pas utiliser pour des prédictions numériques.",
+ "sources": [
+  {
+   "id": "nasa_blackholes",
+   "title": "NASA Science - Black Holes",
+   "url": "https://science.nasa.gov/universe/black-holes/",
+   "accessed": "2026-08-25"
+  },
+  {
+   "id": "esa_stars",
+   "title": "ESA - Stars",
+   "url": "https://www.esa.int/Science_Exploration/Space_Science/Stars",
+   "accessed": "2026-08-25"
+  }
+ ],
+ "entries": [
+  {
+   "id": "a_001",
+   "r": "black hole",
+   "rel": [
+    {
+     "t": "event horizon",
+     "k": "bounded_by",
+     "c": "spacetime_region",
+     "fr": "Un trou noir est une région de l'espace-temps dont la gravité est si intense que rien, pas même la lumière, ne peut s'en échapper une fois l'horizon des événements franchi.",
+     "en": "A black hole is a region of spacetime whose gravity is so strong that nothing, not even light, can escape once past the event horizon.",
+     "src": [
+      "nasa_blackholes"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    },
+    {
+     "t": "stellar collapse",
+     "k": "formed_by",
+     "c": "massive_star_death",
+     "fr": "Un trou noir stellaire se forme quand une étoile massive s'effondre sur elle-même en fin de vie.",
+     "en": "A stellar black hole forms when a massive star collapses under its own gravity at the end of its life.",
+     "src": [
+      "nasa_blackholes"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "trou noir",
+    "trous noirs"
+   ]
+  },
+  {
+   "id": "a_002",
+   "r": "event horizon",
+   "rel": [
+    {
+     "t": "point of no return",
+     "k": "is_a",
+     "c": "boundary",
+     "fr": "L'horizon des événements est la frontière d'un trou noir au-delà de laquelle aucun retour n'est possible; ce n'est pas une surface matérielle.",
+     "en": "The event horizon is the boundary of a black hole beyond which no return is possible; it is not a physical surface.",
+     "src": [
+      "nasa_blackholes"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "horizon des événements",
+    "horizon des evenements"
+   ]
+  },
+  {
+   "id": "a_003",
+   "r": "star",
+   "rel": [
+    {
+     "t": "nuclear fusion",
+     "k": "powered_by",
+     "c": "plasma",
+     "fr": "Une étoile est une sphère de plasma maintenue par sa gravité, alimentée par la fusion nucléaire de l'hydrogene en hélium dans son noyau.",
+     "en": "A star is a sphere of plasma held together by its own gravity, powered by nuclear fusion of hydrogen into helium in its core.",
+     "src": [
+      "esa_stars"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "étoile",
+    "etoile",
+    "étoiles"
+   ]
+  },
+  {
+   "id": "a_004",
+   "r": "galaxy",
+   "rel": [
+    {
+     "t": "stars",
+     "k": "gravitationally_bound_system_of",
+     "c": "cosmic_structure",
+     "fr": "Une galaxie est un système lie gravitationnellement rassemblant étoiles, gaz, poussiere et matière noire; la Voie lactée contient des centaines de milliards d'etoiles.",
+     "en": "A galaxy is a gravitationally bound system of stars, gas, dust and dark matter; the Milky Way contains hundreds of billions of stars.",
+     "src": [
+      "nasa_blackholes"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "galaxie",
+    "galaxies"
+   ]
+  },
+  {
+   "id": "a_005",
+   "r": "supernova",
+   "rel": [
+    {
+     "t": "star explosion",
+     "k": "is_a",
+     "c": "stellar_death",
+     "fr": "Une supernova est l'explosion d'une étoile en fin de vie qui disperse ses éléments dans l'espace et peut laisser un trou noir ou une étoile a neutrons.",
+     "en": "A supernova is the explosion of a dying star that scatters its elements into space and can leave behind a black hole or a neutron star.",
+     "src": [
+      "esa_stars"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "supernova"
+   ]
+  },
+  {
+   "id": "a_006",
+   "r": "neutron star",
+   "rel": [
+    {
+     "t": "collapsed core",
+     "k": "is_a",
+     "c": "dense_remnant",
+     "fr": "Une étoile a neutrons est le cœur effondré d'une étoile massive, si dense qu'une cuillère de sa matière pèserait des milliards de tonnes.",
+     "en": "A neutron star is the collapsed core of a massive star, so dense that a spoonful of its matter would weigh billions of tonnes.",
+     "src": [
+      "nasa_blackholes"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "étoile à neutrons",
+    "etoile a neutrons"
+   ]
+  },
+  {
+   "id": "a_007",
+   "r": "big bang",
+   "rel": [
+    {
+     "t": "cosmic expansion",
+     "k": "describes",
+     "c": "early_universe",
+     "fr": "Le Big Bang décrit l'expansion de l'univers depuis un état initial chaud et dense il y a environ 13,8 milliards d'annees.",
+     "en": "The Big Bang describes the expansion of the universe from a hot dense initial state about 13.8 billion years ago.",
+     "src": [
+      "nasa_blackholes"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "big bang"
+   ]
+  },
+  {
+   "id": "a_008",
+   "r": "exoplanet",
+   "rel": [
+    {
+     "t": "other stars",
+     "k": "orbits",
+     "c": "planetary_system",
+     "fr": "Une exoplanète est une planète orbitant une étoile autre que le Soleil; plus de 5000 sont confirmées.",
+     "en": "An exoplanet is a planet orbiting a star other than the Sun; more than 5000 are confirmed.",
+     "src": [
+      "nasa_blackholes"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "exoplanète",
+    "exoplanete"
+   ]
+  },
+  {
+   "id": "a_009",
+   "r": "dark matter",
+   "rel": [
+    {
+     "t": "gravitational effect",
+     "k": "inferred_from",
+     "c": "unseen_mass",
+     "fr": "La matière noire est une forme de matière hypothétique déduite de ses effets gravitationnels sur les galaxies; elle n'émet ni n'absorbe la lumière.",
+     "en": "Dark matter is a hypothesized form of matter inferred from its gravitational effects on galaxies; it neither emits nor absorbs light.",
+     "src": [
+      "nasa_blackholes"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "matière noire",
+    "matiere noire"
+   ]
+  },
+  {
+   "id": "a_010",
+   "r": "light-year",
+   "rel": [
+    {
+     "t": "distance",
+     "k": "is_a_unit_of",
+     "c": "astronomical_distance",
+     "fr": "Une année-lumière est la distance que la lumière parcourt en un an, environ 9,46 mille milliards de kilomètres.",
+     "en": "A light-year is the distance light travels in one year, about 9.46 trillion kilometres.",
+     "src": [
+      "esa_stars"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ],
+   "aliases": [
+    "année-lumière",
+    "annee-lumiere"
+   ]
+  },
+  {
+   "id": "a_100",
+   "r": "gravity",
+   "aliases": [
+    "gravité",
+    "gravite"
+   ],
+   "rel": [
+    {
+     "t": "spacetime curvature",
+     "k": "is",
+     "c": "general_relativity",
+     "fr": "En relativité générale, la gravité est la courbure de l'espace-temps produite par la masse et l'énergie; c'est l'interaction qui gouverne les orbites et la structure cosmique.",
+     "en": "In general relativity, gravity is the curvature of spacetime produced by mass and energy; it is the interaction governing orbits and cosmic structure.",
+     "src": [
+      "nasa_blackholes"
+     ],
+     "evidence": "source_backed",
+     "aeon_proof_status": "not_generated"
+    }
+   ]
+  }
+ ]
+}
