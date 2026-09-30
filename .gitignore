@@ -13,3 +13,4 @@ data/grammar_domains/ultra_context_map.json
 artifacts/scalpel_wikipedia.pkl
 data/corpus/scalpel_v3_corpus.txt
 data/grammar_domains/ultra_context_map.json
+.pytest_cache/

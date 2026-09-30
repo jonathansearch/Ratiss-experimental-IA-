@@ -13,6 +13,11 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from ratis_net.scalpel import ScalpelLayer, ScalpelNeuron
 from ratis_net.glove_tokenizer import GloveTokenizer
+from ratis_net.glove_tokenizer import _GLOVE_PATH
+
+# La cohérence repose sur GloVe (data/glove/glove.6B.50d.txt, non versionné) : sans lui,
+# tous les embeddings GloVe sont nuls → aucune paire cohérente. On saute honnêtement.
+_NEED_GLOVE = pytest.mark.skipif(not _GLOVE_PATH.exists(), reason="GloVe absent (data/glove/glove.6B.50d.txt)")
 
 
 @pytest.fixture
@@ -25,6 +30,7 @@ def scalpel(tokenizer):
     return ScalpelLayer(tokenizer, eta=0.1, coherence_threshold=0.3)
 
 
+@_NEED_GLOVE
 def test_neurogenesis_creates_new_neurons(scalpel):
     """La première fois qu'une paire cohérente est vue, un neurone est généré."""
     r = scalpel.process_phrase("the brain processes information")
@@ -32,6 +38,7 @@ def test_neurogenesis_creates_new_neurons(scalpel):
     assert scalpel.network_size() > 0
 
 
+@_NEED_GLOVE
 def test_reinforcement_increases_weight_not_neurons(scalpel):
     """La 2e fois, le neurone est renforcé, pas de neurogenesis."""
     phrase = "the brain processes information"
@@ -44,6 +51,7 @@ def test_reinforcement_increases_weight_not_neurons(scalpel):
     assert size_before == size_after
 
 
+@_NEED_GLOVE
 def test_lct_weight_grows_with_reinforcement(scalpel):
     """Le poids d'une corrélation augmente avec le nombre de renforcements (LCT)."""
     # happy ↔ love a un cosinus positif (cohérent)
@@ -67,6 +75,7 @@ def test_low_coherence_pairs_are_not_stored(scalpel):
     assert r["generated"] == 0
 
 
+@_NEED_GLOVE
 def test_correlations_are_symmetric(scalpel):
     """Si A↔B existe, get_correlations(A) contient B et vice-versa."""
     scalpel.process_phrase("happy love today")
