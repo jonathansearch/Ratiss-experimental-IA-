@@ -6,19 +6,19 @@
 
 # RATIS-Net
 
-**Un réseau neuronal entraîné par la Loi de Cohérence Topologique (LCT) — sans gradient descendant.**
+**A neural network trained by the Topological Coherence Law (LCT) — without gradient descent.**
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-4f7cff)](pyproject.toml)
 [![Tests](https://img.shields.io/badge/tests-57%2F57-22c55e)](#tests)
 [![License](https://img.shields.io/badge/license-propriétaire-d97706)](LICENSE)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4092--5313-a6ce39)](https://orcid.org/0009-0000-4092-5313)
 
-> Au lieu de minimiser une loss par backpropagation, RATIS-Net maximise la
-> persistance topologique de son graphe de corrélations : il apprend en
-> devenant topologiquement robuste. La loi est figée :
-> **R = P_sig** et **ΔW = η·φ·P_sig·C**.
+> Instead of minimizing a loss by backpropagation, RATIS-Net maximizes the
+> topological persistence of its correlation graph: it learns by
+> becoming topologically robust. The law is frozen:
+> **R = P_sig** and **ΔW = η·φ·P_sig·C**.
 
-![Architecture RATIS-Net v2](docs/images/architecture.svg)
+![RATIS-Net v2 architecture](docs/images/architecture.svg)
 
 ---
 
@@ -28,25 +28,25 @@
 git clone https://github.com/evinajonathan13-max/Ratiss-experimental-IA-.git
 cd Ratiss-experimental-IA-
 pip install .
-git lfs install && git lfs pull          # checkpoint Scalpel (294 MB)
+git lfs install && git lfs pull          # Scalpel checkpoint (294 MB)
 mkdir -p data/glove && curl -L -o data/glove/glove.6B.zip \
     https://nlp.stanford.edu/data/glove.6B.zip
 python3 -c "import zipfile; zipfile.ZipFile('data/glove/glove.6B.zip').extract('glove.6B.50d.txt','data/glove/')"
 ```
 
-Dépendances minimales : `numpy`. Extras : `pip install .[full]` (scipy, gudhi),
+Minimal dependency: `numpy`. Extras: `pip install .[full]` (scipy, gudhi),
 `.[train]` (datasets), `.[dev]` (pytest).
 
-## Démarrage en 5 minutes
+## 5-minute start
 
 ```python
 from ratis_net import RatisNet
 
 net = RatisNet()
-net.load_scalpel("artifacts/scalpel_wikipedia.pkl")   # 3,78 M neurones
-net.load_grammar()                                     # 13 000 + 24 000 gabarits
-net.load_knowledge_packs()                             # 7 domaines, faits sourcés
-net.build_index()                                      # ~9 s, 242 903 mots
+net.load_scalpel("artifacts/scalpel_wikipedia.pkl")   # 3.78 M neurons
+net.load_grammar()                                     # 13,000 + 24,000 templates
+net.load_knowledge_packs()                             # 7 domains, sourced facts
+net.build_index()                                      # ~9 s, 242,903 words
 
 net.respond("hello, how are you?")
 # → "Hello my friend. How do you feel about this today, ..."
@@ -57,10 +57,10 @@ r["sentence"]
 #    nothing, not even light, can escape once past the event horizon. ..."
 
 net.respond("qu'est-ce que la photosynthèse")
-# → fait vérifié en français (base de connaissances bilingue)
+# → verified fact in French (bilingual knowledge base)
 ```
 
-## Ligne de commande
+## Command line
 
 ```bash
 ratisnet converse "hello, how are you?"
@@ -72,60 +72,60 @@ ratisnet prove --concepts quantum,mechanics
 ratisnet stats
 ```
 
-## Serveur HTTP (API)
+## HTTP server (API)
 
 ```bash
 ratisnet-serve --port 8000
 ```
 
-| Endpoint | Corps | Réponse |
+| Endpoint | Body | Response |
 |---|---|---|
-| `GET /health` | — | statut + statistiques du réseau |
-| `POST /respond` | `{"q": "..."}` | phrase + concepts + squelette |
-| `POST /science` | `{"q": "..."}` | réponse enrichie : faits vérifiés + LCT |
-| `POST /concepts` | `{"word": "quantum"}` | concepts classés par pertinence |
-| `POST /chain` | `{"from": "a", "to": "b"}` | chaînes d'association tracées |
-| `POST /prove` | `{"concepts": [...]}` | empreinte SHA-256 du sous-graphe |
+| `GET /health` | — | status + network statistics |
+| `POST /respond` | `{"q": "..."}` | sentence + concepts + skeleton |
+| `POST /science` | `{"q": "..."}` | enriched answer: verified facts + LCT |
+| `POST /concepts` | `{"word": "quantum"}` | concepts ranked by relevance |
+| `POST /chain` | `{"from": "a", "to": "b"}` | traced association chains |
+| `POST /prove` | `{"concepts": [...]}` | SHA-256 fingerprint of the subgraph |
 
 ---
 
-## Ce que fait le pipeline v2
+## What the v2 pipeline does
 
-![Avant / après](docs/images/language_tests.svg)
+![Before / after](docs/images/language_tests.svg)
 
-1. **query_analyzer** — détecte la langue (FR/EN), classe le type de question
-   (salutation, définition, explication, identité…), extrait mots-clés et
-   composés (« black hole »).
-2. **intent_router** — social → matrice conversationnelle (24 000 formulations) ;
-   factuel → grammaire dense (18 domaines, 12 intentions).
-3. **concept_ranker** — classe les concepts par IDF de degré, voisinage
-   partagé entre mots-clés, et complément GloVe kNN. Fini les co-occurrences
-   ubiquitaires en tête de liste.
-4. **skeleton_speaker_v2** — remplit les gabarits grammaticaux avec les
-   concepts classés, tonalité adaptée à l'intention.
-5. **knowledge packs** — faits vérifiés FR/EN sourcés (NASA, NIST, IUPAC,
-   OMS, NIH) injectés en tête de réponse quand le concept est couvert.
-6. **integrity_proof** — chaque réponse peut emporter l'empreinte SHA-256
-   du sous-graphe de corrélations qui l'a produite (vérifiable, déterministe).
+1. **query_analyzer** — detects the language (FR/EN), classifies the question type
+   (greeting, definition, explanation, identity…), extracts keywords and
+   compounds ("black hole").
+2. **intent_router** — social → conversational matrix (24,000 wordings);
+   factual → dense grammar (18 domains, 12 intents).
+3. **concept_ranker** — ranks concepts by degree IDF, shared
+   neighborhood between keywords, and GloVe kNN complement. No more
+   ubiquitous co-occurrences at the top of the list.
+4. **skeleton_speaker_v2** — fills the grammatical templates with the
+   ranked concepts, tone adapted to the intent.
+5. **knowledge packs** — sourced verified FR/EN facts (NASA, NIST, IUPAC,
+   WHO, NIH) injected at the head of the answer when the concept is covered.
+6. **integrity_proof** — each answer can carry the SHA-256 fingerprint
+   of the correlation subgraph that produced it (verifiable, deterministic).
 
-![Boucle d'apprentissage LCT](docs/images/lct_loop.svg)
+![LCT learning loop](docs/images/lct_loop.svg)
 
 ---
 
-## API Python complète
+## Full Python API
 
-| Méthode | Description |
+| Method | Description |
 |---|---|
-| `respond(q)` | Phrase de réponse (langue auto-détectée) |
-| `respond_with_science(q)` | Phrase + faits vérifiés + mesure LCT + web si inconnu |
-| `paragraph(theme, n_sentences=5)` | Paragraphe sur un thème |
-| `concepts(word, n=10)` | Concepts classés par pertinence |
-| `chain(a, b, max_hops=3)` | Chaînes d'association (corrélation, pas causalité) |
-| `prove(concepts)` | Empreinte SHA-256 du sous-graphe |
-| `verify_proof(proof)` | Vérifie qu'une empreinte se reproduit |
-| `lookup_knowledge(concept)` | Faits validés dans les 7 packs |
-| `search(query)` | Recherche web (DuckDuckGo sans clé) |
-| `stats()` | Statistiques du réseau |
+| `respond(q)` | Answer sentence (auto-detected language) |
+| `respond_with_science(q)` | Sentence + verified facts + LCT measurement + web if unknown |
+| `paragraph(theme, n_sentences=5)` | Paragraph on a theme |
+| `concepts(word, n=10)` | Concepts ranked by relevance |
+| `chain(a, b, max_hops=3)` | Association chains (correlation, not causality) |
+| `prove(concepts)` | SHA-256 fingerprint of the subgraph |
+| `verify_proof(proof)` | Checks that a fingerprint reproduces |
+| `lookup_knowledge(concept)` | Validated facts from the 7 packs |
+| `search(query)` | Web search (DuckDuckGo, keyless) |
+| `stats()` | Network statistics |
 
 ## Tests
 
@@ -133,33 +133,33 @@ ratisnet-serve --port 8000
 python -m pytest tests/ -q     # 57/57
 ```
 
-- `test_scalpel.py` — neurogenesis et renforcement LCT (8)
-- `test_ratiss_synchrotron.py` — reconstruction topologique (9)
-- `test_lct_modules.py` — qubit topologique, transformeur LCT (4)
-- `test_lct_new_systems.py` — loi LCT sur réseaux sociaux et cristaux (4)
-- `test_language_pipeline.py` — analyzer, routeur, ranker, chaînes, preuves (19)
-- `test_language_quality.py` — **test de langage bout en bout sur le vrai
-  checkpoint** : conversation, science, biologie, FR/EN (13)
+- `test_scalpel.py` — neurogenesis and LCT reinforcement (8)
+- `test_ratiss_synchrotron.py` — topological reconstruction (9)
+- `test_lct_modules.py` — topological qubit, LCT transformer (4)
+- `test_lct_new_systems.py` — LCT law on social networks and crystals (4)
+- `test_language_pipeline.py` — analyzer, router, ranker, chains, proofs (19)
+- `test_language_quality.py` — **end-to-end language test on the real
+  checkpoint**: conversation, science, biology, FR/EN (13)
 
-## Limites honnêtes
+## Honest limits
 
-1. RATIS-Net n'est pas une base de connaissances : il reconstruit à partir de
-   fragments appris ; les faits exacts viennent des knowledge packs.
-2. Grammaire à gabarits : correcte, pas aussi fluide qu'un Transformer.
-3. Le Scalpel capture des paires adjacentes après filtrage cos(GloVe) ≥ 0.3 ;
-   les composés non adjacents (« black hole ») sont reconstruits à l'analyse.
-4. Couverture = corpus Wikipedia EN + packs ; le web compense l'inconnu.
-5. Les chaînes d'association sont des corrélations tracées, pas des inférences.
-6. Le checkpoint Scalpel est anglophone ; le français passe par les gabarits
-   et les packs (multilingue complet = piste ouverte).
-7. La preuve d'intégrité SHA-256 n'est pas un ZK-STARK : elle engage sur les
-   données, elle ne prouve pas un calcul privé.
-8. Le biais du corpus persiste dans les concepts bruts (Wikipedia : « black »
-   voisine « metal ») — le ranker l'atténue, ne l'efface pas.
+1. RATIS-Net is not a knowledge base: it reconstructs from
+   learned fragments; exact facts come from the knowledge packs.
+2. Template grammar: correct, not as fluent as a Transformer.
+3. The Scalpel captures adjacent pairs after cos(GloVe) ≥ 0.3 filtering;
+   non-adjacent compounds ("black hole") are reconstructed at analysis time.
+4. Coverage = Wikipedia EN corpus + packs; the web compensates for the unknown.
+5. Association chains are traced correlations, not inferences.
+6. The Scalpel checkpoint is English; French goes through the templates
+   and the packs (full multilingual = open track).
+7. The SHA-256 integrity proof is not a ZK-STARK: it commits to the
+   data, it does not prove a private computation.
+8. Corpus bias persists in the raw concepts (Wikipedia: "black"
+   neighbors "metal") — the ranker mitigates it, does not erase it.
 
-## Propriété intellectuelle
+## Intellectual property
 
-© 2025-2026 **Jonathan Evina & JOHNKING0** — tous droits réservés.
-Licence propriétaire : voir [LICENSE](LICENSE). Aucune licence MIT ou Apache
-ne s'applique. ORCID [0009-0000-4092-5313](https://orcid.org/0009-0000-4092-5313) ·
+© 2025-2026 **Jonathan Evina & JOHNKING0** — all rights reserved.
+Proprietary license: see [LICENSE](LICENSE). No MIT or Apache
+license applies. ORCID [0009-0000-4092-5313](https://orcid.org/0009-0000-4092-5313) ·
 DOI [10.17605/OSF.IO/6JZMB](https://doi.org/10.17605/OSF.IO/6JZMB).
