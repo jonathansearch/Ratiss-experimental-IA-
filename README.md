@@ -10,7 +10,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-4f7cff)](pyproject.toml)
 [![Tests](https://img.shields.io/badge/tests-57%2F57-22c55e)](#tests)
-[![License](https://img.shields.io/badge/license-propriétaire-d97706)](LICENSE)
+[![License](https://img.shields.io/badge/license-proprietary-d97706)](LICENSE)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4092--5313-a6ce39)](https://orcid.org/0009-0000-4092-5313)
 
 > Instead of minimizing a loss by backpropagation, RATIS-Net maximizes the
@@ -25,7 +25,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/evinajonathan13-max/Ratiss-experimental-IA-.git
+git clone https://github.com/jonathansearch/Ratiss-experimental-IA-.git
 cd Ratiss-experimental-IA-
 pip install .
 git lfs install && git lfs pull          # Scalpel checkpoint (294 MB)
